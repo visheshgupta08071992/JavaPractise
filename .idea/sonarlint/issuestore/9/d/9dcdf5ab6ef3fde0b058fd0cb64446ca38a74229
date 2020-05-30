@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É÷—øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í®ìÒúÿÿÿÿ
+P
+java:S1854"5Remove this useless assignment to local variable "c".(¦À­Çùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ïßøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(îŸ¹Éúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+A
+java:S1481"&Remove this unused "c" local variable.(¦À­Çùÿÿÿÿ

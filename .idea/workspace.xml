@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="" />
+    <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayReversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CountNoOfOccuranceOfGivenCharInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/MathClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/StringClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/StringOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/supplierInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultipleArrayIntersection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultipleArrayUnion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NoOfOccuranceOfDuplicateWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Remove$fromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceWhiteSpacesFromString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseEachWordOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeparateZeroFromNonZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfNumericValuesInaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Varags.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/countOccuranceOfEachCharacterInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,10 +38,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XCCyQlwOXUnktmL8bdqDtubJ1l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/Java8Practise" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/Java8Practise" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -32,17 +68,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+  <component name="RunManager" selected="Application.supplierInterface">
+    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.MathClass" />
       <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8Practise.LambaFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceWhiteSpacesFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReplaceWhiteSpacesFromString" />
+      <module name="JavaPractise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.StringClass" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8Practise.LambaFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumericValuesInaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfNumericValuesInaString" />
+      <module name="JavaPractise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="supplierInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.supplierInterface" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8Practise.LambaFunction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.supplierInterface" />
+        <item itemvalue="Application.StringClass" />
+        <item itemvalue="Application.MathClass" />
+        <item itemvalue="Application.SumOfNumericValuesInaString" />
+        <item itemvalue="Application.ReplaceWhiteSpacesFromString" />
       </list>
     </recent_temporary>
   </component>
@@ -56,11 +142,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580540943128</updated>
-      <workItem from="1580540944369" duration="97000" />
+      <workItem from="1580540944369" duration="700000" />
+      <workItem from="1580729471730" duration="1596000" />
+      <workItem from="1581146498245" duration="5039000" />
+      <workItem from="1581341534213" duration="2622000" />
+      <workItem from="1582354683198" duration="5508000" />
+      <workItem from="1582542574511" duration="2034000" />
+      <workItem from="1582605575063" duration="19000" />
+      <workItem from="1583564317078" duration="5264000" />
+      <workItem from="1584958338439" duration="8000" />
+      <workItem from="1585317142205" duration="2411000" />
+      <workItem from="1585361609285" duration="464000" />
+      <workItem from="1587302483845" duration="308000" />
+      <workItem from="1589016558078" duration="964000" />
+      <workItem from="1589205064985" duration="171000" />
+      <workItem from="1590811645531" duration="4546000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MultipleArrayIntersection.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MultipleArrayIntersection.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MultipleArrayIntersection.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ReverseEachWordOfString.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
