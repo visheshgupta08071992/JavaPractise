@@ -1,0 +1,8 @@
+
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(¾¿¢¥ÿÿÿÿÿ8ÚÚş—¨.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¿¢¥ÿÿÿÿÿ8Øªü—¨.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÚf
+J
+java:S1128
+".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Û¦€˜¨.

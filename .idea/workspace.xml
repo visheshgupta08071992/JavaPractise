@@ -2,28 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayReversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArrayRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CountNoOfOccuranceOfGivenCharInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/MathClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/MathOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/StringClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/StringOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/supplierInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultipleArrayIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MultipleArrayUnion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NoOfOccuranceOfDuplicateWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Remove$fromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReplaceWhiteSpacesFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseEachWordOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeparateZeroFromNonZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SumOfNumericValuesInaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Varags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/countOccuranceOfEachCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/CheckBoxWithStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/Java8Distinct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/LinksWithStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/RetrieveTextFromListOfElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/RetrieveTextFromListOfElementUsingStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementUsingStreamAPICollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementWithStremAPIUsingMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementWithoutStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/TakeAnArrayAndReturnSquareOfTheArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/WeddriverWithJava8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/WindowHandleStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingCustomXpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingStreamsAnyMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingStreamsFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40a714bba735d6fab1f71bb0f42409281aa7ea8b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40a714bba735d6fab1f71bb0f42409281aa7ea8b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d8ac3e548463f17cff397921e970d0c845a695a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d8ac3e548463f17cff397921e970d0c845a695a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/619b115368b114628f0fb99b3e40ce4db81e4d03" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/619b115368b114628f0fb99b3e40ce4db81e4d03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86c1fe99fada7289a1b4bb7cf02cdec67e10d1fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86c1fe99fada7289a1b4bb7cf02cdec67e10d1fe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cae5537bdac6ec611e2ccdf3182bf0125c377b2a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cae5537bdac6ec611e2ccdf3182bf0125c377b2a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce306aa891547f97a2205def78e4d4ec84dbe25c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce306aa891547f97a2205def78e4d4ec84dbe25c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0d541723f27578abde3e31d54b2b2fc543b022" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0d541723f27578abde3e31d54b2b2fc543b022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +59,9 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="SeleniumPractise.HandlingDropDowns" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/Java8Practise" />
     </key>
@@ -68,9 +78,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.supplierInterface">
-    <configuration name="MathClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.MathClass" />
+  <component name="RunManager" selected="TestNG.SelectOptionInDropDownUsingCustomXpath">
+    <configuration name="Java8Distinct.Java8Distinct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -78,57 +87,93 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Java8Practise.LambaFunction" />
+      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.Java8Distinct" />
+      <option name="METHOD_NAME" value="Java8Distinct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReplaceWhiteSpacesFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReplaceWhiteSpacesFromString" />
-      <module name="JavaPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.StringClass" />
+    <configuration name="SelectOptionInDropDownUsingCustomXpath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8Practise.LambaFunction.*" />
+          <option name="PATTERN" value="SeleniumPractise.HandlingDropDowns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="SeleniumPractise.HandlingDropDowns" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.HandlingDropDowns.SelectOptionInDropDownUsingCustomXpath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfNumericValuesInaString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumOfNumericValuesInaString" />
-      <module name="JavaPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="supplierInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8Practise.LambaFunction.supplierInterface" />
+    <configuration name="SelectOptionInDropDownUsingIteration.iterateOverOptions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8Practise.LambaFunction.*" />
+          <option name="PATTERN" value="SeleniumPractise.HandlingDropDowns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="SeleniumPractise.HandlingDropDowns" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.HandlingDropDowns.SelectOptionInDropDownUsingIteration" />
+      <option name="METHOD_NAME" value="iterateOverOptions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectOptionInDropDownUsingStreamsAnyMatch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumPractise.HandlingDropDowns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumPractise.HandlingDropDowns" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.HandlingDropDowns.SelectOptionInDropDownUsingStreamsAnyMatch" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectOptionInDropDownUsingStreamsFilter.iterateOverOptions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SeleniumPractise.HandlingDropDowns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="SeleniumPractise.HandlingDropDowns" />
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.HandlingDropDowns.SelectOptionInDropDownUsingStreamsFilter" />
+      <option name="METHOD_NAME" value="iterateOverOptions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.supplierInterface" />
-        <item itemvalue="Application.StringClass" />
-        <item itemvalue="Application.MathClass" />
-        <item itemvalue="Application.SumOfNumericValuesInaString" />
-        <item itemvalue="Application.ReplaceWhiteSpacesFromString" />
+        <item itemvalue="TestNG.SelectOptionInDropDownUsingCustomXpath" />
+        <item itemvalue="TestNG.SelectOptionInDropDownUsingStreamsAnyMatch" />
+        <item itemvalue="TestNG.SelectOptionInDropDownUsingStreamsFilter.iterateOverOptions" />
+        <item itemvalue="TestNG.SelectOptionInDropDownUsingIteration.iterateOverOptions" />
+        <item itemvalue="TestNG.Java8Distinct.Java8Distinct" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +201,10 @@
       <workItem from="1587302483845" duration="308000" />
       <workItem from="1589016558078" duration="964000" />
       <workItem from="1589205064985" duration="171000" />
-      <workItem from="1590811645531" duration="4546000" />
+      <workItem from="1590811645531" duration="4807000" />
+      <workItem from="1591279891575" duration="7007000" />
+      <workItem from="1591447983562" duration="6603000" />
+      <workItem from="1591680111015" duration="3266000" />
     </task>
     <servers />
   </component>

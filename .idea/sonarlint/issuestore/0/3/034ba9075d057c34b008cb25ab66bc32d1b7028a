@@ -1,0 +1,10 @@
+
+M
+java:S1128
+"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Õ©“Ğ¨.
+]
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8Õ©“Ğ¨.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÀÀÓüÿÿÿÿ8ù©ğÏ¨.
+n
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(óÀÀÓüÿÿÿÿ8çÑğÏ¨.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÚf
