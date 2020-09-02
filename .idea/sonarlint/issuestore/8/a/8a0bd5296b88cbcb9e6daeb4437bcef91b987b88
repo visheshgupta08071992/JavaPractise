@@ -6,3 +6,4 @@ n	java:S120"ZRename this package name to match the regular expression '^[a-z_
 J
 java:S1128
 ".Remove this unused import 'java.util.HashSet'.(Ê‚êX8Û¦€˜¨.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ8¥Çò«µ.

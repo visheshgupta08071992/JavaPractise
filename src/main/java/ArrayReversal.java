@@ -1,6 +1,4 @@
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 public class ArrayReversal {
 
@@ -15,6 +13,7 @@ public class ArrayReversal {
         }
         System.out.println(Arrays.toString(arr1));
         System.out.println(Arrays.toString(reverseArr));
+
     }
 
     private static void arrayReverseUsingWithoutTemporaryArray(){

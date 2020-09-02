@@ -1,0 +1,11 @@
+
+>
+java:S1643"Use a StringBuilder instead.(™ºÅëÿÿÿÿÿ8˜ßû³³.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+V
+java:S1854"9Remove this useless assignment to local variable "input".(àò®°8¼…ä³³.
+9
+java:S1643"Use a StringBuilder instead.(ÿÄ’î8ùìş³³.
+G
+java:S1481"*Remove this unused "input" local variable.(àò®°8¼…ä³³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚¢€¤8Í§ÿ³³.

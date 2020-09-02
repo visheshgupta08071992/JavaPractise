@@ -1,0 +1,57 @@
+package JavaConceptOfTheDay;
+
+import java.util.HashMap;
+import java.util.Map;
+
+import org.testng.annotations.Test;
+
+public class ProgramToCheckWhetherStringIsAnagram {
+
+//    Two strings are said to be anagram if they contain same set of characters but in different order.
+//    For example, “Mother In Law” and “Hitler Woman” are anagrams.
+
+    @Test
+    public void checkAnagram() {
+        String input1="abc";
+        String input2="Dirty Room";
+        Boolean flag=true;
+        input1=input1.toLowerCase().replaceAll("\\s","");
+        input2=input2.toLowerCase().replaceAll("\\s","");
+        if(input1.length()==input2.length()){
+            char [] inputArray1=input1.toCharArray();
+            char [] inputArray2=input2.toCharArray();
+            Map<Character,Integer> map=new HashMap<Character,Integer>();
+            for(char ch :inputArray1){
+              if(map.containsKey(ch)){
+                  map.put(ch,map.get(ch) + 1);
+                  }
+              else{
+                  map.put(ch,1);
+              }
+            }
+            for(char ch :inputArray2){
+                if(map.containsKey(ch)){
+                    map.put(ch,map.get(ch) -1);
+                }
+                else{
+                    map.put(ch,1);
+                }
+            }
+            for(Map.Entry<Character,Integer> entry : map.entrySet()){
+                if(entry.getValue()!=0){
+                    System.out.println("Both the Strings are not anagram");
+                    flag=false;
+                    break;
+                }
+            }
+        }
+        else{
+            System.out.println("Both the Strings are not anagram");
+            flag=false;
+        }
+        if(flag){
+            System.out.println("Both the Strings are anagram");
+        }
+
+    }
+}

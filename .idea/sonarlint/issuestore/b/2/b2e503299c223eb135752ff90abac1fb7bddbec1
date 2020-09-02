@@ -1,2 +1,6 @@
 
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿ’åÕ8¯«Â‚µ.
 n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÚf
+U	java:S106"9Replace this use of System.out or System.err by a logger.(–×ïğ8ãÿ½‚µ.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "vishesh" 3 times.(ß–ë²8¯«Â‚µ.

@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÃäÚı8–Í¦¡¹.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ØÕàúÿÿÿÿ8–Í¦¡¹.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(šôÈû8–Í¦¡¹.
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ôã“–ùÿÿÿÿ

@@ -1,11 +1,11 @@
 package Java8Practise.LambaFunction;
 
-import org.testng.annotations.Test;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
+
+import org.testng.annotations.Test;
 
 public class Java8Distinct {
 
@@ -18,6 +18,8 @@ public class Java8Distinct {
         //Removing Duplicate names using java 8
         System.out.println("Removing duplicate names:");
         names.stream().distinct().forEach(System.out::println);
+        //annother way of printing using lambda
+        //names.stream().distinct().forEach(ele -> System.out.println(ele));
 
         //Removing Duplicate names using HashSet
         System.out.println("Removing duplicate names using Hashset:");
