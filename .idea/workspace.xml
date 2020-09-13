@@ -2,81 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CreateNewPropertyFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DuplicateElementInRows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GetAllPropertiesOfSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FindStringLengthWithUsingLenthMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/MergeTwoHashMapUsingJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArmstrongNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ContinuousSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllLeadersInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindDuplicateCharactersInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindDuplicateElementsInAnArrayUsingHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindDuplicateWordsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindFirstDuplicateCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindNoOfOccuranceOfGivenCharacterInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindSecondLargestNumberInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToFindIntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToFindUnionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/NoOfWordsInaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/PercentOfUpperLowerSpecialAndDigitINString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ProgramToCheckWhetherStringIsAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ProgramToFindAllPermutationOfAGivenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ProgramToFindFibonacciAtAGivenIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/RemoveAllWhiteSpacesFromString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/RemoveDuplicateElementsFromArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseEachWordOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateZerosFromNonZerosInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SwapTwoStringsWithoutThirdVariable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/DuplicateZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Leetcode/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadValueFromPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/DropDownHTML.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/ValidationOfSortedDropDownAscending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/ValidationOfSortedDropDownDescending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/credentials.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/034ba9075d057c34b008cb25ab66bc32d1b7028a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/034ba9075d057c34b008cb25ab66bc32d1b7028a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/361ac068eb29438b899456c4517dd7520138979d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/361ac068eb29438b899456c4517dd7520138979d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38ccb746beeb5d4716c67124a656a12d40920ef6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38ccb746beeb5d4716c67124a656a12d40920ef6" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3ca46addacf0717aca0b34866b0dc83fa331ba45" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3ca46addacf0717aca0b34866b0dc83fa331ba45" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64f2ee8288670289d5f58273d4ee4a8e896705fc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64f2ee8288670289d5f58273d4ee4a8e896705fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/json1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/json2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/json3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/ClariInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/ClariInterview2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/IcertisInterview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/IcertisSelenium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e3ddbd4325a5759bbad2b64d3cfe812c463884b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e3ddbd4325a5759bbad2b64d3cfe812c463884b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5ac053e359aa66074333334914d16df60d5cf3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5ac053e359aa66074333334914d16df60d5cf3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4049bf63500f75779b821b7d9f1334fa6db8b8aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4049bf63500f75779b821b7d9f1334fa6db8b8aa" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83cbee3764f7d405a0fbf7db420074d04ab1269a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/83cbee3764f7d405a0fbf7db420074d04ab1269a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86c1fe99fada7289a1b4bb7cf02cdec67e10d1fe" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86c1fe99fada7289a1b4bb7cf02cdec67e10d1fe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0bd5296b88cbcb9e6daeb4437bcef91b987b88" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a0bd5296b88cbcb9e6daeb4437bcef91b987b88" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95fd5c998a8906e4c70dba66cc31749c2c36cbe1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95fd5c998a8906e4c70dba66cc31749c2c36cbe1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dcdf5ab6ef3fde0b058fd0cb64446ca38a74229" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9dcdf5ab6ef3fde0b058fd0cb64446ca38a74229" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4f32a917a3f1df9556810f9e5c78584705b7892" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4f32a917a3f1df9556810f9e5c78584705b7892" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e503299c223eb135752ff90abac1fb7bddbec1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e503299c223eb135752ff90abac1fb7bddbec1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b357dc5a11a3ab781d2eb2d8b1202565182c220a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b357dc5a11a3ab781d2eb2d8b1202565182c220a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6d92f77bf2a852ea7c9b52d53f62822d9585ace" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b6d92f77bf2a852ea7c9b52d53f62822d9585ace" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c631848924b8187ebb7bce4eb4869f950383be54" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c631848924b8187ebb7bce4eb4869f950383be54" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cae5537bdac6ec611e2ccdf3182bf0125c377b2a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cae5537bdac6ec611e2ccdf3182bf0125c377b2a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce306aa891547f97a2205def78e4d4ec84dbe25c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce306aa891547f97a2205def78e4d4ec84dbe25c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0d541723f27578abde3e31d54b2b2fc543b022" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0d541723f27578abde3e31d54b2b2fc543b022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9669f46a31e007f2bf4205868b76d0880d4b283c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9669f46a31e007f2bf4205868b76d0880d4b283c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6f398f2358e2dd1750f54430b63ba4897d41cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6f398f2358e2dd1750f54430b63ba4897d41cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cebd8e8b055f461bc0a150ee53d31839dc98ae44" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cebd8e8b055f461bc0a150ee53d31839dc98ae44" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26a377c77ae9e7ae890b46cba825957b194ee1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26a377c77ae9e7ae890b46cba825957b194ee1e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractise.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArrayReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArrayReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/CheckBoxWithStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/CheckBoxWithStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/Java8Distinct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/Java8Distinct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/LinksWithStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/LinksWithStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/TakeAnArrayAndReturnSquareOfTheArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/TakeAnArrayAndReturnSquareOfTheArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ArrayReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArrayReversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/CheckBoxWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/CheckBoxWithStream.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/Java8Distinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/Java8Distinct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/LinksWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/LinksWithStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractise.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,9 +78,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SwapTwoStringsWithoutThirdVariable.swapTwoStrings">
-    <configuration name="ProgramToFindAllPermutationOfAGivenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ProgramToFindAllPermutationOfAGivenString" />
+  <component name="RunManager" selected="TestNG.JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.compareTwoJsonAndStoreUncommonResultinThirdJson">
+    <configuration name="CompareHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -145,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramToFindFibonacciAtAGivenIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ProgramToFindFibonacciAtAGivenIndex" />
+    <configuration name="IcertisInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.HandlingDropDowns.IcertisInterview" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="SeleniumPractise.HandlingDropDowns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaProgramToFindIntersectionOfTwoArrays.findIntersectionofTwoArrays" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.compareTwoJsonAndStoreUncommonResultinThirdJson" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +114,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramToFindIntersectionOfTwoArrays" />
-      <option name="METHOD_NAME" value="findIntersectionofTwoArrays" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON" />
+      <option name="METHOD_NAME" value="compareTwoJsonAndStoreUncommonResultinThirdJson" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -176,7 +123,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaProgramToFindUnionOfTwoArrays.findInterSectionOfArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -185,8 +132,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramToFindUnionOfTwoArrays" />
-      <option name="METHOD_NAME" value="findInterSectionOfArray" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
+      <option name="METHOD_NAME" value="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -194,7 +141,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapTwoStringsWithoutThirdVariable.swapTwoStrings" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -203,8 +150,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SwapTwoStringsWithoutThirdVariable" />
-      <option name="METHOD_NAME" value="swapTwoStrings" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
+      <option name="METHOD_NAME" value="SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -214,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SwapTwoStringsWithoutThirdVariable.swapTwoStrings" />
-        <item itemvalue="Application.ProgramToFindAllPermutationOfAGivenString" />
-        <item itemvalue="Application.ProgramToFindFibonacciAtAGivenIndex" />
-        <item itemvalue="TestNG.JavaProgramToFindUnionOfTwoArrays.findInterSectionOfArray" />
-        <item itemvalue="TestNG.JavaProgramToFindIntersectionOfTwoArrays.findIntersectionofTwoArrays" />
+        <item itemvalue="TestNG.JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.compareTwoJsonAndStoreUncommonResultinThirdJson" />
+        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable" />
+        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
+        <item itemvalue="Application.CompareHashMapExample" />
+        <item itemvalue="Application.IcertisInterview" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +216,9 @@
       <workItem from="1596257273025" duration="11153000" />
       <workItem from="1596824274876" duration="4091000" />
       <workItem from="1598955937474" duration="3843000" />
-      <workItem from="1546301136465" duration="446000" />
+      <workItem from="1546301136465" duration="3820000" />
+      <workItem from="1599148991783" duration="1783000" />
+      <workItem from="1599571350428" duration="7908000" />
     </task>
     <servers />
   </component>
@@ -341,6 +290,29 @@
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ProgramToFindAllPermutationOfAGivenString.java</url>
           <line>16</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java</url>
+          <line>34</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

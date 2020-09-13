@@ -1,14 +1,14 @@
 
-U	java:S1062"9Replace this use of System.out or System.err by a logger.(‘‘í 8ÀÃ”Ñ¼.
-9
-java:S1643"Use a StringBuilder instead.( §ı™8ø°ëá².
 9
 java:S1643"Use a StringBuilder instead.(¨ÑÊ„8•üàá².
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÕÑñ8ıÓëá².
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(‘‘í 8ÀÃ”Ñ¼.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Ğ•»üÿÿÿÿ8ÌÚŠá².
+9
+java:S1643"Use a StringBuilder instead.( §ı™8ø°ëá².
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
 6
 java:S2178"Correct this "&" to "&&".(Ñ—Š8ï«â².
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ª¯çÓ8†Êáá².
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
 X	java:S125+"<This block of commented-out lines of code should be removed.(ª¥Şè8ÀÃ”Ñ¼.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÕÑñ8ıÓëá².
 X	java:S125-"<This block of commented-out lines of code should be removed.(ª¥Şè8ÀÃ”Ñ¼.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Ğ•»üÿÿÿÿ8ÌÚŠá².
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ª¯çÓ8†Êáá².

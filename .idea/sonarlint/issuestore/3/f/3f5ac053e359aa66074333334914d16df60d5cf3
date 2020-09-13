@@ -1,16 +1,16 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
-h
-java:S1192"FDefine a constant instead of duplicating this literal "THREE" 4 times.(ìâ“ãýÿÿÿÿ8çÑî²³.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(‚ö’õ8çÑî²³.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ˆ†¤þÿÿÿÿ8‹†Ó²³.
-{
-java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ý½©Éûÿÿÿÿ8çÑî²³.
 U	java:S106&"9Replace this use of System.out or System.err by a logger.(ç’¤™8çÑî²³.
-{
-java:S3012#"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ý½©Éûÿÿÿÿ8çÑî²³.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™8÷ºÜ²³.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ö’õ8ýßÚ²³.
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(‚ö’õ8çÑî²³.
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†æš¶8çÑî²³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™8÷ºÜ²³.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "THREE" 4 times.(ìâ“ãýÿÿÿÿ8çÑî²³.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+{
+java:S3012#"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ý½©Éûÿÿÿÿ8çÑî²³.
+{
+java:S3012 "YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ý½©Éûÿÿÿÿ8çÑî²³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚ö’õ8ýßÚ²³.
