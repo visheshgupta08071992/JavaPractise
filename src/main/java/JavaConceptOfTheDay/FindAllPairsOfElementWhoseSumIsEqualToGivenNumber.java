@@ -23,7 +23,7 @@ public class FindAllPairsOfElementWhoseSumIsEqualToGivenNumber {
 
 	@Test
 	public void findPairsUsingHashMap(){
-		int [] arr={4, 5, 7, 11, 9, 13, 8, 12};
+		int [] arr={4, 5, 7, 11, 9,10,13, 8, 12,10};
 		int sum=20;
 		Map<Integer,Integer> map = new HashMap<Integer,Integer>();
 		for(int i:arr){

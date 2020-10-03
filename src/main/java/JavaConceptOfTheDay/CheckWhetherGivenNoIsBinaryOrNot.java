@@ -6,7 +6,7 @@ public class CheckWhetherGivenNoIsBinaryOrNot {
 
 	@Test
 	public void checkNoIsBinary(){
-		int no=105101;
+		int no=101101;
 		boolean flag=true;
 		while(no>0){
 			if((no%10) >1){

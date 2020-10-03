@@ -34,7 +34,7 @@ public class MergeSortedArray {
 		//System.out.println(Arrays.toString(num1List));
 		List num2List= Arrays.asList(nums2);
 		System.out.println(num2List.get(0));
-	//	num1List.addAll(num2List);
+		num1List.addAll(num2List);
 		Collections.sort(num1List);
 		System.out.println(num1List);
 

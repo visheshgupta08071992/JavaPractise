@@ -2,28 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/json1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/json2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/json3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/ClariInterview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/ClariInterview2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/IcertisInterview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPractise/HandlingDropDowns/IcertisSelenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e3ddbd4325a5759bbad2b64d3cfe812c463884b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e3ddbd4325a5759bbad2b64d3cfe812c463884b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5ac053e359aa66074333334914d16df60d5cf3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5ac053e359aa66074333334914d16df60d5cf3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4049bf63500f75779b821b7d9f1334fa6db8b8aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/4049bf63500f75779b821b7d9f1334fa6db8b8aa" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9669f46a31e007f2bf4205868b76d0880d4b283c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9669f46a31e007f2bf4205868b76d0880d4b283c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6f398f2358e2dd1750f54430b63ba4897d41cd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6f398f2358e2dd1750f54430b63ba4897d41cd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cebd8e8b055f461bc0a150ee53d31839dc98ae44" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cebd8e8b055f461bc0a150ee53d31839dc98ae44" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26a377c77ae9e7ae890b46cba825957b194ee1e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26a377c77ae9e7ae890b46cba825957b194ee1e" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsAscendinglySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindNoOfTimesASortedArrayIsRotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchAnElementInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/MapDoesNotReturn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/MergeSortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode/MergeSortedArray.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,44 +76,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.compareTwoJsonAndStoreUncommonResultinThirdJson">
-    <configuration name="CompareHashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample" />
+  <component name="RunManager" selected="TestNG.SearchAnElementInRotatedSortedArray.searchAnElementInRotatedSortedArray">
+    <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IcertisInterview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeleniumPractise.HandlingDropDowns.IcertisInterview" />
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SeleniumPractise.HandlingDropDowns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.compareTwoJsonAndStoreUncommonResultinThirdJson" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON" />
-      <option name="METHOD_NAME" value="compareTwoJsonAndStoreUncommonResultinThirdJson" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindNoOfTimesASortedArrayIsRotated" />
+      <option name="METHOD_NAME" value="findNoOfTimesSortedArrayIsRightRotated" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -123,17 +95,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRotated" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
-      <option name="METHOD_NAME" value="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindNoOfTimesASortedArrayIsRotated" />
+      <option name="METHOD_NAME" value="findNoOfTimesSortedArrayIsRotated" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -141,17 +113,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FindTotalOccuranceOfAnElementInSortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="BinarySearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
-      <option name="METHOD_NAME" value="SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable" />
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindTotalOccuranceOfAnElementInSortedArray" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTotalOccuranceOfAnElementInSortedArray.findTotalOccuranceOfAnElementWithinSortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindTotalOccuranceOfAnElementInSortedArray" />
+      <option name="METHOD_NAME" value="findTotalOccuranceOfAnElementWithinSortedArray" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchAnElementInRotatedSortedArray.searchAnElementInRotatedSortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchAnElementInRotatedSortedArray" />
+      <option name="METHOD_NAME" value="searchAnElementInRotatedSortedArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -161,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.compareTwoJsonAndStoreUncommonResultinThirdJson" />
-        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable" />
-        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
-        <item itemvalue="Application.CompareHashMapExample" />
-        <item itemvalue="Application.IcertisInterview" />
+        <item itemvalue="TestNG.SearchAnElementInRotatedSortedArray.searchAnElementInRotatedSortedArray" />
+        <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" />
+        <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRotated" />
+        <item itemvalue="TestNG.FindTotalOccuranceOfAnElementInSortedArray.findTotalOccuranceOfAnElementWithinSortedArray" />
+        <item itemvalue="TestNG.FindTotalOccuranceOfAnElementInSortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +225,7 @@
       <workItem from="1598955937474" duration="3843000" />
       <workItem from="1546301136465" duration="3820000" />
       <workItem from="1599148991783" duration="1783000" />
-      <workItem from="1599571350428" duration="7908000" />
+      <workItem from="1599571350428" duration="36531000" />
     </task>
     <servers />
   </component>

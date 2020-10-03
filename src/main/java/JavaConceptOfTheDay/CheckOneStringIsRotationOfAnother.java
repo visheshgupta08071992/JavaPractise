@@ -16,10 +16,9 @@ public class CheckOneStringIsRotationOfAnother {
 
 	@Test
 	public void checkOneStringIsRotationOfAnother(){
-
 		String s1="JavaJ2eeStrutsHibernate";
 		String s2="J2eeStrutsHibernateJava";
-		String s3=s1+s2;
+		String s3=s1+s1;
 		if(s3.contains(s2)){
 			System.out.println(s2 + " is rotated version of " + s1);
 		}
