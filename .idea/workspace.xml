@@ -2,26 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsAscendinglySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindNoOfTimesASortedArrayIsRotated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchAnElementInRotatedSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/MapDoesNotReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchAnElementInNearlySortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ConvertArrayListToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/ExecutionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/ResultSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/SampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/TestNg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/SauceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8Practise/LambaFunction/FilterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Leetcode/MergeSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Leetcode/MergeSortedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode/MergeSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractise.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,18 +69,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SearchAnElementInRotatedSortedArray.searchAnElementInRotatedSortedArray">
-    <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ConvertArrayListToArray.convertStringArrayListToArray">
+    <configuration name="AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.findMissingAndDuplicateNos" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindNoOfTimesASortedArrayIsRotated" />
-      <option name="METHOD_NAME" value="findNoOfTimesSortedArrayIsRightRotated" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN" />
+      <option name="METHOD_NAME" value="findMissingAndDuplicateNos" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -95,17 +88,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRotated" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ConvertArrayListToArray.convertIntegerArrayListToArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindNoOfTimesASortedArrayIsRotated" />
-      <option name="METHOD_NAME" value="findNoOfTimesSortedArrayIsRotated" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ConvertArrayListToArray" />
+      <option name="METHOD_NAME" value="convertIntegerArrayListToArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -113,34 +106,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTotalOccuranceOfAnElementInSortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ConvertArrayListToArray.convertStringArrayListToArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindTotalOccuranceOfAnElementInSortedArray" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindTotalOccuranceOfAnElementInSortedArray.findTotalOccuranceOfAnElementWithinSortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindTotalOccuranceOfAnElementInSortedArray" />
-      <option name="METHOD_NAME" value="findTotalOccuranceOfAnElementWithinSortedArray" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ConvertArrayListToArray" />
+      <option name="METHOD_NAME" value="convertStringArrayListToArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -148,7 +124,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchAnElementInRotatedSortedArray.searchAnElementInRotatedSortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SearchAnElementInNearlySortedArray.searchAnElementInNearlySortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -157,9 +133,19 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchAnElementInRotatedSortedArray" />
-      <option name="METHOD_NAME" value="searchAnElementInRotatedSortedArray" />
+      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchAnElementInNearlySortedArray" />
+      <option name="METHOD_NAME" value="searchAnElementInNearlySortedArray" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/vishesh.gupta/Desktop/JavaPractise/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -168,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SearchAnElementInRotatedSortedArray.searchAnElementInRotatedSortedArray" />
-        <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" />
-        <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRotated" />
-        <item itemvalue="TestNG.FindTotalOccuranceOfAnElementInSortedArray.findTotalOccuranceOfAnElementWithinSortedArray" />
-        <item itemvalue="TestNG.FindTotalOccuranceOfAnElementInSortedArray" />
+        <item itemvalue="TestNG.ConvertArrayListToArray.convertStringArrayListToArray" />
+        <item itemvalue="TestNG.ConvertArrayListToArray.convertIntegerArrayListToArray" />
+        <item itemvalue="TestNG./Users/vishesh.gupta/Desktop/JavaPractise/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" />
+        <item itemvalue="TestNG.AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.findMissingAndDuplicateNos" />
+        <item itemvalue="TestNG.SearchAnElementInNearlySortedArray.searchAnElementInNearlySortedArray" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +211,7 @@
       <workItem from="1598955937474" duration="3843000" />
       <workItem from="1546301136465" duration="3820000" />
       <workItem from="1599148991783" duration="1783000" />
-      <workItem from="1599571350428" duration="36531000" />
+      <workItem from="1599571350428" duration="52784000" />
     </task>
     <servers />
   </component>
@@ -320,6 +306,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java</url>
           <line>18</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

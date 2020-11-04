@@ -1,0 +1,10 @@
+<suite name="My suite">
+	<listeners>
+		<listener class-name="SeleniumMetricsUsingGrafanaAndInfluxDB.ExecutionListener" />
+	</listeners>
+	<test name="Test1">
+		<classes>
+			<class name="SeleniumMetricsUsingGrafanaAndInfluxDB.SampleTest"/>
+		</classes>
+	</test>
+</suite>
