@@ -2,19 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/SearchAnElementInNearlySortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ConvertArrayListToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/ExecutionListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/ResultSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/SampleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumMetricsUsingGrafanaAndInfluxDB/TestNg.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/SauceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SynchronizedArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumGCP/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumGCP/Resources/TestRegression.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumGCP/SauceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/00/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/00/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/01/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/01/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/02/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/02/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/03/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/03/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/04/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/04/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/05/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/05/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/06/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/06/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/_series/07/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/_internal/_series/07/0000" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/17/000000002-000000002.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/17/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/18/000000001-000000001.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/18/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/19/000000002-000000002.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/19/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/20/000000001-000000001.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/20/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/21/000000001-000000001.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/21/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/22/000000001-000000001.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/22/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/23/000000002-000000002.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/23/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/24/000000001-000000001.tsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/_internal/monitor/24/fields.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/meta/meta.db" beforeDir="false" afterPath="$PROJECT_DIR$/meta/meta.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/17/_00006.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/18/_00002.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/19/_00006.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/20/_00002.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/21/_00003.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/22/_00005.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/23/_00006.wal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wal/_internal/monitor/24/_00005.wal" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +73,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -54,6 +84,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
       <recent name="$PROJECT_DIR$/src/main/Java8Practise" />
     </key>
   </component>
@@ -69,8 +100,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ConvertArrayListToArray.convertStringArrayListToArray">
-    <configuration name="AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.findMissingAndDuplicateNos" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.CompareHashMapExample2.iterateHashMapUsingJava8">
+    <configuration name="CompareHashMapExample2.compareHashMapBasedOnValues" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +110,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN" />
-      <option name="METHOD_NAME" value="findMissingAndDuplicateNos" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
+      <option name="METHOD_NAME" value="compareHashMapBasedOnValues" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -88,7 +119,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertArrayListToArray.convertIntegerArrayListToArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CompareHashMapExample2.iterateHashMapUsingEntry" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +128,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ConvertArrayListToArray" />
-      <option name="METHOD_NAME" value="convertIntegerArrayListToArray" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
+      <option name="METHOD_NAME" value="iterateHashMapUsingEntry" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -106,7 +137,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertArrayListToArray.convertStringArrayListToArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CompareHashMapExample2.iterateHashMapUsingJava8" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +146,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ConvertArrayListToArray" />
-      <option name="METHOD_NAME" value="convertStringArrayListToArray" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
+      <option name="METHOD_NAME" value="iterateHashMapUsingJava8" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -124,17 +155,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchAnElementInNearlySortedArray.searchAnElementInNearlySortedArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CompareHashMapExample2.iterateHashMapUsingKeys" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.SearchAnElementInNearlySortedArray" />
-      <option name="METHOD_NAME" value="searchAnElementInNearlySortedArray" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
+      <option name="METHOD_NAME" value="iterateHashMapUsingKeys" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -142,10 +173,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="/Users/vishesh.gupta/Desktop/JavaPractise/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.tes" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
+      <option name="METHOD_NAME" value="tes" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -154,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ConvertArrayListToArray.convertStringArrayListToArray" />
-        <item itemvalue="TestNG.ConvertArrayListToArray.convertIntegerArrayListToArray" />
-        <item itemvalue="TestNG./Users/vishesh.gupta/Desktop/JavaPractise/src/main/java/SeleniumSaucelabs/Resources/TestRegression.xml" />
-        <item itemvalue="TestNG.AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.findMissingAndDuplicateNos" />
-        <item itemvalue="TestNG.SearchAnElementInNearlySortedArray.searchAnElementInNearlySortedArray" />
+        <item itemvalue="TestNG.CompareHashMapExample2.iterateHashMapUsingJava8" />
+        <item itemvalue="TestNG.CompareHashMapExample2.iterateHashMapUsingKeys" />
+        <item itemvalue="TestNG.CompareHashMapExample2.iterateHashMapUsingEntry" />
+        <item itemvalue="TestNG.CompareHashMapExample2.compareHashMapBasedOnValues" />
+        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.tes" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +250,7 @@
       <workItem from="1598955937474" duration="3843000" />
       <workItem from="1546301136465" duration="3820000" />
       <workItem from="1599148991783" duration="1783000" />
-      <workItem from="1599571350428" duration="52784000" />
+      <workItem from="1599571350428" duration="67734000" />
     </task>
     <servers />
   </component>
@@ -311,6 +350,34 @@
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.java</url>
           <line>27</line>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
+          <line>127</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
+          <line>185</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
+          <line>190</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
+          <line>193</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
