@@ -1,0 +1,11 @@
+
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(–şÿ‚úÿÿÿÿ8²çêÎ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ö»¬üÿÿÿÿ8²çêÎ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ñŠÎŞ8²çêÎ.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(øÈİ”úÿÿÿÿ8²çêÎ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿ
+v
+java:S1192"TDefine a constant instead of duplicating this literal " is found at index " 3 times.(Ö»¬üÿÿÿÿ8²çêÎ.
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ñŠÎŞ8²çêÎ.
+f
+java:S2583,"DChange this condition so that it does not always evaluate to "false"(ıü‡Ìûÿÿÿÿ8²çêÎ.

@@ -1,6 +1,10 @@
 
-0
-java:S1220""Move this file to a named package.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒö¿ßùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤Æ¨ßùÿÿÿÿ8ßÒøî‡/
 I
 java:S2201".The return value of "replaceAll" must be used.(Ñ…ÌÔüÿÿÿÿ
+>
+java:S1643"Use a StringBuilder instead.(’ôñØùÿÿÿÿ8 “øî‡/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒö¿ßùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+]	java:S125"<This block of commented-out lines of code should be removed.(Æ‹Œııÿÿÿÿ8ÄÇª™/

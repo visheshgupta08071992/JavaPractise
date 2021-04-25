@@ -26,7 +26,5 @@ public class FindDuplicateCharactersInString {
                 System.out.println(entry.getKey() +" is repeted " + entry.getValue() + " times" );
             }
         }
-
-
     }
 }

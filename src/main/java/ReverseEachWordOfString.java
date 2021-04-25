@@ -1,22 +1,23 @@
+import org.testng.annotations.Test;
+
 public class ReverseEachWordOfString {
 
-    public static String reverseEachWord(String input){
-        String [] words=input.split("");
-        String reverseWord="";
-        String reverseString="";
-        for(int i=0;i<words.length;i++){
-            String word=words[i];
-            for(int j=word.length()-1;j>=0;j--){
-                reverseWord=reverseWord + word.charAt(j);
-            }
-        }
-        reverseString=reverseString + reverseWord;
-        return reverseString;
-    }
+    //Input : BAD IS DAD
+    //Output: DAB SI DAD
 
-    public static void main(String[] args) {
-String reverseString=reverseEachWord("BAD IS DAD");
-        System.out.println(reverseString);
+    @Test
+    public void reverseEachWordOFString(){
+        String input="BAD IS DAD";
+        String [] inputArray=input.split(" ");
+        String reverseString="";
+        for(int i=0;i<=inputArray.length-1;i++){
+            String word=inputArray[i];
+            String reverseWord="";
+            for(int j=word.length()-1;j>=0;j--){
+                reverseWord = reverseWord + word.charAt(j);
+            }
+            reverseString=reverseString + reverseWord + " ";
+        }
         System.out.println(reverseString.trim());
     }
 }

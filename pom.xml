@@ -94,6 +94,20 @@
             <artifactId>influxdb-java</artifactId>
             <version>2.12</version>
         </dependency>
+
+        <dependency>
+            <groupId>com.mailosaur</groupId>
+            <artifactId>mailosaur-java</artifactId>
+            <version>7.0.8</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.13.1</version>
+        </dependency>
+
+
     </dependencies>
 
 

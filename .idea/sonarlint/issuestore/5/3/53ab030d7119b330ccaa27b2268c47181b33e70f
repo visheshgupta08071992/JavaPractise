@@ -1,0 +1,12 @@
+
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(À…ı²8Çá£äÎ.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(À…ı²8êéëçÎ.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(÷ßÎ¡şÿÿÿÿ8¿ĞšåÎ.
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(÷ßÎ¡şÿÿÿÿ8êéëçÎ.
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(À…ı²8ãåÎ.
+r
+java:S1192#"UDefine a constant instead of duplicating this literal "Array is not rotated" 3 times.(À…ı²8êéëçÎ.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(÷Èœ8êéëçÎ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óéÂ¨şÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(“ƒ¡û8ÂÜáäÎ.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(÷Èœ8çÆ•åÎ.

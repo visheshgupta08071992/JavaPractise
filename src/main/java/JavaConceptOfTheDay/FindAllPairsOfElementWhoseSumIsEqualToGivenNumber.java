@@ -23,7 +23,7 @@ public class FindAllPairsOfElementWhoseSumIsEqualToGivenNumber {
 
 	@Test
 	public void findPairsUsingHashMap(){
-		int [] arr={4, 5, 7, 11, 9,10,13, 8, 12,10};
+		int [] arr={4, 5, 7, 11, 9,10,13, 8, 12};
 		int sum=20;
 		Map<Integer,Integer> map = new HashMap<Integer,Integer>();
 		for(int i:arr){
@@ -43,4 +43,34 @@ public class FindAllPairsOfElementWhoseSumIsEqualToGivenNumber {
 		}
 
 		}
+
+	@Test
+	// This Test ensures that while using HashMap,Pair is formed with other nos not with the same no
+	public void findPairsUsingBruteForce1() {
+		int[] arr = {4, 5, 7, 11, 9, 13, 8, 12,10,10};
+		int sum = 20;
+		Map<Integer,Integer> map=new HashMap<>();
+		for(int i : arr){
+			if(map.containsKey(i)){
+				map.put(i,map.get(i) + 1);
+
+			}
+			else{
+				map.put(i,1);
+			}
+		}
+		for(int i=0;i<arr.length;i++){
+			int requiredNoToFormPair=sum-arr[i];
+			if(map.containsKey(requiredNoToFormPair)){
+				if(requiredNoToFormPair==arr[i]){
+					if(map.get(requiredNoToFormPair) > 1){
+						System.out.println(arr[i] + "+" + requiredNoToFormPair + " forms " + sum);
+					}
+				}
+				else {
+					System.out.println(arr[i] + "+" + requiredNoToFormPair + " forms " + sum);
+				}
+			}
+		}
+	}
 	}

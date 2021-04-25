@@ -1,0 +1,9 @@
+
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+Œ
+java:S4165"vRemove this useless assignment; "arrWithoutZeroDuplicates" already holds the assigned value along all execution paths.(øüèÔ
+V	java:S125"<This block of commented-out lines of code should be removed.(«˜Ö“ûÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(·¯À×
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ëé®øÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íÕ×¶

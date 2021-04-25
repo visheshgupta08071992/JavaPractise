@@ -1,0 +1,11 @@
+
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(’Šü
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(Ğ¶ÿ€8ì¢‘ş.
+y
+java:S1192"WDefine a constant instead of duplicating this literal "Bread butter and Bread" 3 times.(›Œ©ãøÿÿÿÿ8ïì‰‘ş.
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(«²Äÿÿÿÿÿ8™èöş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’ŸÄÿıÿÿÿÿ
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ÛÛç¹üÿÿÿÿ8‚ùüş.

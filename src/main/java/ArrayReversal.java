@@ -13,7 +13,6 @@ public class ArrayReversal {
         }
         System.out.println(Arrays.toString(arr1));
         System.out.println(Arrays.toString(reverseArr));
-
     }
 
     private static void arrayReverseUsingWithoutTemporaryArray(){
@@ -34,6 +33,6 @@ public class ArrayReversal {
     public static void main(String[] args) {
 
       arrayReverseUsingTemporaryArray();
-        arrayReverseUsingWithoutTemporaryArray();
+       // arrayReverseUsingWithoutTemporaryArray();
     }
 }

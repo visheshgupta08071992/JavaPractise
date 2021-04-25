@@ -12,8 +12,9 @@ public class MapDoesNotReturn {
 	public void mapReturnTest(){
 
 		Map<String,Integer> map= new HashMap<String,Integer>();
-		map.put("abc",1);
+		map.put("abc",2);
 
 		System.out.println(map.remove("abc"));
+		System.out.println(map);
 	}
 }

@@ -15,7 +15,7 @@ public class SeparateVowelsOnLeftAndConstantsOnRightInAGivenString {
 	@Test
 	public void SeparateVowelsOnLeftAndConstantsOnRightInAGivenString() {
 
-		String input = "ghjkamnelaed";
+		String input = "vishesh";
 		char[] inputArray = input.toCharArray();
 		char[] constantsArray = new char[inputArray.length];
 		int count = 0;
@@ -38,7 +38,7 @@ public class SeparateVowelsOnLeftAndConstantsOnRightInAGivenString {
 
 	@Test
 	public void SeparateVowelsOnLeftAndConstantsOnRightInAGivenStringWithoutUsingExtraStringVariable() {
-		String input = "abcdeig";
+		String input = "vishesh";
 		char[] inputArray = input.toCharArray();
 		int startingIndex = 0;
 		int endingIndex = inputArray.length - 1;
@@ -72,21 +72,46 @@ public class SeparateVowelsOnLeftAndConstantsOnRightInAGivenString {
 	}
 
 	@Test
-	public void tes() {
-		String input = "adheiMKo";
-		String vowel = "";
-		for (int i = 0; i < input.length(); i++) {
-			if (input.charAt(i) == 'a' || input.charAt(i) == 'e' || input.charAt(i) == 'i' || input.charAt(i) == 'o' || input.charAt(i) == 'u') {
-
-			} else {
-				char cons = input.charAt(i);
-				input = input.replace(input.charAt(i), ' ');
-				input = input + cons;
+	public void test() {
+		String s = "vishesh";
+		char [] sArray=s.toCharArray();
+		int startIndex=0;
+		int endIndex=s.length()-1;
+		while(startIndex<endIndex){
+			if(!isVowel(s.charAt(startIndex)) && isVowel(s.charAt(endIndex))){
+				char temp=s.charAt(startIndex);
+				sArray[startIndex]=sArray[endIndex];
+				sArray[endIndex]=temp;
+				startIndex++;
+				endIndex--;
 			}
+			if (isVowel(s.charAt(startIndex))) {
+				startIndex++;
+			}
+			if (!isVowel(s.charAt(endIndex))) {
 
-
+				endIndex--;
+			}
 		}
-		System.out.println(input);
+		System.out.println(Arrays.toString(sArray));
+	}
+
+	@Test
+	public void test2(){
+		String s = "vishesh";
+		char [] sArray=s.toCharArray();
+		String vowel="";
+		String consonant="";
+		for(int i=0;i<=sArray.length-1;i++){
+			if(isVowel(sArray[i])){
+				vowel=vowel+sArray[i];
+			}
+			else{
+				consonant=consonant+sArray[i];
+			}
+		}
+		System.out.println(vowel+consonant);
+
 	}
 }
 

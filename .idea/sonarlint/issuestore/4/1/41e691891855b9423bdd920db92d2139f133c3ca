@@ -1,0 +1,13 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¤¾ÓÊ8Ê²È.
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÍÃ°³ûÿÿÿÿ8ß€§²È.
+q
+java:S1192"ODefine a constant instead of duplicating this literal "/src/main/java" 3 times.(ëÜ•Ôùÿÿÿÿ8ÕÊÕ²È.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ÿüÖúÿÿÿÿ8ÎÍ²È.
+k
+java:S1192"IDefine a constant instead of duplicating this literal "user.dir" 3 times.(ëÜ•Ôùÿÿÿÿ8ÕÊÕ²È.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÁÂ­şÿÿÿÿ8Ì­Œ²È.
+V
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(˜ÈèÜıÿÿÿÿ8¿Ä£²È.

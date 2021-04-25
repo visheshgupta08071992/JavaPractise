@@ -1,0 +1,9 @@
+
+o
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(¢˜œ”8µ•ğÌı.
+\
+java:S14819"?Remove this unused "separatedString2AfterSpace" local variable.(áŞõ‚8·´ıÎı.
+9
+java:S1643V"Use a StringBuilder instead.(Òí×Ï8ÍÄñËı.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(œ¦„£ıÿÿÿÿ8ÉŸšËı.

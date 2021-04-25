@@ -151,6 +151,28 @@ public class CompareHashMapExample2 {
 		System.out.println("Additional key in Map1 is : " + combineKeys);
 	}
 
+	//Compare two maps and find the additional key in Map1 without using Hashset
+	@Test
+	public void compareHashMapAndFindAdditionalkeyInMap1WithoutUsingHashSet() {
+
+		Map<String, Integer> map1 = new HashMap<>();
+		map1.put("Akola", 1);
+		map1.put("Pune", 2);
+		map1.put("Nagpur", 3);
+		map1.put("Mumbai",4);
+
+		Map<String, Integer> map2 = new HashMap<>();
+		map2.put("Akola", 4);
+		map2.put("Pune", 2);
+		map2.put("Nagpur", 3);
+
+		for(String key:map1.keySet()){
+			if(!map2.containsKey(key)){
+				System.out.println("Additional key in Map1 is : " + key);
+			}
+		}
+	}
+
 	//Compare two hashmaps using key and value without using inbuilt equals method
 	@Test
 	public void compareHashMapBasedOnKeyAndValuePairWithoutUsingInBuiltEqualsMethod(){

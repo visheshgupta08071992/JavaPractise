@@ -1,13 +1,13 @@
 
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â¿ü8Çè’±.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·İ÷ä8Çè’±.
-Z
-java:S1197	"8Move the array designator from the variable to the type.(¾ïªıÿÿÿÿ8Çè’±.
-[
-java:S1155*">Use isEmpty() to check whether the collection is empty or not.(½§8õ÷è’±.
 0
 java:S1220""Move this file to a named package.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Â¿ü8Çè’±.
 T	java:S1064"9Replace this use of System.out or System.err by a logger.(ş‡ì8¼›šº.
+[
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(½§8õ÷è’±.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·İ÷ä8Çè’±.
 Z	java:S1066"9Replace this use of System.out or System.err by a logger.(éÌ¯éşÿÿÿÿ8¼›šº.
+Z
+java:S1197	"8Move the array designator from the variable to the type.(¾ïªıÿÿÿÿ8Çè’±.

@@ -1,11 +1,22 @@
 
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„àµØúÿÿÿÿ8ª€ø².
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
-U	java:S1061"9Replace this use of System.out or System.err by a logger.(ĞÍëğ8¾— ø².
-U	java:S106*"9Replace this use of System.out or System.err by a logger.(ĞÍëğ8¨¬›ø².
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(×ÒÉÈúÿÿÿÿ8Íê¢ø².
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(ĞÍëğ8¾— ø².
 L
-java:S54114"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ8¨¢ø².
-Z	java:S1065"9Replace this use of System.out or System.err by a logger.(×ÒÉÈúÿÿÿÿ8Íê¢ø².
+java:S5411_"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ8Ú³Åş.
 t
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ãâáıÿÿÿÿ8İÇ–ø².
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ãâáıÿÿÿÿ8İÇ–ø².
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(“¿ïÕüÿÿÿÿ8ì·„Åş.
+L
+java:S54115"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ8¨¢ø².
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(­İÒÀúÿÿÿÿ8Ò­ƒÅş.
+„
+java:S1192B"bDefine a constant instead of duplicating this literal "The given Strings are not Anagram" 3 times.(“¿ïÕüÿÿÿÿ8×ä³Åş.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„àµØúÿÿÿÿ8ª€ø².
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(“¿ïÕüÿÿÿÿ8ß¨ùÄş.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(“¿ïÕüÿÿÿÿ8ÂÌ³Åş.
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Dirty Room" 3 times.(œ‘ø8èÔÂ/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ĞÍëğ8¨¬›ø².
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(­İÒÀúÿÿÿÿ8³³Åş.

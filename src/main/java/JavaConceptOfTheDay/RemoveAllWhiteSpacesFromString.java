@@ -15,7 +15,8 @@ public class RemoveAllWhiteSpacesFromString {
         char[] charArray = input.toCharArray();     //Here we need to char and not Character
         String outputWithoutSpace="";
         for(int i=0;i<charArray.length;i++){
-            if(charArray[i] != ' ' & charArray[i] != '\t'){          //Here we need to compare space and tab in single inverted commas
+            if(charArray[i] != ' ' && charArray[i] != '\t'){          //Here we need to compare space and tab in
+                // single inverted commas
                 outputWithoutSpace=outputWithoutSpace + charArray[i];
             }
 

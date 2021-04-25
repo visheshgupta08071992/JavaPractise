@@ -1,0 +1,10 @@
+
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(€îûßÿÿÿÿÿ8Á¬¾‹ş.
+T	java:S106`"9Replace this use of System.out or System.err by a logger.(”™÷8îÛÛÃş.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ÄæºÇ8ÑÄ×Ãş.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚™²Åûÿÿÿÿ8ëâ¨‹ş.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(€îûßÿÿÿÿÿ8³ÍÛ‹ş.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÕÆ­8ÿŸ©‹ş.
+
+java:S1149""_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(õ–ÎÒúÿÿÿÿ8çÆ‹ş.

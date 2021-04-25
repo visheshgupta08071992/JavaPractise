@@ -1,0 +1,22 @@
+
+V	java:S125V"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(³šêÊùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬
+o
+java:S2293."YReplace the type specification in this constructor call with the diamond operator ("<>").(åÏœ­
+Q	java:S125"<This block of commented-out lines of code should be removed.(²á…ÿ
+V	java:S125S"<This block of commented-out lines of code should be removed.(•‰ô½úÿÿÿÿ
+t
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü”¶úÿÿÿÿ
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñ³Ş©øÿÿÿÿ
+Q	java:S125N"<This block of commented-out lines of code should be removed.(Ú°à¬
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(²á…ÿ
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(ø¾é”
+e	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ùŸ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(¯Š•™øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬

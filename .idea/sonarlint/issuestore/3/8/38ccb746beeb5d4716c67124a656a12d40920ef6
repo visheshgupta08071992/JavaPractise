@@ -1,16 +1,16 @@
 
-e
-java:S1192"HDefine a constant instead of duplicating this literal "vishesh" 3 times.(‘•âì8ÊËóë¨.
-j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üá§8«¼ïë¨.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ä›³ıÿÿÿÿ8†şÇ‚µ.
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ìŠ›Æşÿÿÿÿ8†şÇ‚µ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(äã¨ú8†şÇ‚µ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù‚úøøÿÿÿÿ8†şÇ‚µ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ùøùÿÿÿÿ8†şÇ‚µ.
-]	java:S125"<This block of commented-out lines of code should be removed.(¢ÿÃ”ûÿÿÿÿ8û¶«µ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(áÒ™ß8†şÇ‚µ.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÚf
 N
 java:S1612",Replace this lambda with a method reference.(ëõÕîıÿÿÿÿ8ó˜‹ì¨.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹Ä›³ıÿÿÿÿ8†şÇ‚µ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‰ùøùÿÿÿÿ8†şÇ‚µ.
 i
 java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Üá§8«¼ïë¨.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªÚf
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üá§8«¼ïë¨.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù‚úøøÿÿÿÿ8†şÇ‚µ.
+e
+java:S1192"HDefine a constant instead of duplicating this literal "vishesh" 3 times.(‘•âì8ÊËóë¨.
+]	java:S125"<This block of commented-out lines of code should be removed.(¢ÿÃ”ûÿÿÿÿ8û¶«µ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äã¨ú8†şÇ‚µ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áÒ™ß8†şÇ‚µ.

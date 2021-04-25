@@ -1,0 +1,30 @@
+
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(µÂ‡û8£¥³ÜÙ.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(Š¯Ğÿÿÿÿÿ8¦ˆµÜÙ.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ú¯§²üÿÿÿÿ8øšÜÙ.
+H
+java:S1481B"+Remove this unused "array1" local variable.(ùé¢î8¾öÿÜÙ.
+{
+java:S22937"YReplace the type specification in this constructor call with the diamond operator ("<>").(º˜‰™ûÿÿÿÿ8ˆù×ÜÙ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™8å»óÛÙ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€æüÌ8«äéÛÙ.
+{
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(ô ®ºşÿÿÿÿ8ëÉ­ÜÙ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€æüÌ8Ú¿‹ÜÙ.
+{
+java:S2293'"YReplace the type specification in this constructor call with the diamond operator ("<>").(£öı’ùÿÿÿÿ8á½¬ÜÙ.
+v
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Ö¼Ü8ˆù×ÜÙ.
+W
+java:S1854B":Remove this useless assignment to local variable "array1".(ùé¢î8¾öÿÜÙ.
+v
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(”Ö¼Ü8ÿîëÜÙ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8çèàÜÙ.
+v
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÊÑ‚õ8ÿîëÜÙ.
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(÷ğåŸ8¼«ïÜÙ.
+{
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(úÜ†…ÿÿÿÿÿ8©õªÜÙ.

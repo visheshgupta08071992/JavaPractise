@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„±‰8äÖ®Ú.
+{
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÃûÊ˜şÿÿÿÿ8«ºü­Ú.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(„±‰8éŸı­Ú.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(±²Ôøÿÿÿÿ8î’ü­Ú.

@@ -1,6 +1,9 @@
 
+h
+java:S1144"KRemove this unused private "arrayReverseUsingWithoutTemporaryArray" method.(ðÒö²8ŸóÅ—Ž/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êýÿÿÿÿ8¶¯†×¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼·ž›ùÿÿÿÿ8¶¯†×¹.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êýÿÿÿÿ8¶¯†×¹.
 0
 java:S1220""Move this file to a named package.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êýÿÿÿÿ8¶¯†×¹.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êýÿÿÿÿ8¶¯†×¹.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¼·ž›ùÿÿÿÿ8¶¯†×¹.
+]	java:S125$"<This block of commented-out lines of code should be removed.(Á¾øõøÿÿÿÿ8ŸóÅ—Ž/

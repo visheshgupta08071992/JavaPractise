@@ -26,4 +26,26 @@ public class CheckOneStringIsRotationOfAnother {
 			System.out.println(s2 + " is not rotated version of " + s1);
 		}
 	}
+
+	//Given No1 and No2, Find whether No2 is rotated version of
+	/*Example:
+	*
+	* If NO1 is 1234 then rotated version of N01 is
+	* 2341,3412,4123
+	* */
+
+	@Test
+	public void checkOneNoIsRotationOfAnother(){
+		int number1=1234;
+		int number2=4123;
+		String number1String=String.valueOf(number1);
+		String number2String=String.valueOf(number2);
+		String number3String=number1String + number1String;
+		if(number3String.contains(number2String)){
+			System.out.println(number2String + " is rotated version of " + number1String);
+		}
+		else{
+			System.out.println(number2String + " is not rotated version of " + number1String);
+		}
+	}
 }

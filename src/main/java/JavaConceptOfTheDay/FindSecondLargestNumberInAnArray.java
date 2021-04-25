@@ -6,7 +6,7 @@ public class FindSecondLargestNumberInAnArray {
 
 	@Test
 	public void findSecondLargest(){
-		int [] arr=new int[]{10,10,11,7,8,3,9,5,3,2,11,11};
+		int [] arr=new int[]{12,12,11,7,14,3,9,5,15,2,11,11};
 		int largest;
 		int secondLargest;
 		if(arr[0] > arr[1]){

@@ -1,0 +1,23 @@
+
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(½ì§ ûÿÿÿÿ
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(‹ÙØ¹øÿÿÿÿ
+n
+java:S1450"XRemove the "mailosaur" field and declare it as a local variable in the relevant methods.(¹¦ˆ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(ßø‡ûûÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(Ê–„Ñûÿÿÿÿ
+q
+java:S2259R"VA "NullPointerException" could be thrown; "getFirstMatchFromString()" can return null.(–¥ç®ÿÿÿÿÿ
+D
+java:S1481'")Remove this unused "wait" local variable.(ïà’‰ùÿÿÿÿ
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(Ìé°“
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(«øî
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(­ı±şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„‡Æ×şÿÿÿÿ
+M	java:S106W"9Replace this use of System.out or System.err by a logger.(£¡ùX
+L
+java:S2696"6Make the enclosing method "static" or remove this set.(ø›ç¦
+U
+java:S1858f"?"group" returns a string, there's no need to call "toString()".(ù‡çå
+S
+java:S1854'"8Remove this useless assignment to local variable "wait".(ïà’‰ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øù®Ä
