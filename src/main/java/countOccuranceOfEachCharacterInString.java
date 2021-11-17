@@ -6,7 +6,7 @@ public class countOccuranceOfEachCharacterInString {
     public static void occuranceOfEachCharacterInString(){
         String inputString="Happy is Happy";
         char [] characterArray=inputString.toCharArray();
-        HashMap<Character,Integer> h = new HashMap<Character,Integer>();
+        HashMap<Character,Integer> h = new HashMap<>();
         for (char c: characterArray) {
             if(h.containsKey(c)){
                 h.put(c,h.get(c)+1);

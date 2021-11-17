@@ -1,12 +1,10 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ΧΖαξ8°¨—Ν.
-;
-java:S2116
-"%Use "Arrays.toString(array)" instead.(ι¦¬δ
-U	java:S106
-"9Replace this use of System.out or System.err by a logger.(ι¦¬δ8°¨—Ν.
-0
-java:S1220""Move this file to a named package.
 S
 java:S1197"8Move the array designator from the variable to the type.(Ί μύÿÿÿÿ
 Z	java:S106	"9Replace this use of System.out or System.err by a logger.(σƒ™ϊÿÿÿÿ8°¨—Ν.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ι¦¬δ8°¨—Ν.
+;
+java:S2116
+"%Use "Arrays.toString(array)" instead.(ι¦¬δ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ΧΖαξ8°¨—Ν.

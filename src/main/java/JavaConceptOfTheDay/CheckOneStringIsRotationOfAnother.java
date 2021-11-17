@@ -35,7 +35,7 @@ public class CheckOneStringIsRotationOfAnother {
 	* */
 
 	@Test
-	public void checkOneNoIsRotationOfAnother(){
+	public void checkOneNoIsRotationOfAn(){
 		int number1=1234;
 		int number2=4123;
 		String number1String=String.valueOf(number1);

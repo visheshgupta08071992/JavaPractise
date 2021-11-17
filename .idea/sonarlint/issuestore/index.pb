@@ -1,20 +1,10 @@
 
 h
 8src/main/java/CountNoOfOccuranceOfGivenCharInString.java,9/d/9dcdf5ab6ef3fde0b058fd0cb64446ca38a74229
-Z
-*src/main/java/SeparateZeroFromNonZero.java,8/6/86c1fe99fada7289a1b4bb7cf02cdec67e10d1fe
-T
-$src/main/java/Remove$fromString.java,c/a/cae5537bdac6ec611e2ccdf3182bf0125c377b2a
 \
 ,src/main/java/MultipleArrayIntersection.java,4/0/40a714bba735d6fab1f71bb0f42409281aa7ea8b
-Z
-*src/main/java/ReverseEachWordOfString.java,2/3/2382d892a8770e1cbb7e6555788c32cc218da663
-h
-8src/main/java/countOccuranceOfEachCharacterInString.java,c/e/ce306aa891547f97a2205def78e4d4ec84dbe25c
 _
 /src/main/java/ReplaceWhiteSpacesFromString.java,7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a
-P
- src/main/java/ArrayReversal.java,e/d/ed0d541723f27578abde3e31d54b2b2fc543b022
 P
  src/main/java/ArrayRotation.java,c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38
 ^
@@ -33,8 +23,6 @@ j
 :src/main/java/Java8Practise/LambaFunction/StringClass.java,0/b/0b437012eb2574315ec690714f3c417725aa214d
 p
 @src/main/java/Java8Practise/LambaFunction/supplierInterface.java,c/c/cc1e41e22ff4c4e1fa39faf5957c8c86e4a04da7
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 Š
 Zsrc/main/java/Java8Practise/LambaFunction/RetrieveTextFromListOfElementUsingStreamAPI.java,b/6/b6d92f77bf2a852ea7c9b52d53f62822d9585ace
 |
@@ -79,8 +67,6 @@ s
 Csrc/main/java/SeleniumPractise/HandlingDropDowns/SelectionSort.java,f/7/f78be5ed11c2f780bf0e8bf35ac4b3f8abd44b7d
 h
 8src/main/java/NoOfOccuranceOfDuplicateWordsInString.java,6/e/6e8e9669a1641d3b63ab92179c9cf9eb6fcda07e
-O
-src/main/java/BinarySearch.java,2/3/23c2df4a0594543a60cf7dccfb23b0722cf9c37d
 T
 $src/main/java/credentials.properties,2/6/26f4ef71ed9d2151f13568f51c083a2352415b17
 [
@@ -89,12 +75,8 @@ $src/main/java/credentials.properties,2/6/26f4ef71ed9d2151f13568f51c083a2352415
 info.properties,8/7/87cc2713f5b2a621c10b5dcfc5ce1e94864d6b12
 X
 (src/main/java/CreateNewPropertyFile.java,5/f/5f0a7e6e2d0dfa381fc9f45d72b180722fceb21c
-^
-.src/main/java/ReadValueFromPropertiesFile.java,e/1/e1450eb60f3fb68c60711bc3c68bdd807931e598
 ƒ
 Ssrc/main/java/Java8Practise/LambaFunction/FindStringLengthWithUsingLenthMethod.java,3/4/34bcd78b77242b3194b31b6a642b5402dc192492
-Y
-)src/main/java/DuplicateElementInRows.java,2/6/267be5384adbe0b3d139fabd6b36636bf0e29d27
 r
 Bsrc/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java,3/b/3bc7bbaa50128205c9b51d6ae751e293d1d65e4a
 u
@@ -109,16 +91,10 @@ o
 Ksrc/main/java/JavaConceptOfTheDay/ProgramToCheckWhetherStringIsAnagram.java,4/0/4049bf63500f75779b821b7d9f1334fa6db8b8aa
 ˆ
 Xsrc/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java,c/4/c46c8fa02d902216609e3b6d4928fab6e2fc0cb7
-
-Qsrc/main/java/JavaConceptOfTheDay/FindDuplicateElementsInAnArrayUsingHashSet.java,c/e/cebd8e8b055f461bc0a150ee53d31839dc98ae44
 w
 Gsrc/main/java/JavaConceptOfTheDay/FindSecondLargestNumberInAnArray.java,9/5/9512aaf8a0da02557344699038b16cba441e077a
-{
-Ksrc/main/java/JavaConceptOfTheDay/RemoveDuplicateElementsFromArrayList.java,8/9/8992153ba20362c532c76edd314683a3af4f9613
 w
 Gsrc/main/java/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.java,6/c/6cca02628e34dea37dd957fea08dcc44a02930ce
-x
-Hsrc/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java,1/6/165295c765fde65755ad3d223e6f68ff2d9bcb38
 i
 9src/main/java/JavaConceptOfTheDay/ContinuousSubArray.java,6/2/62b9eb7389f43b3ad040e716ebc19f224ab4b428
 f
@@ -127,8 +103,6 @@ x
 Hsrc/main/java/JavaConceptOfTheDay/JavaProgramToFindUnionOfTwoArrays.java,3/f/3f5ac053e359aa66074333334914d16df60d5cf3
 
 Osrc/main/java/JavaConceptOfTheDay/JavaProgramToFindIntersectionOfTwoArrays.java,2/e/2e3ddbd4325a5759bbad2b64d3cfe812c463884b
-n
->src/main/java/JavaConceptOfTheDay/ReverseEachWordOfString.java,1/9/19ce66169a3db05180b77463a506ac4f5871d5c7
 y
 Isrc/main/java/JavaConceptOfTheDay/SeparateZerosFromNonZerosInAnArray.java,2/3/23b2600c2818c0acf54e500e0f768c53645af44a
 n
@@ -173,8 +147,6 @@ Z
 ,src/main/java/Leetcode/MergeSortedArray.java,d/8/d83ae46c0e9cd4f9b4d0a777be510e98eb9753e4
 g
 7src/main/java/JavaConceptOfTheDay/MapDoesNotReturn.java,2/4/248059b77d9ff535f7f098b4ace5020462af628a
-‹
-[src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.java,f/2/f2f9162565e13ca46c66ac88e9745588d1ce7dda
 …
 Usrc/main/java/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.java,b/6/b6c2fa86a408893f033c5496daf622fa3e0ed2ae
 z
@@ -183,8 +155,6 @@ r
 Bsrc/main/java/BinarySearch/FindNoOfTimesASortedArrayIsRotated.java,5/3/53ab030d7119b330ccaa27b2268c47181b33e70f
 s
 Csrc/main/java/BinarySearch/SearchAnElementInRotatedSortedArray.java,8/b/8b690b6fb2d9fa91a9731bb449c915955ed155d1
-Š
-Zsrc/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsAscendinglySorted.java,b/f/bf984c5f0140d00d53ce8d794d595d925cf4ea48
 r
 Bsrc/main/java/BinarySearch/SearchAnElementInNearlySortedArray.java,9/3/93216dfb6a21e296d6719746dc3040c68c4bc6dc
 †
@@ -211,8 +181,6 @@ f
 6src/main/java/SeleniumGCP/Resources/TestRegression.xml,2/b/2b5bb54595a8213df1f72db218e119fa4d8d0010
 l
 <src/main/java/JavaConceptOfTheDay/SynchronizedArrayList.java,9/4/947a85b8c2bedf3f050fd119c78548ec94d4be40
-l
-<src/main/java/JavaConceptOfTheDay/CompareHashMapExample.java,9/3/936097b4da9c167bc1a26decb7d23e1e349c5cf5
 
 Qsrc/main/java/JavaConceptOfTheDay/FindNoOfOccuranceOfGivenCharacterInAString.java,6/1/616542396731b8effa6a42f8afdc77432e74a0d6
 Œ
@@ -221,16 +189,12 @@ h
 8src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java,8/4/847f807f2ba3e21f799b53da36b22990046ef906
 s
 Csrc/main/java/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.java,e/0/e05931811a8b00af6ba6906ca5066b5ce83b9d27
-m
-=src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java,3/a/3a765a416b9217984f430957422825ea4fb01e39
 „
 Tsrc/main/java/JavaConceptOfTheDay/DetermineWhetherTheStringIsValidBasedOnBraces.java,c/c/cc3e1e8ea9519d66097b4a2e5cb3944bc8d2a9e8
 f
 6src/main/java/Java8Practise/LambaFunction/Orchard.java,a/f/af9c11626001d49f3a59969d509c7e36632d271a
 r
 Bsrc/main/java/JavaConceptOfTheDay/AppendRandomNoWithinAString.java,b/5/b57cc6e71d03f48bc78c0534216f10d059fe93f1
-ƒ
-Ssrc/main/java/EmailTestingUsingMailosaurService/EmailVerificationUsingMailsaur.java,0/c/0c709985757e05de42ba7f716bad5fa38a2efb30
 q
 Asrc/main/java/JavaConceptOfTheDay/UnderstandingTryCatchBlock.java,2/1/2113c1d71b680b196b119efe696b64886c2b6508
 f
@@ -277,3 +241,13 @@ o
 ?src/main/java/JavaConceptOfTheDay/InterviewQuestions/Coupa.java,a/b/ab30a3a4bd4bf6a0f7cabc42166d7dfc0b73e6a0
 q
 Asrc/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java,f/2/f25646017b6ad5486f79bcd31b4a10fec928699a
+ƒ
+Ssrc/main/java/EmailTestingUsingMailosaurService/EmailVerificationUsingMailsaur.java,0\c\0c709985757e05de42ba7f716bad5fa38a2efb30
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/java/BinarySearch.java,2\3\23c2df4a0594543a60cf7dccfb23b0722cf9c37d
+‹
+[src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.java,f\2\f2f9162565e13ca46c66ac88e9745588d1ce7dda
+Z
+*src/main/java/ReverseEachWordOfString.java,2\3\2382d892a8770e1cbb7e6555788c32cc218da663
