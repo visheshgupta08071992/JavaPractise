@@ -5,31 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/UnderStandNumberFormatException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c709985757e05de42ba7f716bad5fa38a2efb30" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c709985757e05de42ba7f716bad5fa38a2efb30" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/165295c765fde65755ad3d223e6f68ff2d9bcb38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19ce66169a3db05180b77463a506ac4f5871d5c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2382d892a8770e1cbb7e6555788c32cc218da663" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/2382d892a8770e1cbb7e6555788c32cc218da663" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23c2df4a0594543a60cf7dccfb23b0722cf9c37d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23c2df4a0594543a60cf7dccfb23b0722cf9c37d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/267be5384adbe0b3d139fabd6b36636bf0e29d27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a765a416b9217984f430957422825ea4fb01e39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/86c1fe99fada7289a1b4bb7cf02cdec67e10d1fe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/8992153ba20362c532c76edd314683a3af4f9613" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936097b4da9c167bc1a26decb7d23e1e349c5cf5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/f/bf984c5f0140d00d53ce8d794d595d925cf4ea48" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/cae5537bdac6ec611e2ccdf3182bf0125c377b2a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/ce306aa891547f97a2205def78e4d4ec84dbe25c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cebd8e8b055f461bc0a150ee53d31839dc98ae44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1450eb60f3fb68c60711bc3c68bdd807931e598" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed0d541723f27578abde3e31d54b2b2fc543b022" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f9162565e13ca46c66ac88e9745588d1ce7dda" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2f9162565e13ca46c66ac88e9745588d1ce7dda" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/DuplicateBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04238d3d3d1294017d56cd004cf20119c7ebb5fc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c709985757e05de42ba7f716bad5fa38a2efb30" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2113c1d71b680b196b119efe696b64886c2b6508" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34bcd78b77242b3194b31b6a642b5402dc192492" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67ca5db5df757ba229e05fae9cdb6ebe3f53d3b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c191ea7ce2a637cef1e8e0dc2febcaa0d81e526" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b36697695b236c6bd9a38f3bf7e460b18bd15f8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fb2ac6827a855c0c3257c097c99b93ddf753ab5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab30a3a4bd4bf6a0f7cabc42166d7dfc0b73e6a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f25646017b6ad5486f79bcd31b4a10fec928699a" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/countOccuranceOfEachCharacterInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/countOccuranceOfEachCharacterInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/JavaPractise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/UnderStandNumberFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/UnderStandNumberFormatException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderStandNumberFormatException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderStandNumberFormatException.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +40,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -70,7 +72,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VisheshProjects/SDETSpring/SDETSpring/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DailyCodingProblem" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -78,34 +80,46 @@
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DailyCodingProblem" />
+      <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DailyCodingProblem\001-Google" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/Java8Practise" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Java8Practise.LambaFunction" />
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-      <recent name="$PROJECT_DIR$/src/main/Java8Practise" />
-    </key>
   </component>
-  <component name="RunManager" selected="TestNG.UnderStandNumberFormatException.convertInvalidValidString">
-    <configuration name="countOccuranceOfEachCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="countOccuranceOfEachCharacterInString" />
+  <component name="RunManager" selected="TestNG.NextGreaterElementOnLeft.nextGreaterOnRightUsingStack">
+    <configuration name="BalancedBrackets" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.BalancedBrackets" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckOneStringIsRotationOfAnother.checkOneNoIsRotationOfAn" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BalancedBrackets.balancedBrackets" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CheckOneStringIsRotationOfAnother" />
-      <option name="METHOD_NAME" value="checkOneNoIsRotationOfAn" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.BalancedBrackets" />
+      <option name="METHOD_NAME" value="balancedBrackets" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -113,17 +127,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseEachWordOfString.reverseEachWordOfString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NextGreaterElementOnLeft.nextGreaterOnRightUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseEachWordOfString" />
-      <option name="METHOD_NAME" value="reverseEachWordOfString" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnLeft" />
+      <option name="METHOD_NAME" value="nextGreaterOnRightUsingStack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -131,17 +145,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderStandNumberFormatException.convertInvalidValidString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NextGreaterElementOnRight.nextGreaterOnRight" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.UnderStandNumberFormatException" />
-      <option name="METHOD_NAME" value="convertInvalidValidString" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnRight" />
+      <option name="METHOD_NAME" value="nextGreaterOnRight" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -149,17 +163,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderStandNumberFormatException.convertValidString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NextGreaterElementOnRight.nextGreaterOnRightUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.UnderStandNumberFormatException" />
-      <option name="METHOD_NAME" value="convertValidString" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnRight" />
+      <option name="METHOD_NAME" value="nextGreaterOnRightUsingStack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -169,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.UnderStandNumberFormatException.convertInvalidValidString" />
-        <item itemvalue="TestNG.UnderStandNumberFormatException.convertValidString" />
-        <item itemvalue="TestNG.CheckOneStringIsRotationOfAnother.checkOneNoIsRotationOfAn" />
-        <item itemvalue="TestNG.ReverseEachWordOfString.reverseEachWordOfString" />
-        <item itemvalue="Application.countOccuranceOfEachCharacterInString" />
+        <item itemvalue="TestNG.NextGreaterElementOnLeft.nextGreaterOnRightUsingStack" />
+        <item itemvalue="TestNG.NextGreaterElementOnRight.nextGreaterOnRightUsingStack" />
+        <item itemvalue="TestNG.NextGreaterElementOnRight.nextGreaterOnRight" />
+        <item itemvalue="TestNG.BalancedBrackets.balancedBrackets" />
+        <item itemvalue="TestNG.BalancedBrackets" />
       </list>
     </recent_temporary>
   </component>
@@ -449,6 +463,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java</url>
           <line>144</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stack/DuplicateBrackets.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -23,4 +23,16 @@ public class UnderStandNumberFormatException {
         System.out.println("String no is : " + no);
         System.out.println("Integer no is : " + number);
     }
+
+    @Test
+    public void convertNull(){
+        //NumberFormatException is thrown here
+        try{
+            int number=Integer.parseInt(null);
+        }
+        catch (NumberFormatException e){
+            System.out.println(e);
+        }
+
+    }
 }

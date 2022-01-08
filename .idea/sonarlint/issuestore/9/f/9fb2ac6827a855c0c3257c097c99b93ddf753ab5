@@ -1,26 +1,0 @@
-
-U	java:S106+"9Replace this use of System.out or System.err by a logger.(€á¹«8›Áï—/
-L
-java:S5411#"*Use the primitive boolean expression here.(´Ñë§şÿÿÿÿ8±£ï—/
-m
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¼ğî¤8¾•¨—/
-L
-java:S5411*"*Use the primitive boolean expression here.(´Ñë§şÿÿÿÿ8›Áï—/
-p
-java:S1192"SDefine a constant instead of duplicating this literal "Not a valid String" 3 times.(€á¹«8›Áï—/
-r
-java:S1149="PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Û­¥Ôşÿÿÿÿ8ö‹Û—/
-L
-java:S54112"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ8è¨ø—/
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ğî¤8¾•¨—/
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”²šüÿÿÿÿÿ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(€á¹«8õïî—/
-u	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(÷Ñ¹¸8±£ï—/
-U	java:S106$"9Replace this use of System.out or System.err by a logger.(€á¹«8±£ï—/
-T	java:S1067"9Replace this use of System.out or System.err by a logger.(ÜªË}8½Õø—/
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(Ä°œ±şÿÿÿÿ8½Õø—/
-o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(˜äİ8±£ï—/
-L
-java:S5411"*Use the primitive boolean expression here.(´Ñë§şÿÿÿÿ8õïî—/

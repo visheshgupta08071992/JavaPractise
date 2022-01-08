@@ -1,15 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ëÜÔÁúÿÿÿÿ8‡ãìÆş.
-V
-java:S4973"9Use the "equals" method if value comparison was intended.(õÁÒ—8âÕÜÆş.
-C
-java:S2129"!Remove this "Integer" constructor(•Ò¿Øıÿÿÿÿ8¾ÛÛÆş.
-[
-java:S4973"9Use the "equals" method if value comparison was intended.(†Á¸ÿÿÿÿÿ8†€ÜÆş.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ8‡ãìÆş.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ8¾ÛÛÆş.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ççíıÿÿÿÿ8÷±İÆş.
-Q
-java:S1874"/Remove this use of "Integer"; it is deprecated.(•Ò¿Øıÿÿÿÿ8¾ÛÛÆş.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(õÁÒ—8âÕÜÆş.
