@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/DuplicateBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/04238d3d3d1294017d56cd004cf20119c7ebb5fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c709985757e05de42ba7f716bad5fa38a2efb30" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2113c1d71b680b196b119efe696b64886c2b6508" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/34bcd78b77242b3194b31b6a642b5402dc192492" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67ca5db5df757ba229e05fae9cdb6ebe3f53d3b6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c191ea7ce2a637cef1e8e0dc2febcaa0d81e526" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b36697695b236c6bd9a38f3bf7e460b18bd15f8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fb2ac6827a855c0c3257c097c99b93ddf753ab5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab30a3a4bd4bf6a0f7cabc42166d7dfc0b73e6a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f25646017b6ad5486f79bcd31b4a10fec928699a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnLeft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnRight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/UnderStandNumberFormatException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/UnderStandNumberFormatException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderStandNumberFormatException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderStandNumberFormatException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnRight.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +79,8 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NextGreaterElementOnLeft.nextGreaterOnRightUsingStack">
-    <configuration name="BalancedBrackets" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.NextSmallerOnLeft.bruteForce">
+    <configuration name="NextGreaterElementOnLeft.nextGreaterOnLeft" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -101,25 +89,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.BalancedBrackets" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BalancedBrackets.balancedBrackets" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.BalancedBrackets" />
-      <option name="METHOD_NAME" value="balancedBrackets" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnLeft" />
+      <option name="METHOD_NAME" value="nextGreaterOnLeft" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,7 +116,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElementOnRight.nextGreaterOnRight" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NextSmallerOnLeft.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -154,8 +125,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnRight" />
-      <option name="METHOD_NAME" value="nextGreaterOnRight" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextSmallerOnLeft" />
+      <option name="METHOD_NAME" value="bruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -163,7 +134,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElementOnRight.nextGreaterOnRightUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NextSmallerOnLeft.nextSmallerOnLeftUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -172,8 +143,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnRight" />
-      <option name="METHOD_NAME" value="nextGreaterOnRightUsingStack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextSmallerOnLeft" />
+      <option name="METHOD_NAME" value="nextSmallerOnLeftUsingStack" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NextSmallerOnRight.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextSmallerOnRight" />
+      <option name="METHOD_NAME" value="bruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -183,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NextSmallerOnLeft.bruteForce" />
+        <item itemvalue="TestNG.NextSmallerOnRight.bruteForce" />
+        <item itemvalue="TestNG.NextGreaterElementOnLeft.nextGreaterOnLeft" />
         <item itemvalue="TestNG.NextGreaterElementOnLeft.nextGreaterOnRightUsingStack" />
-        <item itemvalue="TestNG.NextGreaterElementOnRight.nextGreaterOnRightUsingStack" />
-        <item itemvalue="TestNG.NextGreaterElementOnRight.nextGreaterOnRight" />
-        <item itemvalue="TestNG.BalancedBrackets.balancedBrackets" />
-        <item itemvalue="TestNG.BalancedBrackets" />
+        <item itemvalue="TestNG.NextSmallerOnLeft.nextSmallerOnLeftUsingStack" />
       </list>
     </recent_temporary>
   </component>
@@ -473,6 +462,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java</url>
           <line>38</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnRight.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="54" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

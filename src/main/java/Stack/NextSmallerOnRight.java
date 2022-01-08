@@ -5,52 +5,54 @@ import org.testng.annotations.Test;
 import java.util.Arrays;
 import java.util.Stack;
 
-//Aditya Verma - https://www.youtube.com/watch?v=T5s96ynzArg&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&index=3
+//Aditya Verma - https://www.youtube.com/watch?v=nc1AYFyvOR4&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&index=5
+public class NextSmallerOnRight {
 
-public class NextGreaterElementOnLeft {
 
     @Test
-    //Using Brute Force O(n2)
-    public void nextGreaterOnLeft() {
+    // o(n2)
+    public void bruteForce(){
         int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
+        // expected : 1,3,3,1,-1,6,-1,7,-1
         int[] newArr = new int[arr.length];
-        //Expected -> -1 -1 -1 9 3 -1 12 12 8
-        for(int i=arr.length-1;i>0;i--){
-            for(int j=i-1;j>=0;j--){
-                if(arr[j] > arr[i]){
+        for(int i=0;i<arr.length - 1;i++){
+            for(int j=i+1;j<arr.length;j++){
+                if(arr[j]<arr[i]){
                     newArr[i]=arr[j];
                     break;
                 }
-                if(j==0){
-                    newArr[i]=-1;
+                if(j==arr.length-1){
+                    newArr[i] = -1;
                 }
             }
         }
-        newArr[0]=-1;
+        newArr[arr.length-1]=-1;
         System.out.println(Arrays.toString(arr));
         System.out.println(Arrays.toString(newArr));
     }
 
+
     @Test
-    public void nextGreaterOnLeftUsingStack() {
+    //Using Stack O(n)
+    public void nextSmallerOnRightUsingStack() {
         int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
+        // expected : 1,3,3,1,-1,6,-1,7,-1
         int[] newArr = new int[arr.length];
         Stack<Integer> st = new Stack<Integer>();
-
-        for(int i=0;i<arr.length;i++){
+        for(int i=arr.length-1;i>=0;i--){
             if(st.isEmpty()){
                 newArr[i]=-1;
                 st.push(arr[i]);
             }
             else{
-                while(st.size()>0  && arr[i]>st.peek()){
+                while(st.size()>0 && arr[i] < st.peek()){
                     st.pop();
                 }
                 if(st.isEmpty()){
                     newArr[i]=-1;
                     st.push(arr[i]);
                 }
-                else if(arr[i]<st.peek()){
+                if(arr[i] > st.peek()){
                     newArr[i]=st.peek();
                     st.push(arr[i]);
                 }
