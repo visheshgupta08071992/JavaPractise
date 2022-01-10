@@ -45,7 +45,7 @@ public class NextSmallerOnRight {
                 st.push(arr[i]);
             }
             else{
-                while(st.size()>0 && arr[i] < st.peek()){
+                while(st.size()>0 && arr[i] <= st.peek()){
                     st.pop();
                 }
                 if(st.isEmpty()){

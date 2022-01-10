@@ -38,7 +38,8 @@ public class NextGreaterElementOnRight {
     @Test
     //Using Brute Force O(n2)
     public void nextGreaterOnRight(){
-       int [] arr={2,5,9,3,1,12,6,8,7};
+        int[] arr = {2,5,9,3,3,1,3,12,1,6,8,7,12};
+        //Expected - 5,9,12,12,12,3,12,-1,6,8,12,12,-1
         int [] newArr= new int[arr.length];
         //Expected -> 5 9 12 12 12 -1 8 -1 -1
         if (arr.length==0){
@@ -65,7 +66,9 @@ public class NextGreaterElementOnRight {
     @Test
     //Using Stack O(n)
     public void nextGreaterOnRightUsingStack() {
-        int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
+       // int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
+        int[] arr = {2,5,9,3,3,1,3,12,1,6,8,7,12};
+        //Expected - 5,9,12,12,12,3,12,-1,6,8,12,12,-1
         int[] newArr = new int[arr.length];
         Stack<Integer> st=new Stack<Integer>();
         for(int i=arr.length-1;i>=0;i--){
@@ -74,7 +77,7 @@ public class NextGreaterElementOnRight {
                 st.push(arr[i]);
             }
             else{
-                while( st.size() > 0 && arr[i] > st.peek()){
+                while( st.size() > 0 && arr[i] >= st.peek()){
                     st.pop();
                 }
                 if(st.isEmpty()){

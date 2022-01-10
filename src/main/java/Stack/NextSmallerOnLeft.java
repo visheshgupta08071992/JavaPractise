@@ -3,6 +3,7 @@ package Stack;
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
+import java.util.Map;
 import java.util.Stack;
 
 //Aditya Verma -https://www.youtube.com/watch?v=85LWui3FlVk&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&index=4
@@ -34,8 +35,8 @@ public class NextSmallerOnLeft {
         @Test
         //Using Stack O(n)
         public void nextSmallerOnLeftUsingStack() {
-            int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
-            // Expected - -1 2 5 2 -1 1 1 6 6
+            int[] arr = {12,7,8,6,1,12,3,1,3,3,9,5,2};
+            // Expected - -1 -1 7 -1 -1 1 1 -1 1 1 3 3 1
             int[] newArr = new int[arr.length];
             Stack<Integer> st=new Stack<Integer>();
             for(int i=0;i<arr.length;i++){
@@ -44,7 +45,7 @@ public class NextSmallerOnLeft {
                     st.push(arr[i]);
                 }
                 else{
-                    while(st.size()>0 && arr[i] < st.peek()){
+                    while(st.size()>0 && arr[i] <= st.peek()){
                         st.pop();
                     }
                     if(st.isEmpty()){

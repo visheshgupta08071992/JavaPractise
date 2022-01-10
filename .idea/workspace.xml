@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnLeft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/DailyTemperatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/StockSpanProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/nextGreaterToRightFromAnotherArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05931811a8b00af6ba6906ca5066b5ce83b9d27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnLeft.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnLeft.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnLeft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextSmallerOnRight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnLeft.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnRight.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +86,8 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NextSmallerOnLeft.bruteForce">
-    <configuration name="NextGreaterElementOnLeft.nextGreaterOnLeft" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DailyTemperatures.dailyTemperature">
+    <configuration name="DailyTemperatures.dailyTemperature" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +96,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnLeft" />
-      <option name="METHOD_NAME" value="nextGreaterOnLeft" />
+      <option name="MAIN_CLASS_NAME" value="Stack.DailyTemperatures" />
+      <option name="METHOD_NAME" value="dailyTemperature" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElementOnLeft.nextGreaterOnRightUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="StockSpanProblem.usingBruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -107,7 +114,42 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElementOnLeft" />
+      <option name="MAIN_CLASS_NAME" value="Stack.StockSpanProblem" />
+      <option name="METHOD_NAME" value="usingBruteForce" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nextGreaterToRightFromAnotherArr" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterToRightFromAnotherArr" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="nextGreaterToRightFromAnotherArr.nextGreaterOnRightUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterToRightFromAnotherArr" />
       <option name="METHOD_NAME" value="nextGreaterOnRightUsingStack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -116,7 +158,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextSmallerOnLeft.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="nextGreaterToRightFromAnotherArr.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -125,44 +167,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextSmallerOnLeft" />
-      <option name="METHOD_NAME" value="bruteForce" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextSmallerOnLeft.nextSmallerOnLeftUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextSmallerOnLeft" />
-      <option name="METHOD_NAME" value="nextSmallerOnLeftUsingStack" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextSmallerOnRight.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.NextSmallerOnRight" />
-      <option name="METHOD_NAME" value="bruteForce" />
+      <option name="MAIN_CLASS_NAME" value="Stack.nextGreaterToRightFromAnotherArr" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.NextSmallerOnLeft.bruteForce" />
-        <item itemvalue="TestNG.NextSmallerOnRight.bruteForce" />
-        <item itemvalue="TestNG.NextGreaterElementOnLeft.nextGreaterOnLeft" />
-        <item itemvalue="TestNG.NextGreaterElementOnLeft.nextGreaterOnRightUsingStack" />
-        <item itemvalue="TestNG.NextSmallerOnLeft.nextSmallerOnLeftUsingStack" />
+        <item itemvalue="TestNG.DailyTemperatures.dailyTemperature" />
+        <item itemvalue="TestNG.nextGreaterToRightFromAnotherArr.test" />
+        <item itemvalue="TestNG.nextGreaterToRightFromAnotherArr" />
+        <item itemvalue="TestNG.nextGreaterToRightFromAnotherArr.nextGreaterOnRightUsingStack" />
+        <item itemvalue="TestNG.StockSpanProblem.usingBruteForce" />
       </list>
     </recent_temporary>
   </component>
