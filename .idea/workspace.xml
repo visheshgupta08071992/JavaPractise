@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/FaultyKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/MajorityElement1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/MajorityElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/SquaresOfSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,26 +76,8 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FaultyKeyboard.FaultyKeyBoardWithArray">
-    <configuration name="DailyTemperatures.dailyTemperature" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.DailyTemperatures" />
-      <option name="METHOD_NAME" value="dailyTemperature" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FaultyKeyboard.FaultyKeyBoard" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MajorityElement2.findMajorityBestApproach">
+    <configuration name="MajorityElement1.findMajority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +86,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.FaultyKeyboard" />
-      <option name="METHOD_NAME" value="FaultyKeyBoard" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MajorityElement1" />
+      <option name="METHOD_NAME" value="findMajority" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -111,7 +95,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FaultyKeyboard.FaultyKeyBoardWithArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MajorityElement1.findMajorityBestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +104,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.FaultyKeyboard" />
-      <option name="METHOD_NAME" value="FaultyKeyBoardWithArray" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MajorityElement1" />
+      <option name="METHOD_NAME" value="findMajorityBestApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -129,7 +113,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FaultyKeyboard.check" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MajorityElement2.findMajority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +122,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.FaultyKeyboard" />
-      <option name="METHOD_NAME" value="check" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MajorityElement2" />
+      <option name="METHOD_NAME" value="findMajority" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -147,17 +131,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestAreaHistogram.largestAreaHistogram" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MajorityElement2.findMajorityBestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stack.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Stack" />
-      <option name="MAIN_CLASS_NAME" value="Stack.LargestAreaHistogram" />
-      <option name="METHOD_NAME" value="largestAreaHistogram" />
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MajorityElement2" />
+      <option name="METHOD_NAME" value="findMajorityBestApproach" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SquaresOfSortedArray.oOfNApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.SquaresOfSortedArray" />
+      <option name="METHOD_NAME" value="oOfNApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FaultyKeyboard.FaultyKeyBoardWithArray" />
-        <item itemvalue="TestNG.FaultyKeyboard.FaultyKeyBoard" />
-        <item itemvalue="TestNG.FaultyKeyboard.check" />
-        <item itemvalue="TestNG.LargestAreaHistogram.largestAreaHistogram" />
-        <item itemvalue="TestNG.DailyTemperatures.dailyTemperature" />
+        <item itemvalue="TestNG.MajorityElement2.findMajorityBestApproach" />
+        <item itemvalue="TestNG.MajorityElement2.findMajority" />
+        <item itemvalue="TestNG.MajorityElement1.findMajorityBestApproach" />
+        <item itemvalue="TestNG.MajorityElement1.findMajority" />
+        <item itemvalue="TestNG.SquaresOfSortedArray.oOfNApproach" />
       </list>
     </recent_temporary>
   </component>
@@ -465,12 +467,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ArraysAndStrings/FaultyKeyboard.java</url>
-          <line>80</line>
+          <line>101</line>
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ArraysAndStrings/FaultyKeyboard.java</url>
-          <line>79</line>
+          <line>100</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
       </breakpoints>
