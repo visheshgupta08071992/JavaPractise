@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/MajorityElementGeneral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/NextGreaterElement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/ProductOfArrayExceptItself.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/BrokernEconomy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/InverseAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +75,8 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ProductOfArrayExceptItself.bestSolution">
-    <configuration name="MajorityElement2.findMajorityBestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.InverseAnArray.inverseArray">
+    <configuration name="BrokernEconomy.brokenEconomy" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +85,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MajorityElement2" />
-      <option name="METHOD_NAME" value="findMajorityBestApproach" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.BrokernEconomy" />
+      <option name="METHOD_NAME" value="brokenEconomy" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -95,7 +94,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterElement3.nextGreater" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="InverseAnArray.inverseArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -104,8 +103,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.NextGreaterElement3" />
-      <option name="METHOD_NAME" value="nextGreater" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.InverseAnArray" />
+      <option name="METHOD_NAME" value="inverseArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.InverseAnArray.inverseArray" />
+        <item itemvalue="TestNG.BrokernEconomy.brokenEconomy" />
         <item itemvalue="TestNG.ProductOfArrayExceptItself.bestSolution" />
         <item itemvalue="TestNG.ProductOfArrayExceptItself.findProductOfArrayExceptItself" />
         <item itemvalue="TestNG.NextGreaterElement3.test" />
-        <item itemvalue="TestNG.NextGreaterElement3.nextGreater" />
-        <item itemvalue="TestNG.MajorityElement2.findMajorityBestApproach" />
       </list>
     </recent_temporary>
   </component>
