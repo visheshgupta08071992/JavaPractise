@@ -25,7 +25,7 @@ public class DuplicateBrackets {
     public void checkDuplicacyInBalancedExpression(){
 //        ((a + b) + (c + d)) -> false
 //        (a + b) + ((c + d)) -> true:
-        String input="(a + b) + ((c + d))";
+        String input="(((a + b) + (c + d)))";
         Stack<Character> st = new Stack<Character>();
         for(int i=0;i<input.length();i++){
             char c=input.charAt(i);
@@ -39,9 +39,10 @@ public class DuplicateBrackets {
                     while(st.peek()!='('){
                         st.pop();
                     }
+                    //Also remove the corresponding opening brace
+                    st.pop();
                 }
-                //Also remove the corresponding opening brace
-                st.pop();
+
             }
             else{
                 st.push(c);

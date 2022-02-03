@@ -6,7 +6,7 @@ push() -> Add element to Top
 pop()  -> Removes element from Top
 peek() -> Displays the Top element
 size() -> Gives the size of stack
-
+isEmpty() -> Checks whether the stack is empty
 //How to create stack
 
 Stack<Integer> st = new Stack<Integer>();

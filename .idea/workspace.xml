@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/BrokernEconomy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/InverseAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/DuplicateBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/DuplicateBrackets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.InverseAnArray.inverseArray">
+  <component name="RunManager" selected="TestNG.DuplicateBrackets.checkDuplicacyInBalancedExpression">
     <configuration name="BrokernEconomy.brokenEconomy" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -94,6 +94,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DuplicateBrackets.checkDuplicacyInBalancedExpression" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.DuplicateBrackets" />
+      <option name="METHOD_NAME" value="checkDuplicacyInBalancedExpression" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InverseAnArray.inverseArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -105,24 +123,6 @@
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.InverseAnArray" />
       <option name="METHOD_NAME" value="inverseArray" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NextGreaterElement3.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.NextGreaterElement3" />
-      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -168,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DuplicateBrackets.checkDuplicacyInBalancedExpression" />
         <item itemvalue="TestNG.InverseAnArray.inverseArray" />
         <item itemvalue="TestNG.BrokernEconomy.brokenEconomy" />
         <item itemvalue="TestNG.ProductOfArrayExceptItself.bestSolution" />
         <item itemvalue="TestNG.ProductOfArrayExceptItself.findProductOfArrayExceptItself" />
-        <item itemvalue="TestNG.NextGreaterElement3.test" />
       </list>
     </recent_temporary>
   </component>
