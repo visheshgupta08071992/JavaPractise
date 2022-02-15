@@ -1,9 +1,13 @@
 package ArraysAndStrings;
 
 /*
+
+Moores vooting Algorithmn
 * Peepcoding -> https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/arrays-and-strings/majority-element-i/ojquestion
 *
 *LeetCode -> https://leetcode.com/problems/majority-element/
+*
+* Anuj Bhaiya -> https://www.youtube.com/watch?v=X0G5jEcvroo
 *1. Give an array of size 'n'.
 2. Find Majority element and print it(if exist), otherwise print "No Majority Element exist".
 3. Majority element-> if frequency of an element is more than n/2, then that element is majority element.

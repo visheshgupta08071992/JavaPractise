@@ -46,6 +46,7 @@ public class ProductOfArrayExceptItself {
         // This code would not work if there zero in the array
         int [] arr={1,2,3,4};
         int [] result=new int[arr.length];
+        System.out.println(Arrays.toString(result));
         for(int i=0;i<arr.length;i++){
                     result[i]=1;
                     for(int j=0;j<arr.length;j++){
