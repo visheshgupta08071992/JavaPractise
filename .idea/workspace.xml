@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/ExitPointOfmatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/TransposeOfMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +74,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ExitPointOfmatrix.getExitPoint">
+  <component name="RunManager" selected="TestNG.TransposeOfMatrix.transposeWithoutAdditionalSpace">
     <configuration name="ExitPointOfmatrix.getExitPoint" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -86,24 +86,6 @@
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.ExitPointOfmatrix" />
       <option name="METHOD_NAME" value="getExitPoint" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MatrixMultiplication.matrixMultiplication" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MatrixMultiplication" />
-      <option name="METHOD_NAME" value="matrixMultiplication" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -129,7 +111,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptItself.findProductOfArrayExceptItself" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TransposeOfMatrix.transpose" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +120,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.ProductOfArrayExceptItself" />
-      <option name="METHOD_NAME" value="findProductOfArrayExceptItself" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.TransposeOfMatrix" />
+      <option name="METHOD_NAME" value="transpose" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeOfMatrix.transposeWithoutAdditionalSpace" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.TransposeOfMatrix" />
+      <option name="METHOD_NAME" value="transposeWithoutAdditionalSpace" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -167,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TransposeOfMatrix.transposeWithoutAdditionalSpace" />
+        <item itemvalue="TestNG.TransposeOfMatrix.transpose" />
         <item itemvalue="TestNG.ExitPointOfmatrix.getExitPoint" />
         <item itemvalue="TestNG.PrintMatrixInSpiral.printMatrixInSpiralWay" />
         <item itemvalue="TestNG.WaveTraversal.waveTraversal" />
-        <item itemvalue="TestNG.MatrixMultiplication.matrixMultiplication" />
-        <item itemvalue="TestNG.ProductOfArrayExceptItself.findProductOfArrayExceptItself" />
       </list>
     </recent_temporary>
   </component>
@@ -487,6 +487,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/ArraysAndStrings/PrintMatrixInSpiral.java</url>
           <line>23</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ArraysAndStrings/ExitPointOfmatrix.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
