@@ -3,7 +3,7 @@ package ArraysAndStrings;
 /*
 * Question - https://nados.io/question/max-chunks-to-make-array-sorted
 * Solution - https://www.youtube.com/watch?v=XZueXHOhO5E&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl&index=13
-*
+* LeetCode - https://leetcode.com/problems/max-chunks-to-make-sorted/submissions/
 * */
 
 import org.testng.annotations.Test;
@@ -12,7 +12,7 @@ public class MaxChunksToMakeArraySorted {
 
     @Test
     public void maxChunks(){
-        int [] arr={2,1,3,0,5,5};
+        int [] arr={2,1,3,0,5,4};
         //Expected 2 chunks
         int max=0;
         int count=0;
