@@ -75,7 +75,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DiagonalMatrixTraversal.diagonalTraverse">
+  <component name="RunManager" selected="TestNG.MaxChunksToMakeArraySorted.maxChunks">
     <configuration name="DiagonalMatrixTraversal.diagonalTraverse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -130,6 +130,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaxChunksToMakeArraySorted.maxChunks" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.MaxChunksToMakeArraySorted" />
+      <option name="METHOD_NAME" value="maxChunks" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotateMatrixBy90Degree.rotateMatrix" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -148,31 +166,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransposeOfMatrix.transposeWithoutAdditionalSpace" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.TransposeOfMatrix" />
-      <option name="METHOD_NAME" value="transposeWithoutAdditionalSpace" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MaxChunksToMakeArraySorted.maxChunks" />
         <item itemvalue="TestNG.DiagonalMatrixTraversal.diagonalTraverse" />
         <item itemvalue="TestNG.DigitFrequency.findDigitFrequencyUsingHashMap" />
         <item itemvalue="TestNG.DigitFrequency.findDigitFrequency" />
         <item itemvalue="TestNG.RotateMatrixBy90Degree.rotateMatrix" />
-        <item itemvalue="TestNG.TransposeOfMatrix.transposeWithoutAdditionalSpace" />
       </list>
     </recent_temporary>
   </component>
