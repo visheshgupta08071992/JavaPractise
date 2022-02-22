@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/RotateMatrixBy90Degree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/DiagonalMatrixTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NumberSystem/DigitFrequency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,8 +75,8 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RotateMatrixBy90Degree.rotateMatrix">
-    <configuration name="ExitPointOfmatrix.getExitPoint" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DiagonalMatrixTraversal.diagonalTraverse">
+    <configuration name="DiagonalMatrixTraversal.diagonalTraverse" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +85,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.ExitPointOfmatrix" />
-      <option name="METHOD_NAME" value="getExitPoint" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.DiagonalMatrixTraversal" />
+      <option name="METHOD_NAME" value="diagonalTraverse" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -93,17 +94,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintMatrixInSpiral.printMatrixInSpiralWay" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DigitFrequency.findDigitFrequency" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="PATTERN" value="NumberSystem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PrintMatrixInSpiral" />
-      <option name="METHOD_NAME" value="printMatrixInSpiralWay" />
+      <option name="PACKAGE_NAME" value="NumberSystem" />
+      <option name="MAIN_CLASS_NAME" value="NumberSystem.DigitFrequency" />
+      <option name="METHOD_NAME" value="findDigitFrequency" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitFrequency.findDigitFrequencyUsingHashMap" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NumberSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NumberSystem" />
+      <option name="MAIN_CLASS_NAME" value="NumberSystem.DigitFrequency" />
+      <option name="METHOD_NAME" value="findDigitFrequencyUsingHashMap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -122,24 +141,6 @@
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.RotateMatrixBy90Degree" />
       <option name="METHOD_NAME" value="rotateMatrix" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TransposeOfMatrix.transpose" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.TransposeOfMatrix" />
-      <option name="METHOD_NAME" value="transpose" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -167,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DiagonalMatrixTraversal.diagonalTraverse" />
+        <item itemvalue="TestNG.DigitFrequency.findDigitFrequencyUsingHashMap" />
+        <item itemvalue="TestNG.DigitFrequency.findDigitFrequency" />
         <item itemvalue="TestNG.RotateMatrixBy90Degree.rotateMatrix" />
         <item itemvalue="TestNG.TransposeOfMatrix.transposeWithoutAdditionalSpace" />
-        <item itemvalue="TestNG.TransposeOfMatrix.transpose" />
-        <item itemvalue="TestNG.ExitPointOfmatrix.getExitPoint" />
-        <item itemvalue="TestNG.PrintMatrixInSpiral.printMatrixInSpiralWay" />
       </list>
     </recent_temporary>
   </component>
