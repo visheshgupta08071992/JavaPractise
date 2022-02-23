@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PartitionArrayIntoDisjointIntervals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/267be5384adbe0b3d139fabd6b36636bf0e29d27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PartitionLabels.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/MaxChunksToMakeArraySorted2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/MaxChunksToMakeArraySorted2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,25 +74,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PartitionArrayIntoDisjointIntervals.test">
-    <configuration name="DiagonalMatrixTraversal.diagonalTraverse" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.DiagonalMatrixTraversal" />
-      <option name="METHOD_NAME" value="diagonalTraverse" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PartitionLabels.partitionLabels">
     <configuration name="MaxChunksToMakeArraySorted2.maxChunksToMakeArraySorted" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -168,13 +147,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PartitionLabels.partitionLabels" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PartitionLabels" />
+      <option name="METHOD_NAME" value="partitionLabels" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PartitionLabels.partitionLabels" />
         <item itemvalue="TestNG.PartitionArrayIntoDisjointIntervals.test" />
         <item itemvalue="TestNG.MaxChunksToMakeArraySorted2.maxChunksToMakeArraySorted" />
         <item itemvalue="TestNG.MaxChunksToMakeArraySorted2.test" />
         <item itemvalue="TestNG.MaxChunksToMakeArraySorted.maxChunks" />
-        <item itemvalue="TestNG.DiagonalMatrixTraversal.diagonalTraverse" />
       </list>
     </recent_temporary>
   </component>
