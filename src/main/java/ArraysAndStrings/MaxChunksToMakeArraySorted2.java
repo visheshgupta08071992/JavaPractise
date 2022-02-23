@@ -3,7 +3,7 @@ package ArraysAndStrings;
 /*
 * Question - https://nados.io/question/max-chunks-to-make-array-sorted-2
 * Answer - https://www.youtube.com/watch?v=GxTo3agdnjs&list=PL-Jc9J83PIiE-TR27GB7V5TBLQRT5RnSl&index=14
-*
+* leetcode - https://leetcode.com/problems/max-chunks-to-make-sorted-ii/submissions/
 *
 * */
 
@@ -33,9 +33,19 @@ public class MaxChunksToMakeArraySorted2 {
             }
         }
         System.out.println("Max chunks are : " + chunkCount);
-
-
     }
+
+    /*
+    * Time Complexity : O(n)
+
+      Overall time complexity of the function will be O(n) because we are using two loops which are running from 0 to n - 1 individually.
+
+
+SPACE COMPLEXITY : O(n)
+
+      Since, we created a rmin array to store “n+1” numbers, the space complexity becomes O(n).
+    *
+    * */
 
     @Test
     public void test(){
