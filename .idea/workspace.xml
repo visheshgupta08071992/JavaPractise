@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/SumOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +20,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,8 +77,8 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SumOfTwoArrays.sumOfArrays">
-    <configuration name="PartitionLabels.partitionLabels" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.AddStrings.addString">
+    <configuration name="AddStrings.addString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +87,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PartitionLabels" />
-      <option name="METHOD_NAME" value="partitionLabels" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddStrings" />
+      <option name="METHOD_NAME" value="addString" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -167,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddStrings.addString" />
         <item itemvalue="TestNG.SumOfTwoArrays.sumOfArrays" />
         <item itemvalue="TestNG.ReverseVowelOfAString.reverseVowel" />
         <item itemvalue="TestNG.SetMatrixZero.setMatrixZeroBestApprch" />
         <item itemvalue="TestNG.SetMatrixZero.setMatrixZero" />
-        <item itemvalue="TestNG.PartitionLabels.partitionLabels" />
       </list>
     </recent_temporary>
   </component>
