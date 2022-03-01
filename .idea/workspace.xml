@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddToArrayFormOfInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/DifferenceOfTwoArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AddToArrayFormOfInteger.addToArrayFormOfInteger">
+  <component name="RunManager" selected="TestNG.DifferenceOfTwoArrays.differenceOfTwoArray">
     <configuration name="AddStrings.addString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -114,6 +114,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DifferenceOfTwoArrays.differenceOfTwoArray" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.DifferenceOfTwoArrays" />
+      <option name="METHOD_NAME" value="differenceOfTwoArray" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseVowelOfAString.reverseVowel" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -125,24 +143,6 @@
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.ReverseVowelOfAString" />
       <option name="METHOD_NAME" value="reverseVowel" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SetMatrixZero.setMatrixZeroBestApprch" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.SetMatrixZero" />
-      <option name="METHOD_NAME" value="setMatrixZeroBestApprch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -170,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DifferenceOfTwoArrays.differenceOfTwoArray" />
         <item itemvalue="TestNG.AddToArrayFormOfInteger.addToArrayFormOfInteger" />
         <item itemvalue="TestNG.AddStrings.addString" />
         <item itemvalue="TestNG.SumOfTwoArrays.sumOfArrays" />
         <item itemvalue="TestNG.ReverseVowelOfAString.reverseVowel" />
-        <item itemvalue="TestNG.SetMatrixZero.setMatrixZeroBestApprch" />
       </list>
     </recent_temporary>
   </component>
