@@ -7,8 +7,6 @@ _
 /src/main/java/ReplaceWhiteSpacesFromString.java,7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a
 P
  src/main/java/ArrayRotation.java,c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38
-^
-.src/main/java/SumOfNumericValuesInaString.java,b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7
 J
 src/main/java/TargetS.java,4/d/4d8ac3e548463f17cff397921e970d0c845a695a
 U
@@ -67,14 +65,10 @@ s
 Csrc/main/java/SeleniumPractise/HandlingDropDowns/SelectionSort.java,f/7/f78be5ed11c2f780bf0e8bf35ac4b3f8abd44b7d
 h
 8src/main/java/NoOfOccuranceOfDuplicateWordsInString.java,6/e/6e8e9669a1641d3b63ab92179c9cf9eb6fcda07e
-T
-$src/main/java/credentials.properties,2/6/26f4ef71ed9d2151f13568f51c083a2352415b17
 [
 +src/main/java/GetAllPropertiesOfSystem.java,1/c/1c88a545854dc5f8e121ed0ca4d0d0f986151e04
 ?
 info.properties,8/7/87cc2713f5b2a621c10b5dcfc5ce1e94864d6b12
-X
-(src/main/java/CreateNewPropertyFile.java,5/f/5f0a7e6e2d0dfa381fc9f45d72b180722fceb21c
 r
 Bsrc/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java,3/b/3bc7bbaa50128205c9b51d6ae751e293d1d65e4a
 u
@@ -221,8 +215,6 @@ t
 Dsrc/main/java/JavaConceptOfTheDay/FindTheMissingNumberInAnArray.java,5/f/5f19ec5890121ccd79f7ce5eae051dd9af381f24
 s
 Csrc/main/java/JavaConceptOfTheDay/InterviewQuestions/CreditSui.java,0/a/0a53f53d6b416192bd44499d0e6b7fd3a662fc8c
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 O
 src/main/java/BinarySearch.java,2\3\23c2df4a0594543a60cf7dccfb23b0722cf9c37d
 ‹

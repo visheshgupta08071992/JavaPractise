@@ -5,8 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/DifferenceOfTwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/OwnerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/ReadFromPropertiesFileAndStoreInHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/ReadUsingOwnerLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/TraditionalWayReadfromPropertiesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26f4ef71ed9d2151f13568f51c083a2352415b17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f0a7e6e2d0dfa381fc9f45d72b180722fceb21c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -77,39 +89,10 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DifferenceOfTwoArrays.differenceOfTwoArray">
-    <configuration name="AddStrings.addString" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ReadUsingOwnerLibrary.readUsingOnwerLibrary">
+    <configuration name="SeparateZeroFromNonZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SeparateZeroFromNonZero" />
       <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddStrings" />
-      <option name="METHOD_NAME" value="addString" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddToArrayFormOfInteger.addToArrayFormOfInteger" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddToArrayFormOfInteger" />
-      <option name="METHOD_NAME" value="addToArrayFormOfInteger" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,17 +115,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelOfAString.reverseVowel" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadFromPropertiesFileAndStoreInHashMap.readFromPropertiesFileAndStoreInMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="PATTERN" value="PropertyFileReadingCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.ReverseVowelOfAString" />
-      <option name="METHOD_NAME" value="reverseVowel" />
+      <option name="PACKAGE_NAME" value="PropertyFileReadingCode" />
+      <option name="MAIN_CLASS_NAME" value="PropertyFileReadingCode.ReadFromPropertiesFileAndStoreInHashMap" />
+      <option name="METHOD_NAME" value="readFromPropertiesFileAndStoreInMap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -150,17 +133,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTwoArrays.sumOfArrays" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadUsingOwnerLibrary.readUsingOnwerLibrary" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="PATTERN" value="PropertyFileReadingCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.SumOfTwoArrays" />
-      <option name="METHOD_NAME" value="sumOfArrays" />
+      <option name="PACKAGE_NAME" value="PropertyFileReadingCode" />
+      <option name="MAIN_CLASS_NAME" value="PropertyFileReadingCode.ReadUsingOwnerLibrary" />
+      <option name="METHOD_NAME" value="readUsingOnwerLibrary" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TraditionalWayReadfromPropertiesFile.readFromPropertiesFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PropertyFileReadingCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="PropertyFileReadingCode" />
+      <option name="MAIN_CLASS_NAME" value="PropertyFileReadingCode.TraditionalWayReadfromPropertiesFile" />
+      <option name="METHOD_NAME" value="readFromPropertiesFile" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -170,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ReadUsingOwnerLibrary.readUsingOnwerLibrary" />
+        <item itemvalue="TestNG.ReadFromPropertiesFileAndStoreInHashMap.readFromPropertiesFileAndStoreInMap" />
+        <item itemvalue="TestNG.TraditionalWayReadfromPropertiesFile.readFromPropertiesFile" />
+        <item itemvalue="Application.SeparateZeroFromNonZero" />
         <item itemvalue="TestNG.DifferenceOfTwoArrays.differenceOfTwoArray" />
-        <item itemvalue="TestNG.AddToArrayFormOfInteger.addToArrayFormOfInteger" />
-        <item itemvalue="TestNG.AddStrings.addString" />
-        <item itemvalue="TestNG.SumOfTwoArrays.sumOfArrays" />
-        <item itemvalue="TestNG.ReverseVowelOfAString.reverseVowel" />
       </list>
     </recent_temporary>
   </component>
