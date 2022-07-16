@@ -5,19 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/OwnerInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/ReadFromPropertiesFileAndStoreInHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/ReadUsingOwnerLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/TraditionalWayReadfromPropertiesFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PropertyFileReadingCode/config.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26f4ef71ed9d2151f13568f51c083a2352415b17" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f0a7e6e2d0dfa381fc9f45d72b180722fceb21c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/6/b62a2cf3ae5abf90b62a708a10bc0d05c80836c7" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/SumTargetSumUniquePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/TargetSumPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SortAnHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/157ec63d142f5a1b8005ab6bf2f49b0b4477aac9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/165295c765fde65755ad3d223e6f68ff2d9bcb38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/248059b77d9ff535f7f098b4ace5020462af628a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a765a416b9217984f430957422825ea4fb01e39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bc7bbaa50128205c9b51d6ae751e293d1d65e4a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/847f807f2ba3e21f799b53da36b22990046ef906" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936097b4da9c167bc1a26decb7d23e1e349c5cf5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a0c5a5bc2be4a0b67d2df363c396597868ae1abc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9cfffdacc3f1fd12cc5cba41bc14ce0a9c18369" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6f398f2358e2dd1750f54430b63ba4897d41cd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c46c8fa02d902216609e3b6d4928fab6e2fc0cb7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7a2557461eef5f6826d4f44d8d129e47d6ba23b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f017e87b86b8ec2b38dbccf03d947f425ff88885" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fafe813d17aafa5140a797ae9326e7b66c2e1a3a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fca721c02feed80473ebdfa2d10904f537dccfa1" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/OwnerInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/OwnerInterface.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +82,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DailyCodingProblem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VisheshProjects/RestAPIAutomationUsingRestAssured/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
@@ -85,29 +97,23 @@
       <recent name="$PROJECT_DIR$/src/main/Java8Practise" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DSAPreparation.NeetCode.Array" />
       <recent name="Java8Practise.LambaFunction" />
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ReadUsingOwnerLibrary.readUsingOnwerLibrary">
-    <configuration name="SeparateZeroFromNonZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SeparateZeroFromNonZero" />
-      <module name="JavaPractise" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DifferenceOfTwoArrays.differenceOfTwoArray" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SumTargetSumUniquePairs.perfectApproach">
+    <configuration name="SumTargetSumUniquePairs.perfectApproach" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.DifferenceOfTwoArrays" />
-      <option name="METHOD_NAME" value="differenceOfTwoArray" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SumTargetSumUniquePairs" />
+      <option name="METHOD_NAME" value="perfectApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -115,17 +121,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadFromPropertiesFileAndStoreInHashMap.readFromPropertiesFileAndStoreInMap" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SumTargetSumUniquePairs.returnTargetSumPair" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PropertyFileReadingCode.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PropertyFileReadingCode" />
-      <option name="MAIN_CLASS_NAME" value="PropertyFileReadingCode.ReadFromPropertiesFileAndStoreInHashMap" />
-      <option name="METHOD_NAME" value="readFromPropertiesFileAndStoreInMap" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SumTargetSumUniquePairs" />
+      <option name="METHOD_NAME" value="returnTargetSumPair" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -133,17 +139,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadUsingOwnerLibrary.readUsingOnwerLibrary" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SumTargetSumUniquePairs.returnUniquePair" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PropertyFileReadingCode.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PropertyFileReadingCode" />
-      <option name="MAIN_CLASS_NAME" value="PropertyFileReadingCode.ReadUsingOwnerLibrary" />
-      <option name="METHOD_NAME" value="readUsingOnwerLibrary" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SumTargetSumUniquePairs" />
+      <option name="METHOD_NAME" value="returnUniquePair" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -151,17 +157,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TraditionalWayReadfromPropertiesFile.readFromPropertiesFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TargetSumPair.returnTargetSumPair" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PropertyFileReadingCode.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="PropertyFileReadingCode" />
-      <option name="MAIN_CLASS_NAME" value="PropertyFileReadingCode.TraditionalWayReadfromPropertiesFile" />
-      <option name="METHOD_NAME" value="readFromPropertiesFile" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.TargetSumPair" />
+      <option name="METHOD_NAME" value="returnTargetSumPair" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum.oNApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.NeetCode.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.NeetCode.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.NeetCode.Array.TwoSum" />
+      <option name="METHOD_NAME" value="oNApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -171,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ReadUsingOwnerLibrary.readUsingOnwerLibrary" />
-        <item itemvalue="TestNG.ReadFromPropertiesFileAndStoreInHashMap.readFromPropertiesFileAndStoreInMap" />
-        <item itemvalue="TestNG.TraditionalWayReadfromPropertiesFile.readFromPropertiesFile" />
-        <item itemvalue="Application.SeparateZeroFromNonZero" />
-        <item itemvalue="TestNG.DifferenceOfTwoArrays.differenceOfTwoArray" />
+        <item itemvalue="TestNG.SumTargetSumUniquePairs.perfectApproach" />
+        <item itemvalue="TestNG.SumTargetSumUniquePairs.returnUniquePair" />
+        <item itemvalue="TestNG.TargetSumPair.returnTargetSumPair" />
+        <item itemvalue="TestNG.SumTargetSumUniquePairs.returnTargetSumPair" />
+        <item itemvalue="TestNG.TwoSum.oNApproach" />
       </list>
     </recent_temporary>
   </component>
