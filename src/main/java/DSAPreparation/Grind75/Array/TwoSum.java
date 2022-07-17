@@ -37,6 +37,9 @@ Given an array of integers nums and an integer target, return indices of the two
 
 import org.testng.annotations.Test;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class TwoSum {
 
     @Test
@@ -50,6 +53,23 @@ public class TwoSum {
                     System.out.println("Indices forming target are : " + i + " and " + j);
                     break;
                 }
+            }
+        }
+    }
+
+    @Test
+    public void oNApproach() {
+        int [] arr={3,2,3};
+        int target=6;
+        //Creating Hashmap for storing value of array and its index
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i=0;i<arr.length;i++){
+            if(map.containsKey(target - arr[i])){
+                System.out.println("Indices forming target are : " + map.get(target - arr[i]) + " and " + i);
+                break;
+            }
+            else{
+                map.put(arr[i],i);
             }
         }
     }

@@ -24,13 +24,20 @@ public class SumTargetSumUniquePairs {
         Map<Integer,Integer> map = new HashMap<>();
         for(int i=0;i<arr.length;i++){
 
-                map.put(arr[i], arr[i]);
+            if(map.containsKey(i)){
+                map.put(i,map.get(i) + 1);
+
+            }
+            else{
+                map.put(i,1);
+            }
 
         }
 
         for(int i=0;i<arr.length;i++){
-            if(map.containsKey(target -arr[i])){
-                System.out.println(arr[i] + " " + map.get(target -arr[i]));
+            int pairNo=target -arr[i];
+            if(map.containsKey(pairNo)){
+                System.out.println(arr[i] + " " + pairNo);
             }
         }
     }
