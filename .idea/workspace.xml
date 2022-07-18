@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/Sort012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/conatinsDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Sort012.sort012UsingON">
+  <component name="RunManager" selected="TestNG.conatinsDuplicate.test">
     <configuration name="Sort012.sort012UsingO2N" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -152,7 +152,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum.oNApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="conatinsDuplicate.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -161,8 +161,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.TwoSum" />
-      <option name="METHOD_NAME" value="oNApproach" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.conatinsDuplicate" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.conatinsDuplicate.test" />
         <item itemvalue="TestNG.Sort012.sort012UsingON" />
         <item itemvalue="TestNG.Sort012.sort012UsingO2N" />
         <item itemvalue="TestNG.ThreeSum.threeSum" />
         <item itemvalue="TestNG.SumTargetSumUniquePairs.returnUniquePair" />
-        <item itemvalue="TestNG.TwoSum.oNApproach (1)" />
       </list>
     </recent_temporary>
   </component>
