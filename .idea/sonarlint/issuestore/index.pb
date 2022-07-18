@@ -71,8 +71,6 @@ h
 info.properties,8/7/87cc2713f5b2a621c10b5dcfc5ce1e94864d6b12
 u
 Esrc/main/java/JavaConceptOfTheDay/RemoveAllWhiteSpacesFromString.java,9/6/9669f46a31e007f2bf4205868b76d0880d4b283c
-z
-Jsrc/main/java/JavaConceptOfTheDay/FindFirstDuplicateCharacterInString.java,6/5/65a7ef2feb3614b16d0ee46450d4c4356f37767c
 v
 Fsrc/main/java/JavaConceptOfTheDay/FindDuplicateCharactersInString.java,d/7/d7076f9889a887e0b4a5e08a866cda2da43f5dac
 {

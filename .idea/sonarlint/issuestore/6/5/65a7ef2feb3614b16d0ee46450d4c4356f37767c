@@ -1,6 +1,0 @@
-
-X	java:S125"<This block of commented-out lines of code should be removed.(¿šÚü8ñ›¸â².
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤¡›ýÿÿÿÿ8×º¹â².
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•þ¤®ýÿÿÿÿ8ù«³â².
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
