@@ -16,6 +16,8 @@ Moores vooting Algorithmn
 * Array = [2,2,1,1,1,2,2]
 Array = [1, 1, 5, 5, 3, 6]
 *
+Refer the solution in Grid75 Array folder
+
 * */
 
 import org.testng.annotations.Test;
