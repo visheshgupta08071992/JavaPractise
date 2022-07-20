@@ -6,6 +6,36 @@ import java.util.*;
 
 public class groupAnagrams {
 
+
+    @Test
+    public void groupAnagramBestApproach(){
+        String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
+        Map<Map<Character,Integer>,ArrayList<String>> bigMap=new HashMap<>();
+
+        for(String s:strs){
+            Map<Character,Integer> map=new HashMap<>();
+            for(int i=0;i<s.length();i++){
+                if(map.containsKey(s.charAt(i))){
+                    map.put(s.charAt(i),map.get(s.charAt(i)) + 1);
+                }
+                else{
+                    map.put(s.charAt(i),1);
+                }
+            }
+            if(bigMap.containsKey(map)){
+                ArrayList<String> list=bigMap.get(map);
+                list.add(s);
+            }
+            else{
+                ArrayList<String> list = new ArrayList<>();
+                list.add(s);
+                bigMap.put(map,list);
+            }
+        }
+        System.out.println(bigMap.values());
+    }
+
+
     @Test
     /*This approach uses o(n2) complexity and does not work for
     * Input -> ["",""]
