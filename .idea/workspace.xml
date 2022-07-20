@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validAnagram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +80,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.validAnagram.usingSort">
+  <component name="RunManager" selected="TestNG.groupAnagrams.groupAnagram">
     <configuration name="MajorityElement1.findMajority" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -116,17 +117,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductOfArrayExceptItself.findProductOfArrayExceptUsingDivision" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="groupAnagrams.groupAnagram" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ProductOfArrayExceptItself" />
-      <option name="METHOD_NAME" value="findProductOfArrayExceptUsingDivision" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
+      <option name="METHOD_NAME" value="groupAnagram" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.groupAnagrams.groupAnagram" />
         <item itemvalue="TestNG.validAnagram.usingSort" />
         <item itemvalue="TestNG.validAnagram.usingHashMap" />
         <item itemvalue="TestNG.MajorityElement1.findMajorityBestSolution" />
         <item itemvalue="TestNG.MajorityElement1.findMajority" />
-        <item itemvalue="TestNG.ProductOfArrayExceptItself.findProductOfArrayExceptUsingDivision" />
       </list>
     </recent_temporary>
   </component>
@@ -520,8 +521,23 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validAnagram.java</url>
-          <line>76</line>
+          <line>80</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="70" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
