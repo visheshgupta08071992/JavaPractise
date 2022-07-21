@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/findAllAnagramsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/findAllAnagramsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.findAllAnagramsInAString.findAllAnagram">
+  <component name="RunManager" selected="TestNG.permutationInString.findPermutation">
     <configuration name="CompareHashMapExample2.compareHashMapAndFindAdditionalkeyInMap1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -108,24 +108,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.findAllAnagramsInAString" />
       <option name="METHOD_NAME" value="findAllAnagram" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="groupAnagrams.groupAnagram" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
-      <option name="METHOD_NAME" value="groupAnagram" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -169,13 +151,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="permutationInString.findPermutation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.permutationInString" />
+      <option name="METHOD_NAME" value="findPermutation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.permutationInString.findPermutation" />
         <item itemvalue="TestNG.findAllAnagramsInAString.findAllAnagram" />
         <item itemvalue="TestNG.CompareHashMapExample2.compareHashMapAndFindAdditionalkeyInMap1" />
         <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting" />
         <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproach" />
-        <item itemvalue="TestNG.groupAnagrams.groupAnagram" />
       </list>
     </recent_temporary>
   </component>
