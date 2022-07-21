@@ -4,12 +4,41 @@ import org.testng.annotations.Test;
 
 import java.util.*;
 
+/*
+* leetcode - https://leetcode.com/problems/group-anagrams/
+* pepcoding code - https://www.youtube.com/watch?v=NNBQik4phMI
+* */
+
 public class groupAnagrams {
 
 
     @Test
+    public void groupAnagramBestApproachUsingSorting(){
+       // String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
+        String[] strs = {"",""};
+        Map<String,List<String>> map=new HashMap<>();
+
+        for(String str:strs){
+            char [] ch = str.toCharArray();
+            Arrays.sort(ch);
+            String str1=String.valueOf(ch);
+            if(map.containsKey(str1)){
+              List<String> list=map.get(str1);
+              list.add(str);
+            }
+            else{
+                List<String> list=new ArrayList<>();
+                list.add(str);
+                map.put(str1,list);
+            }
+        }
+        System.out.println(map.values());
+    }
+
+    @Test
     public void groupAnagramBestApproach(){
         String[] strs = {"eat", "tea", "tan", "ate", "nat", "bat"};
+        //String[] strs = {"",""};
         Map<Map<Character,Integer>,ArrayList<String>> bigMap=new HashMap<>();
 
         for(String s:strs){

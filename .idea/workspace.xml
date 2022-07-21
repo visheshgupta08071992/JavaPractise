@@ -79,25 +79,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.groupAnagrams.groupAnagramBestApproach">
-    <configuration name="MajorityElement1.findMajorityBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MajorityElement1" />
-      <option name="METHOD_NAME" value="findMajorityBestSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting">
     <configuration name="groupAnagrams.groupAnagram" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -127,6 +109,24 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
       <option name="METHOD_NAME" value="groupAnagramBestApproach" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="groupAnagrams.groupAnagramBestApproachUsingSorting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
+      <option name="METHOD_NAME" value="groupAnagramBestApproachUsingSorting" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting" />
         <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproach" />
         <item itemvalue="TestNG.groupAnagrams.groupAnagram" />
         <item itemvalue="TestNG.validAnagram.usingSort" />
         <item itemvalue="TestNG.validAnagram.usingHashMap" />
-        <item itemvalue="TestNG.MajorityElement1.findMajorityBestSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -525,8 +525,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java</url>
-          <line>98</line>
+          <line>126</line>
           <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/groupAnagrams.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
