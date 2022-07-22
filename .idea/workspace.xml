@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortStudentObjectUsingComparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortStudentObjectUsingComparater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +81,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.permutationInString.findPermutation">
+  <component name="RunManager" selected="TestNG.SortStudentObjectUsingComparater.sortUsingComparater">
     <configuration name="CompareHashMapExample2.compareHashMapAndFindAdditionalkeyInMap1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -97,6 +100,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SortStudentObjectUsingComparable.sort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
+      <option name="METHOD_NAME" value="sort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortStudentObjectUsingComparater.sortUsingComparater" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparater" />
+      <option name="METHOD_NAME" value="sortUsingComparater" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="findAllAnagramsInAString.findAllAnagram" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -108,42 +147,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.findAllAnagramsInAString" />
       <option name="METHOD_NAME" value="findAllAnagram" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="groupAnagrams.groupAnagramBestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
-      <option name="METHOD_NAME" value="groupAnagramBestApproach" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="groupAnagrams.groupAnagramBestApproachUsingSorting" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
-      <option name="METHOD_NAME" value="groupAnagramBestApproachUsingSorting" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -171,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SortStudentObjectUsingComparater.sortUsingComparater" />
+        <item itemvalue="TestNG.SortStudentObjectUsingComparable.sort" />
         <item itemvalue="TestNG.permutationInString.findPermutation" />
         <item itemvalue="TestNG.findAllAnagramsInAString.findAllAnagram" />
         <item itemvalue="TestNG.CompareHashMapExample2.compareHashMapAndFindAdditionalkeyInMap1" />
-        <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting" />
-        <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproach" />
       </list>
     </recent_temporary>
   </component>
