@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortStudentObjectUsingComparable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortStudentObjectUsingComparater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortHaspMap/SortHashMapBasedOnKeysUsingTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SortHaspMap/SortHashMapUsingKeysOrValuesUsingJava8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,18 +80,18 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SortStudentObjectUsingComparater.sortUsingComparater">
-    <configuration name="CompareHashMapExample2.compareHashMapAndFindAdditionalkeyInMap1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnKeysInReverseOrder">
+    <configuration name="SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnKeys" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="SortHaspMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
-      <option name="METHOD_NAME" value="compareHashMapAndFindAdditionalkeyInMap1" />
+      <option name="PACKAGE_NAME" value="SortHaspMap" />
+      <option name="MAIN_CLASS_NAME" value="SortHaspMap.SortHashMapUsingKeysOrValuesUsingJava8" />
+      <option name="METHOD_NAME" value="sortMapBasedOnKeys" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -100,17 +99,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStudentObjectUsingComparable.sort" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnKeysInReverseOrder" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="PATTERN" value="SortHaspMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
-      <option name="METHOD_NAME" value="sort" />
+      <option name="PACKAGE_NAME" value="SortHaspMap" />
+      <option name="MAIN_CLASS_NAME" value="SortHaspMap.SortHashMapUsingKeysOrValuesUsingJava8" />
+      <option name="METHOD_NAME" value="sortMapBasedOnKeysInReverseOrder" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -118,17 +117,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStudentObjectUsingComparater.sortUsingComparater" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnValues (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="PATTERN" value="SortHaspMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparater" />
-      <option name="METHOD_NAME" value="sortUsingComparater" />
+      <option name="PACKAGE_NAME" value="SortHaspMap" />
+      <option name="MAIN_CLASS_NAME" value="SortHaspMap.SortHashMapUsingKeysOrValuesUsingJava8" />
+      <option name="METHOD_NAME" value="sortMapBasedOnValues" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -136,17 +135,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findAllAnagramsInAString.findAllAnagram" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnValues" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="SortHaspMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.findAllAnagramsInAString" />
-      <option name="METHOD_NAME" value="findAllAnagram" />
+      <option name="PACKAGE_NAME" value="SortHaspMap" />
+      <option name="MAIN_CLASS_NAME" value="SortHaspMap.SortHashMapUsingKeysOrValuesUsingJava8" />
+      <option name="METHOD_NAME" value="sortMapBasedOnValues" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -154,17 +153,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="permutationInString.findPermutation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnValuesInReverseOrder" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="SortHaspMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.permutationInString" />
-      <option name="METHOD_NAME" value="findPermutation" />
+      <option name="PACKAGE_NAME" value="SortHaspMap" />
+      <option name="MAIN_CLASS_NAME" value="SortHaspMap.SortHashMapUsingKeysOrValuesUsingJava8" />
+      <option name="METHOD_NAME" value="sortMapBasedOnValuesInReverseOrder" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -174,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SortStudentObjectUsingComparater.sortUsingComparater" />
-        <item itemvalue="TestNG.SortStudentObjectUsingComparable.sort" />
-        <item itemvalue="TestNG.permutationInString.findPermutation" />
-        <item itemvalue="TestNG.findAllAnagramsInAString.findAllAnagram" />
-        <item itemvalue="TestNG.CompareHashMapExample2.compareHashMapAndFindAdditionalkeyInMap1" />
+        <item itemvalue="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnKeysInReverseOrder" />
+        <item itemvalue="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnKeys" />
+        <item itemvalue="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnValuesInReverseOrder" />
+        <item itemvalue="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnValues (1)" />
+        <item itemvalue="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnValues" />
       </list>
     </recent_temporary>
   </component>
