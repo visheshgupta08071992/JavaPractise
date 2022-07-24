@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/PriorityQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PriorityQueue-Heap/UnderstandingPriorityQueue" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PriorityQueue-Heap/UnderstandingPriorityQueue.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/UnderstandingPriorityQueue.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/UnderstandingPriorityQueue.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/UnderstandingPriorityQueue.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,18 +83,18 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PriorityQueueTest.understandPQ4">
-    <configuration name="PriorityQueueTest.understandPQ" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KthLargestElement.findKthLargestElement">
+    <configuration name="KthLargestElement.findKthLargestElement" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnderstandPriorityQueue.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="UnderstandPriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="UnderstandPriorityQueue.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="understandPQ" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.KthLargestElement" />
+      <option name="METHOD_NAME" value="findKthLargestElement" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -178,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.KthLargestElement.findKthLargestElement" />
         <item itemvalue="TestNG.PriorityQueueTest.understandPQ4" />
         <item itemvalue="TestNG.PriorityQueueTest.understandPQ3" />
         <item itemvalue="TestNG.PriorityQueueTest.understandPQ2" />
         <item itemvalue="TestNG.PriorityQueueTest.understandPQ1" />
-        <item itemvalue="TestNG.PriorityQueueTest.understandPQ" />
       </list>
     </recent_temporary>
   </component>

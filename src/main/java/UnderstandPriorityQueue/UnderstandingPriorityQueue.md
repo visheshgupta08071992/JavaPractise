@@ -22,7 +22,10 @@ poll - It is used to fetch and remove the first element of Queue.
 PriorityQueue<Integer> pq = new PriorityQueue<>(); -------- Default declaration with priority given to smaller elements
   
 PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder()); --------Priority given to Larger elements  
-  
+
+## Complexity
+Time Complexity of adding an element to Priority Queue in n(logn).Also removing an 
+element form Priority Queue is also of n(logn) complexity
 
 ## Referance
 
