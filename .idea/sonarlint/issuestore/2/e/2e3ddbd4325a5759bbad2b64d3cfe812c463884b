@@ -1,17 +1,0 @@
-
-h
-java:S1192"FDefine a constant instead of duplicating this literal "THREE" 6 times.(ìâ“ãıÿÿÿÿ8è‰¬³³.
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(ç’¤™8ê›´³³.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™8½û£³³.
-{
-java:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ˆ†¤şÿÿÿÿ8­£Ç½.
-u
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘ğÂ68Ë ¡³³.
-v
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(†æš¶8è‰¬³³.
-b
-java:S1192"FDefine a constant instead of duplicating this literal "SEVEN" 3 times.(Ìšƒm8­£Ç½.
-{
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜ˆ†¤şÿÿÿÿ8ä×ı²³.
-Z	java:S1062"9Replace this use of System.out or System.err by a logger.(ı¶ƒ¯ûÿÿÿÿ8£ø­Ç½.
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
