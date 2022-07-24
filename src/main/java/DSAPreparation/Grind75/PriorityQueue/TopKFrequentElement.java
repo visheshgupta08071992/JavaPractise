@@ -1,4 +1,4 @@
-package DSAPreparation.NeetCode.Array;
+package DSAPreparation.Grind75.PriorityQueue;
 
 import org.testng.annotations.Test;
 

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/UnderstandingPriorityQueue.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/UnderstandingPriorityQueue.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,12 +78,13 @@
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\UnderstandPriorityQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DSAPreparation.Grind75.PriorityQueue" />
       <recent name="DSAPreparation.NeetCode.Array" />
       <recent name="Java8Practise.LambaFunction" />
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.KthLargestElement.findKthLargestElement">
+  <component name="RunManager" selected="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue (1)">
     <configuration name="KthLargestElement.findKthLargestElement" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -102,17 +103,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest.understandPQ1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnderstandPriorityQueue.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="UnderstandPriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="UnderstandPriorityQueue.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="understandPQ1" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="findTopKFrequentElementUsingPriorityQueue" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -120,17 +121,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest.understandPQ2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnderstandPriorityQueue.*" />
+          <option name="PATTERN" value="DSAPreparation.NeetCode.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="UnderstandPriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="UnderstandPriorityQueue.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="understandPQ2" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.NeetCode.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.NeetCode.Array.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="findTopKFrequentElementUsingPriorityQueue" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -138,17 +139,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest.understandPQ3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnderstandPriorityQueue.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="UnderstandPriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="UnderstandPriorityQueue.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="understandPQ3" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="topKFrequentElementBySortingHashMapWithValues" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -156,17 +157,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PriorityQueueTest.understandPQ4" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UnderstandPriorityQueue.*" />
+          <option name="PATTERN" value="DSAPreparation.NeetCode.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="UnderstandPriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="UnderstandPriorityQueue.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="understandPQ4" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.NeetCode.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.NeetCode.Array.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="topKFrequentElementBySortingHashMapWithValues" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue (1)" />
+        <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues (1)" />
+        <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" />
+        <item itemvalue="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" />
         <item itemvalue="TestNG.KthLargestElement.findKthLargestElement" />
-        <item itemvalue="TestNG.PriorityQueueTest.understandPQ4" />
-        <item itemvalue="TestNG.PriorityQueueTest.understandPQ3" />
-        <item itemvalue="TestNG.PriorityQueueTest.understandPQ2" />
-        <item itemvalue="TestNG.PriorityQueueTest.understandPQ1" />
       </list>
     </recent_temporary>
   </component>
@@ -549,18 +550,31 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java</url>
-          <line>35</line>
+          <line>33</line>
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java</url>
-          <line>59</line>
+          <line>60</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java</url>
           <line>51</line>
           <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java</url>
+          <line>100</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
