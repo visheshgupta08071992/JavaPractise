@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -553,7 +555,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java</url>
-          <line>35</line>
+          <line>51</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
       </breakpoints>
