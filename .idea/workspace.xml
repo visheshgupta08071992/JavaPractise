@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex">
+  <component name="RunManager" selected="TestNG.LongestConsecutiveSequence">
     <configuration name="JavaProgramToFindIntersectionOfTwoArrays.findIntersectionofTwoArraysUsingHashMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -171,8 +170,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex" />
         <item itemvalue="TestNG.LongestConsecutiveSequence" />
+        <item itemvalue="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex" />
         <item itemvalue="TestNG.JavaProgramToFindIntersectionOfTwoArrays.findIntersectionofTwoArraysUsingHashMap" />
         <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElement" />
         <item itemvalue="TestNG.SortHashMapUsingKeysOrValuesUsingJava8.sortMapBasedOnKeysInReverseOrder" />

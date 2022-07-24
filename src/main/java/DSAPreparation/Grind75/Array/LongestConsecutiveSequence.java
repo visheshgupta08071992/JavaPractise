@@ -4,6 +4,22 @@ package DSAPreparation.Grind75.Array;
 * LeetCode - https://leetcode.com/problems/longest-consecutive-sequence/
 * Pepcoding - https://www.youtube.com/watch?v=YWXbu5uyGXs
 *
+* Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+
+You must write an algorithm that runs in O(n) time.
+
+
+
+Example 1:
+
+Input: nums = [100,4,200,1,3,2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+Example 2:
+
+Input: nums = [0,3,7,2,5,8,4,6,0,1]
+Output: 9
+*
 * */
 
 import org.testng.annotations.Test;
@@ -34,6 +50,7 @@ public class LongestConsecutiveSequence {
 
         //Sequence starts with element which are mapped to true
         int max=0;
+        int maxStartPoint=0;
         for(int i=0;i<arr.length;i++){
             if(map.get(arr[i]) == true){
                 int count=1;
@@ -43,10 +60,18 @@ public class LongestConsecutiveSequence {
                     j++;
                 }
                 if(count > max){
+                    maxStartPoint=arr[i];
                     max = count;
                 }
             }
         }
-        System.out.println(max);
+        //Printing the length of largest consecutive sequency
+        System.out.println("Size of Max Seqence is : "+ max);
+        System.out.println("Max Consecutive  Seqence is : ");
+        //Printing the largets consecutive index
+        for(int i=0;i<max;i++){
+            System.out.println(maxStartPoint);
+            maxStartPoint++;
+        }
     }
 }
