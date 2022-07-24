@@ -8,9 +8,14 @@ By default First Priority is given to smaller elements in Priority Queue. But th
 
 add - Adds element in Priority Queue.
 
-remove - Removes element from Priority Queue.
+remove - Removes element from Priority Queue. We do not need to pass any element to remove function. It automatically
+removes the first element based on Priority.
 
-peek - Displays the top element based on priority
+peek - Displays the first element based on priority.
+
+size - Gives the size of priority queue.
+
+poll - It is used to fetch and remove the first element of Queue.
 
 ## Declaring Priority Queue
 
