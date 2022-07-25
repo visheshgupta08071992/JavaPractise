@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,25 +83,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue (1)">
-    <configuration name="KthLargestElement.findKthLargestElement" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.KthLargestElement" />
-      <option name="METHOD_NAME" value="findKthLargestElement" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.TopKFrequentWords.findTopKFrequentWords">
     <configuration name="TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -175,13 +156,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TopKFrequentWords.findTopKFrequentWords" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentWords" />
+      <option name="METHOD_NAME" value="findTopKFrequentWords" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TopKFrequentWords.findTopKFrequentWords" />
         <item itemvalue="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue (1)" />
         <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues (1)" />
         <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" />
         <item itemvalue="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" />
-        <item itemvalue="TestNG.KthLargestElement.findKthLargestElement" />
       </list>
     </recent_temporary>
   </component>
@@ -575,6 +574,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/NeetCode/Array/TopKFrequentElement.java</url>
           <line>83</line>
           <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
