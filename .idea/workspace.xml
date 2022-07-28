@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestCommonPrefix.findLongestCommonPrefix">
+  <component name="RunManager" selected="TestNG.LongestCommonPrefix.anotherApproachWithoutUsingSort">
     <configuration name="LargestNo.findLargestNo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -102,6 +102,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestCommonPrefix.anotherApproachWithoutUsingSort" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestCommonPrefix" />
+      <option name="METHOD_NAME" value="anotherApproachWithoutUsingSort" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LongestCommonPrefix.findLongestCommonPrefix" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -113,24 +131,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestCommonPrefix" />
       <option name="METHOD_NAME" value="findLongestCommonPrefix" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopKFrequentWords.findTopKFrequentWords" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentWords" />
-      <option name="METHOD_NAME" value="findTopKFrequentWords" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -175,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LongestCommonPrefix.anotherApproachWithoutUsingSort" />
         <item itemvalue="TestNG.LongestCommonPrefix.findLongestCommonPrefix" />
         <item itemvalue="TestNG.LargestNo.findLargestNo" />
         <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
         <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray" />
-        <item itemvalue="TestNG.TopKFrequentWords.findTopKFrequentWords" />
       </list>
     </recent_temporary>
   </component>
