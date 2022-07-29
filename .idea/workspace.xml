@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ThreeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +83,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestCommonPrefix.anotherApproachWithoutUsingSort">
+  <component name="RunManager" selected="TestNG.ThreeSum.threeSum">
     <configuration name="LargestNo.findLargestNo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -138,17 +138,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderstandingLexigraphicSortingOfStringArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ThreeSum.threeSum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.UnderstandingLexigraphicSortingOfStringArray" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ThreeSum" />
+      <option name="METHOD_NAME" value="threeSum" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -175,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ThreeSum.threeSum" />
         <item itemvalue="TestNG.LongestCommonPrefix.anotherApproachWithoutUsingSort" />
         <item itemvalue="TestNG.LongestCommonPrefix.findLongestCommonPrefix" />
         <item itemvalue="TestNG.LargestNo.findLargestNo" />
         <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
-        <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray" />
       </list>
     </recent_temporary>
   </component>

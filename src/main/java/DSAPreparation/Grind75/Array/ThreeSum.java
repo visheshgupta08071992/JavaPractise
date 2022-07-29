@@ -28,6 +28,7 @@ public class ThreeSum {
     @Test
     public void threeSum(){
         int [] arr={-1,0,1,2,-1,-4};
+       // int [] arr={-1,0};
         int target=0;
         List<List<Integer>> result = new ArrayList<>();
 
@@ -37,7 +38,7 @@ public class ThreeSum {
         }
         Arrays.sort(arr);
         //iteration uptil nums.length -3 because from nums.length-2 no triplet can be formed
-        for(int i=0;i<arr.length - 3;i++){
+        for(int i=0;i<=arr.length - 3;i++){
 
             if(i!=0 && arr[i]==arr[i-1]){
                 continue;
