@@ -5,8 +5,6 @@ h
 ,src/main/java/MultipleArrayIntersection.java,4/0/40a714bba735d6fab1f71bb0f42409281aa7ea8b
 _
 /src/main/java/ReplaceWhiteSpacesFromString.java,7/4/74f830bf302a03bf9a60ed441ec3ea8db833013a
-P
- src/main/java/ArrayRotation.java,c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38
 J
 src/main/java/TargetS.java,4/d/4d8ac3e548463f17cff397921e970d0c845a695a
 U

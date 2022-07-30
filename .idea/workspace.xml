@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cdf53de4e104f44cd0653286a30a68fc2f046e38" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ThreeSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,18 +85,36 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ThreeSum.threeSum">
-    <configuration name="LargestNo.findLargestNo" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ArrayRotation.timeTakingSolution">
+    <configuration name="ArrayRotation.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LargestNo" />
-      <option name="METHOD_NAME" value="findLargestNo" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ArrayRotation" />
+      <option name="METHOD_NAME" value="bestSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayRotation.timeTakingSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ArrayRotation" />
+      <option name="METHOD_NAME" value="timeTakingSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -156,31 +176,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderstandingLexigraphicSortingOfStringArray.sortStringArray" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.UnderstandingLexigraphicSortingOfStringArray" />
-      <option name="METHOD_NAME" value="sortStringArray" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ArrayRotation.timeTakingSolution" />
+        <item itemvalue="TestNG.ArrayRotation.bestSolution" />
         <item itemvalue="TestNG.ThreeSum.threeSum" />
         <item itemvalue="TestNG.LongestCommonPrefix.anotherApproachWithoutUsingSort" />
         <item itemvalue="TestNG.LongestCommonPrefix.findLongestCommonPrefix" />
-        <item itemvalue="TestNG.LargestNo.findLargestNo" />
-        <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
       </list>
     </recent_temporary>
   </component>
