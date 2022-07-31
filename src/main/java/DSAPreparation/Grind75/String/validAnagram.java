@@ -70,6 +70,7 @@ public class validAnagram {
         char [] s1= s.toCharArray();
         char [] t1= t.toCharArray();
 
+
         Arrays.sort(s1);
         Arrays.sort(t1);
 
@@ -83,6 +84,36 @@ public class validAnagram {
                 }
         }
         System.out.println("Strings are anagram");
+    }
+
+    @Test
+    public void usingSortArraysEquals(){
+        //The Given approach checks Anagram using Sortting and comapring array.  Since we are sorting time complexity is o(nlogn)
+        String s="anagram";
+        String t="nagaram";
+
+        if(s.length() !=t.length()){
+            System.out.println("Strings are not anagram");
+            return;
+        }
+
+        char [] s1= s.toCharArray();
+        char [] t1= t.toCharArray();
+
+
+        Arrays.sort(s1);
+        Arrays.sort(t1);
+
+        System.out.println(Arrays.toString(s1));
+        System.out.println(Arrays.toString(t1));
+
+            if(Arrays.equals(s1,t1)){
+                System.out.println("Strings are  anagram");
+                return;
+            }
+            else {
+                System.out.println("Strings are not anagram");
+            }
     }
     }
 
