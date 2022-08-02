@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/c/9c66e900fd66d6d26ae2041e50f503bfc7b3a03a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/scope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validPalindrome2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/PercentOfUpperLowerSpecialAndDigitINString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/PercentOfUpperLowerSpecialAndDigitINString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,25 +85,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PercentOfUpperLowerSpecialAndDigitINString.findpercentage">
-    <configuration name="LongestCommonPrefix.findLongestCommonPrefix" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestCommonPrefix" />
-      <option name="METHOD_NAME" value="findLongestCommonPrefix" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.scope.scopeTest">
     <configuration name="PercentOfUpperLowerSpecialAndDigitINString.findpercentage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -125,7 +104,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome.validPalindrome" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortStudentObjectUsingComparater.sortUsingComparater" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparater" />
+      <option name="METHOD_NAME" value="sortUsingComparater" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindrome.validPalindromeWithoutRegexAndWithoutReverseBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -135,7 +132,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.ValidPalindrome" />
-      <option name="METHOD_NAME" value="validPalindrome" />
+      <option name="METHOD_NAME" value="validPalindromeWithoutRegexAndWithoutReverseBestSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -143,7 +140,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome.validPalindromeWithoutRegex" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="scope.scopeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +149,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.ValidPalindrome" />
-      <option name="METHOD_NAME" value="validPalindromeWithoutRegex" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.scope" />
+      <option name="METHOD_NAME" value="scopeTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -161,7 +158,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="groupAnagrams.groupAnagramBestApproachUsingSorting" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="validPalindrome2.checkValidPalindromeAfterRemovingAtMostOneChar" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -170,8 +167,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
-      <option name="METHOD_NAME" value="groupAnagramBestApproachUsingSorting" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.validPalindrome2" />
+      <option name="METHOD_NAME" value="checkValidPalindromeAfterRemovingAtMostOneChar" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -181,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.scope.scopeTest" />
+        <item itemvalue="TestNG.ValidPalindrome.validPalindromeWithoutRegexAndWithoutReverseBestSolution" />
+        <item itemvalue="TestNG.validPalindrome2.checkValidPalindromeAfterRemovingAtMostOneChar" />
+        <item itemvalue="TestNG.SortStudentObjectUsingComparater.sortUsingComparater" />
         <item itemvalue="TestNG.PercentOfUpperLowerSpecialAndDigitINString.findpercentage" />
-        <item itemvalue="TestNG.ValidPalindrome.validPalindrome" />
-        <item itemvalue="TestNG.ValidPalindrome.validPalindromeWithoutRegex" />
-        <item itemvalue="TestNG.LongestCommonPrefix.findLongestCommonPrefix" />
-        <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting" />
       </list>
     </recent_temporary>
   </component>
