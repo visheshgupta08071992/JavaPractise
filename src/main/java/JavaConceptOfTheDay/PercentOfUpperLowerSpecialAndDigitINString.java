@@ -15,7 +15,7 @@ public class PercentOfUpperLowerSpecialAndDigitINString {
 		int noOfLowerCaseLetters=0;
 		int noOfSpecialCharacters=0;
 
-	    for(Character c:inputArray){
+	    for(char c:inputArray){
 	    	if(Character.isDigit(c)){
 			    noOfdigits++;
 		    }

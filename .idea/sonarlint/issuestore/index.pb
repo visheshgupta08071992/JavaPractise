@@ -87,8 +87,6 @@ y
 Isrc/main/java/JavaConceptOfTheDay/SeparateZerosFromNonZerosInAnArray.java,2/3/23b2600c2818c0acf54e500e0f768c53645af44a
 e
 5src/main/java/JavaConceptOfTheDay/ReverseAnArray.java,5/c/5ce990093e4f8320e672c1dc136b8390c2d0a189
-Å
-Qsrc/main/java/JavaConceptOfTheDay/PercentOfUpperLowerSpecialAndDigitINString.java,9/c/9c66e900fd66d6d26ae2041e50f503bfc7b3a03a
 z
 Jsrc/main/java/JavaConceptOfTheDay/ProgramToFindFibonacciAtAGivenIndex.java,a/0/a02d8a9381a7e8a12b72604a3e36b0938e25997c
 Ä
