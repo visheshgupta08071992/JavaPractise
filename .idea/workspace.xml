@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortingHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/b/db95449599fc710e054b0f79d050c74be142fa02" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/scope.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/scope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar">
+  <component name="RunManager" selected="TestNG.SortingHashSet.sortHashSetUsingList">
     <configuration name="LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -97,6 +99,23 @@
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestSubstringWithoutRepeatingCharacter" />
       <option name="METHOD_NAME" value="findLongestSubstringWithoutRepeatingChar" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortStudentObjectUsingComparable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -121,17 +140,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome.validPalindromeWithoutRegexAndWithoutReverseBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingHashSet.sortHashSetInAscendingOrder" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="ComparableAndComparater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.ValidPalindrome" />
-      <option name="METHOD_NAME" value="validPalindromeWithoutRegexAndWithoutReverseBestSolution" />
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortingHashSet" />
+      <option name="METHOD_NAME" value="sortHashSetInAscendingOrder" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,35 +158,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scope.scopeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortingHashSet.sortHashSetUsingList" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="ComparableAndComparater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.scope" />
-      <option name="METHOD_NAME" value="scopeTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="validPalindrome2.checkValidPalindromeAfterRemovingAtMostOneChar" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.validPalindrome2" />
-      <option name="METHOD_NAME" value="checkValidPalindromeAfterRemovingAtMostOneChar" />
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortingHashSet" />
+      <option name="METHOD_NAME" value="sortHashSetUsingList" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -177,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" />
-        <item itemvalue="TestNG.scope.scopeTest" />
-        <item itemvalue="TestNG.ValidPalindrome.validPalindromeWithoutRegexAndWithoutReverseBestSolution" />
-        <item itemvalue="TestNG.validPalindrome2.checkValidPalindromeAfterRemovingAtMostOneChar" />
+        <item itemvalue="TestNG.SortingHashSet.sortHashSetUsingList" />
+        <item itemvalue="TestNG.SortingHashSet.sortHashSetInAscendingOrder" />
         <item itemvalue="TestNG.SortStudentObjectUsingComparater.sortUsingComparater" />
+        <item itemvalue="TestNG.SortStudentObjectUsingComparable" />
+        <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" />
       </list>
     </recent_temporary>
   </component>

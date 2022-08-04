@@ -199,8 +199,6 @@ s
 Csrc/main/java/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.java,e\0\e05931811a8b00af6ba6906ca5066b5ce83b9d27
 i
 9src/main/java/Stack/nextGreaterToRightFromAnotherArr.java,9\6\96b510f3fe40f99f889381cc4cb0c97e2255f3e9
-V
-&src/main/java/Stack/UnderstandingStack,d\b\db95449599fc710e054b0f79d050c74be142fa02
 b
 2src/main/java/Stack/NextGreaterElementOnRight.java,3\c\3ca2539a306feca2b45bf057e603708d7a0342d3
 a
