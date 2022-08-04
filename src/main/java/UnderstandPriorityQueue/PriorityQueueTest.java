@@ -59,4 +59,12 @@ public class PriorityQueueTest {
             System.out.println(pq.poll());
         }
     }
+
+    @Test
+    public void verifyWhenQueueIsEmpty(){
+        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        System.out.println(pq.peek()); // It prints null
+        System.out.println(pq.poll()); // It print null
+      //  pq.remove(); //Will Throw Null Pointer exception
+    }
 }
