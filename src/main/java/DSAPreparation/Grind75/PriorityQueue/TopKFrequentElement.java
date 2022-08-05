@@ -75,24 +75,23 @@ public class TopKFrequentElement {
 
 
     @Test
-    public void findTopKFrequentElementUsingPriorityQueue(){
-        int [] nums={1,1,1,2,2,3};
-        int k=2;
+    public void findTopKFrequentElementUsingPriorityQueue() {
+        int[] nums = {1, 1, 1, 2, 2, 3};
+        int k = 2;
 //        int [] nums={4,2,4,1,1,5,4,3,1};
 //        int k=3;
 
-        Map<Integer,Integer> map =new HashMap<>();
+        Map<Integer, Integer> map = new HashMap<>();
 
-        int [] result=new int[k];
+        int[] result = new int[k];
 
         //Stores the frequency of elemnet in HashMap
 
-        for(int i=0;i<nums.length;i++){
-            if(map.containsKey(nums[i])){
-                map.put(nums[i],map.get(nums[i]) + 1);
-            }
-            else{
-                map.put(nums[i],1);
+        for (int i = 0; i < nums.length; i++) {
+            if (map.containsKey(nums[i])) {
+                map.put(nums[i], map.get(nums[i]) + 1);
+            } else {
+                map.put(nums[i], 1);
             }
         }
 
@@ -100,19 +99,56 @@ public class TopKFrequentElement {
 
         PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> map.get(a) - map.get(b));
 
-        for(int i:map.keySet()){
+        for (int i : map.keySet()) {
             pq.add(i);
-            if(pq.size() > k){
+            if (pq.size() > k) {
                 pq.remove();
             }
         }
-        int j=0;
-        while(!pq.isEmpty()){
+        int j = 0;
+        while (!pq.isEmpty()) {
             result[j] = pq.poll();
             j++;
         }
 
 
-        System.out.println(Arrays.toString(result));;
+        System.out.println(Arrays.toString(result));
+
     }
-}
+      @Test
+      public void testUsingCompareTo(){
+          Map<Integer,Integer> map = new HashMap<>();
+          int[] nums = {1, 1, 1, 2, 2, 3};
+          int k = 2;
+
+          //For Storing result
+          int [] result = new int[k];
+
+          //Created Hashmap for storing frequency
+          for(int i : nums){
+              if(map.containsKey(i)){
+                  map.put(i,map.get(i) + 1);
+              }
+              else{
+                  map.put(i,1);
+              }
+          }
+
+          // Creating Priority Queue ensuring that element with minimum frequency is removed
+
+          PriorityQueue<Integer> pq =  new PriorityQueue<>((a,b) -> map.get(a).compareTo(map.get(b)));
+
+          for(int key:map.keySet()){
+              pq.add(key);
+              if(pq.size() > k){
+                  pq.remove();
+              }
+          }
+          int j=0;
+          while(!pq.isEmpty()){
+              result[j] = pq.poll();
+              j++;
+          }
+          System.out.println(Arrays.toString(result));;
+      }
+    }

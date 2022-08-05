@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/PriorityQueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/UnderstandPriorityQueue/PriorityQueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SortHaspMap/SortHashMapBasedOnKeysUsingTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortHaspMap/SortHashMapBasedOnKeysUsingTreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UnderstandPriorityQueue/PriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UnderstandPriorityQueue/PriorityQueueTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +86,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.PriorityQueueTest.verifyWhenQueueIsEmpty">
+  <component name="RunManager" selected="TestNG.TopKFrequentElement.testUsingCompareTo">
     <configuration name="PriorityQueueTest.verifyWhenQueueIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -102,34 +105,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStudentObjectUsingComparable" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortHashMapBasedOnKeysUsingTreeMap.sortHashMapUsingTreeMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="PATTERN" value="SortHaspMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortStudentObjectUsingComparater.sortUsingComparater" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparater" />
-      <option name="METHOD_NAME" value="sortUsingComparater" />
+      <option name="PACKAGE_NAME" value="SortHaspMap" />
+      <option name="MAIN_CLASS_NAME" value="SortHaspMap.SortHashMapBasedOnKeysUsingTreeMap" />
+      <option name="METHOD_NAME" value="sortHashMapUsingTreeMap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -137,17 +123,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingHashSet.sortHashSetInAscendingOrder" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortingHashSet" />
-      <option name="METHOD_NAME" value="sortHashSetInAscendingOrder" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="findTopKFrequentElementUsingPriorityQueue" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -155,17 +141,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingHashSet.sortHashSetUsingList" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TopKFrequentElement.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortingHashSet" />
-      <option name="METHOD_NAME" value="sortHashSetUsingList" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopKFrequentElement.testUsingCompareTo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="testUsingCompareTo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -175,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TopKFrequentElement.testUsingCompareTo" />
+        <item itemvalue="TestNG.TopKFrequentElement.test" />
+        <item itemvalue="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" />
+        <item itemvalue="TestNG.SortHashMapBasedOnKeysUsingTreeMap.sortHashMapUsingTreeMap" />
         <item itemvalue="TestNG.PriorityQueueTest.verifyWhenQueueIsEmpty" />
-        <item itemvalue="TestNG.SortingHashSet.sortHashSetUsingList" />
-        <item itemvalue="TestNG.SortingHashSet.sortHashSetInAscendingOrder" />
-        <item itemvalue="TestNG.SortStudentObjectUsingComparater.sortUsingComparater" />
-        <item itemvalue="TestNG.SortStudentObjectUsingComparable" />
       </list>
     </recent_temporary>
   </component>
@@ -593,6 +597,26 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.java</url>
           <line>57</line>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
+          <line>147</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

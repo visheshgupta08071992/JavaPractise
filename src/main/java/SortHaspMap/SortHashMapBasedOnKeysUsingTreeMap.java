@@ -26,9 +26,13 @@ public class SortHashMapBasedOnKeysUsingTreeMap {
         map.put("dog",101);
         System.out.println(map);
 
-        //Sorting HashMap using key with the help of TreeMap
+        //Sorting HashMap in ascending using key with the help of TreeMap
         Map<String,Integer> treeMap =new TreeMap<>(map);
         System.out.println(treeMap);
+
+        //Sorting HashMap in Descending using key with the help of TreeMap
+        Map<String,Integer> treeMap1 =new TreeMap<>(map).descendingMap();
+        System.out.println(treeMap1);
     }
 }
 
