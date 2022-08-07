@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/SquaresOfSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/Validparanthesis.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SquaresOfSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SquaresOfSortedArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SquaresOfSortedArray.bestSolution">
+  <component name="RunManager" selected="TestNG.Validparanthesis.valid">
     <configuration name="SquaresOfSortedArray.Squares" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -113,24 +114,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SquaresOfSortedArray" />
       <option name="METHOD_NAME" value="bestSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
-      <option name="METHOD_NAME" value="findTopKFrequentElementUsingPriorityQueue" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -174,13 +157,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Validparanthesis.valid" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.Validparanthesis" />
+      <option name="METHOD_NAME" value="valid" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Validparanthesis.valid" />
         <item itemvalue="TestNG.SquaresOfSortedArray.bestSolution" />
         <item itemvalue="TestNG.SquaresOfSortedArray.Squares" />
         <item itemvalue="TestNG.TopKFrequentElement.testUsingCompareTo" />
         <item itemvalue="TestNG.TopKFrequentElement.test" />
-        <item itemvalue="TestNG.TopKFrequentElement.findTopKFrequentElementUsingPriorityQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -617,8 +618,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/SquaresOfSortedArray.java</url>
-          <line>52</line>
+          <line>53</line>
           <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/Validparanthesis.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="94" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
