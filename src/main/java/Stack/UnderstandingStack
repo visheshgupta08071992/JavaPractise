@@ -3,7 +3,7 @@ Stack -> Last In First Out
 It has namely four functions
 
 push() -> Add element to Top
-pop()  -> Removes element from Top
+pop()  -> Fetches element from Top and then removes it
 peek() -> Displays the Top element
 size() -> Gives the size of stack
 isEmpty() -> Checks whether the stack is empty

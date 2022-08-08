@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/ImplementQueueUsingTwoStacks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/Validparanthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/Validparanthesis.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +86,43 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Validparanthesis.valid">
+  <component name="RunManager" selected="TestNG.EvaluateReversePolishNotation.evaluateReversePolishNotation">
+    <configuration name="EvaluateReversePolishNotation.evaluateReversePolishNotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.EvaluateReversePolishNotation" />
+      <option name="METHOD_NAME" value="evaluateReversePolishNotation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinStack.te" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.MinStack" />
+      <option name="METHOD_NAME" value="te" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SquaresOfSortedArray.Squares" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -119,42 +159,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopKFrequentElement.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopKFrequentElement.testUsingCompareTo" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
-      <option name="METHOD_NAME" value="testUsingCompareTo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Validparanthesis.valid" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -175,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.EvaluateReversePolishNotation.evaluateReversePolishNotation" />
+        <item itemvalue="TestNG.MinStack.te" />
         <item itemvalue="TestNG.Validparanthesis.valid" />
         <item itemvalue="TestNG.SquaresOfSortedArray.bestSolution" />
         <item itemvalue="TestNG.SquaresOfSortedArray.Squares" />
-        <item itemvalue="TestNG.TopKFrequentElement.testUsingCompareTo" />
-        <item itemvalue="TestNG.TopKFrequentElement.test" />
       </list>
     </recent_temporary>
   </component>
@@ -623,6 +627,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/Validparanthesis.java</url>
           <line>39</line>
           <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="98" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
