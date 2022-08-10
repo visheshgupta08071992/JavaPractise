@@ -39,6 +39,7 @@ public class DecodeString {
     public void decode1() {
         // String s = "2[abc]3[cd]ef";
         String s = "2[abc]ef";
+       // String s = "3[a2[c]]";
         Stack<Integer> numStack = new Stack<>();
         Stack<String> stringStack = new Stack<>();
         int k = 0;

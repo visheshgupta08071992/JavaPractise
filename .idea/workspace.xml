@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/DecodeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/DecodeString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DecodeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DecodeString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +84,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BestTimeToBuyAndSellStock.BestSolution">
+  <component name="RunManager" selected="TestNG.BestTimeToBuyAndSellStock2.maxProfit">
     <configuration name="ArrayRotation.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -96,6 +96,24 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ArrayRotation" />
       <option name="METHOD_NAME" value="bestSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BestTimeToBuyAndSellStock2.maxProfit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.BestTimeToBuyAndSellStock2" />
+      <option name="METHOD_NAME" value="maxProfit" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -157,31 +175,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodeString.decode1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.DecodeString" />
-      <option name="METHOD_NAME" value="decode1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BestTimeToBuyAndSellStock2.maxProfit" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock.BestSolution" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock.Optimized" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock.bruteForce" />
         <item itemvalue="TestNG.ArrayRotation.bestSolution" />
-        <item itemvalue="TestNG.DecodeString.decode1" />
       </list>
     </recent_temporary>
   </component>
