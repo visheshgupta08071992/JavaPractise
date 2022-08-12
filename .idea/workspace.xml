@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/NextGreaterElementOnRight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/nextGreaterToRightFromAnotherArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Test123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3ca2539a306feca2b45bf057e603708d7a0342d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96b510f3fe40f99f889381cc4cb0c97e2255f3e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d08d3cf49eb190ad49eb3d5d4df8426eb93562b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DecodeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DecodeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +44,18 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/checkHowDoesConcatinationOperatiorWorksWithCharacter.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/MinStack.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ArrayRotation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DecodeString.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -60,7 +79,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VisheshProjects/RestAPIAutomationUsingRestAssured/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -69,6 +88,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DSAPreparation\Grind75\Stack" />
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DailyCodingProblem" />
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DailyCodingProblem\001-Google" />
       <recent name="$PROJECT_DIR$/src/main/java" />
@@ -84,25 +104,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BestTimeToBuyAndSellStock2.maxProfit">
-    <configuration name="ArrayRotation.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ArrayRotation" />
-      <option name="METHOD_NAME" value="bestSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.NextGreaterElement2.findNextGreater">
     <configuration name="BestTimeToBuyAndSellStock2.maxProfit" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -157,17 +159,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BestTimeToBuyAndSellStock.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NextGreaterElement2.findNextGreater" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.BestTimeToBuyAndSellStock" />
-      <option name="METHOD_NAME" value="bruteForce" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.NextGreaterElement2" />
+      <option name="METHOD_NAME" value="findNextGreater" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test123.nextGreaterOnRight" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.Test123" />
+      <option name="METHOD_NAME" value="nextGreaterOnRight" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -177,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NextGreaterElement2.findNextGreater" />
+        <item itemvalue="TestNG.Test123.nextGreaterOnRight" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock2.maxProfit" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock.BestSolution" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock.Optimized" />
-        <item itemvalue="TestNG.BestTimeToBuyAndSellStock.bruteForce" />
-        <item itemvalue="TestNG.ArrayRotation.bestSolution" />
       </list>
     </recent_temporary>
   </component>

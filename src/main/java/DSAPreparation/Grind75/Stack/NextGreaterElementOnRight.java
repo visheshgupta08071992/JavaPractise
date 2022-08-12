@@ -1,10 +1,9 @@
-package Stack;
+package DSAPreparation.Grind75.Stack;
 
 import org.testng.annotations.Test;
 
 import java.util.Arrays;
 import java.util.Stack;
-import java.util.logging.Logger;
 
 /*
 1. You are given a number n, representing the size of array a.
