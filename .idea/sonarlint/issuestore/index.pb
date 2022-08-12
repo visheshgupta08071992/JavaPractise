@@ -195,8 +195,6 @@ Z
 *src/main/java/Stack/NextSmallerOnLeft.java,e\4\e4231a8bd99517c19a771c8a522e4ac3ec659ec4
 s
 Csrc/main/java/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.java,e\0\e05931811a8b00af6ba6906ca5066b5ce83b9d27
-[
-+src/main/java/Stack/NextSmallerOnRight.java,3\8\38d2cb31b30aa1ceb3f4acbec7f475b31f11ec66
 ]
 -src/main/java/Stack/LargestAreaHistogram.java,e\9\e9b81eaeef82e09ffe1d56eec7517690dce55745
 \

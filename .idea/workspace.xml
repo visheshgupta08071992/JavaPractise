@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/NextGreaterElementOnRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/nextGreaterToRightFromAnotherArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stack/Test123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3ca2539a306feca2b45bf057e603708d7a0342d3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96b510f3fe40f99f889381cc4cb0c97e2255f3e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d08d3cf49eb190ad49eb3d5d4df8426eb93562b1" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/NextGreaterElement3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/NextGreaterElement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d2cb31b30aa1ceb3f4acbec7f475b31f11ec66" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElementOnRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/Test123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/Test123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/Test123.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/Test123.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,13 +95,14 @@
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\UnderstandPriorityQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DSAPreparation.Grind75.Stack" />
       <recent name="DSAPreparation.Grind75.PriorityQueue" />
       <recent name="DSAPreparation.NeetCode.Array" />
       <recent name="Java8Practise.LambaFunction" />
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NextGreaterElement2.findNextGreater">
+  <component name="RunManager" selected="TestNG.NextGreaterElement3.nextGreater">
     <configuration name="BestTimeToBuyAndSellStock2.maxProfit" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -116,42 +114,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.BestTimeToBuyAndSellStock2" />
       <option name="METHOD_NAME" value="maxProfit" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BestTimeToBuyAndSellStock.BestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.BestTimeToBuyAndSellStock" />
-      <option name="METHOD_NAME" value="BestSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BestTimeToBuyAndSellStock.Optimized" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.BestTimeToBuyAndSellStock" />
-      <option name="METHOD_NAME" value="Optimized" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -177,6 +139,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NextGreaterElement3.nextGreater" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.NextGreaterElement3" />
+      <option name="METHOD_NAME" value="nextGreater" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test123.nextGreaterOnRight" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -195,13 +175,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test123.nextGreateronLeft" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.Test123" />
+      <option name="METHOD_NAME" value="nextGreateronLeft" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NextGreaterElement3.nextGreater" />
+        <item itemvalue="TestNG.Test123.nextGreateronLeft" />
         <item itemvalue="TestNG.NextGreaterElement2.findNextGreater" />
         <item itemvalue="TestNG.Test123.nextGreaterOnRight" />
         <item itemvalue="TestNG.BestTimeToBuyAndSellStock2.maxProfit" />
-        <item itemvalue="TestNG.BestTimeToBuyAndSellStock.BestSolution" />
-        <item itemvalue="TestNG.BestTimeToBuyAndSellStock.Optimized" />
       </list>
     </recent_temporary>
   </component>
@@ -655,6 +653,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java</url>
           <line>50</line>
           <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/NextGreaterElement3.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="101" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

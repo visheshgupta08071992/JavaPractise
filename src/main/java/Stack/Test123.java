@@ -40,7 +40,32 @@ public class Test123 {
 
     @Test
     public void nextGreateronLeft(){
+        int[] arr = {2,5,9,3,1,12,6,8,7};
+        //Expected - [1,2,3,1,1,6,1,2,1]
+        int [] span = new int[arr.length];
 
+        Stack<Integer> st = new Stack<>();
+
+        for(int i=0;i<arr.length;i++){
+            if(st.isEmpty()){
+                span[i] = i+1;
+                st.push(i);
+            }
+            else{
+                while(!st.isEmpty() && arr[i] >= arr[st.peek()]){
+                    st.pop();
+                }
+                if(st.isEmpty()){
+                    span[i] = i+1;
+                    st.push(i);
+                }
+                else if(arr[st.peek()] > arr[i]){
+                    span[i]= i - st.peek();
+                    st.push(i);
+                }
+            }
+        }
+        System.out.println(Arrays.toString(span));
     }
-    int[] arr = {12,7,8,6,1,12,3,1,3,3,9,5,2};
+
 }
