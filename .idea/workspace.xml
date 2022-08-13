@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/NextGreaterElement3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/NextGreaterElement2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d2cb31b30aa1ceb3f4acbec7f475b31f11ec66" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/BackSpaceStringCompare.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/Test123.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/Test123.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stack/Test123.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/Test123.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,18 +97,18 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.NextGreaterElement3.nextGreater">
-    <configuration name="BestTimeToBuyAndSellStock2.maxProfit" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BackSpaceStringCompare.test">
+    <configuration name="BackSpaceStringCompare.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.BestTimeToBuyAndSellStock2" />
-      <option name="METHOD_NAME" value="maxProfit" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.BackSpaceStringCompare" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -195,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.BackSpaceStringCompare.test" />
         <item itemvalue="TestNG.NextGreaterElement3.nextGreater" />
         <item itemvalue="TestNG.Test123.nextGreateronLeft" />
         <item itemvalue="TestNG.NextGreaterElement2.findNextGreater" />
         <item itemvalue="TestNG.Test123.nextGreaterOnRight" />
-        <item itemvalue="TestNG.BestTimeToBuyAndSellStock2.maxProfit" />
       </list>
     </recent_temporary>
   </component>
