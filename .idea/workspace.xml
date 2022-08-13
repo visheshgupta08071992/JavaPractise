@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d83ae46c0e9cd4f9b4d0a777be510e98eb9753e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19ce66169a3db05180b77463a506ac4f5871d5c7" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseEachWordOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseEachWordOfString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +99,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.JavaProgramtoReverseAString.PrintStringInAGivenWayUsingStringBuffer">
+  <component name="RunManager" selected="TestNG.ReverseEachWordOfString.reverseEachWordOfStringUsingStringBuilder">
     <configuration name="JavaProgramtoReverseAString.PrintStringInAGivenWayUsingStringBuffer" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -111,24 +111,6 @@
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
       <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramtoReverseAString" />
       <option name="METHOD_NAME" value="PrintStringInAGivenWayUsingStringBuffer" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JavaProgramtoReverseAString.StringConcatination" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramtoReverseAString" />
-      <option name="METHOD_NAME" value="StringConcatination" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -154,24 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaProgramtoReverseAString.reverseStringWithoutUsingAdditionalVariable" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramtoReverseAString" />
-      <option name="METHOD_NAME" value="reverseStringWithoutUsingAdditionalVariable" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JavaProgramtoReverseAString.test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -190,13 +154,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseEachWordOfString.reverseEachWordOfString" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseEachWordOfString" />
+      <option name="METHOD_NAME" value="reverseEachWordOfString" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseEachWordOfString.reverseEachWordOfStringUsingStringBuilder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseEachWordOfString" />
+      <option name="METHOD_NAME" value="reverseEachWordOfStringUsingStringBuilder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ReverseEachWordOfString.reverseEachWordOfStringUsingStringBuilder" />
+        <item itemvalue="TestNG.ReverseEachWordOfString.reverseEachWordOfString" />
         <item itemvalue="TestNG.JavaProgramtoReverseAString.PrintStringInAGivenWayUsingStringBuffer" />
         <item itemvalue="TestNG.JavaProgramtoReverseAString.test5" />
         <item itemvalue="TestNG.JavaProgramtoReverseAString.StringSplit" />
-        <item itemvalue="TestNG.JavaProgramtoReverseAString.StringConcatination" />
-        <item itemvalue="TestNG.JavaProgramtoReverseAString.reverseStringWithoutUsingAdditionalVariable" />
       </list>
     </recent_temporary>
   </component>
