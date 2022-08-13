@@ -51,7 +51,6 @@ public class BackSpaceStringCompare {
             //If character is #,Increase the HashCount and contniue with next character
             if(s.charAt(i) == '#'){
                 hashCount++;
-                continue;
             }
             else{
                 if(hashCount==0){
@@ -59,7 +58,6 @@ public class BackSpaceStringCompare {
                 }
                 else{
                     hashCount--;
-                    continue;
                 }
             }
         }
