@@ -4,12 +4,19 @@ import java.util.Arrays;
 
 import org.testng.annotations.Test;
 
+/*
+* Leetcode - https://leetcode.com/problems/reverse-string/
+*
+*
+* */
+
 public class JavaProgramtoReverseAString {
 
     //In comments I am mentioning the mistakes which I have made
 
     @Test
     public void reverseString(){
+    	//Time complexity is o(n) and space complexity is also o(n)
         String input="a b c";
         String reverse="";  // Did not initialized the reverse String
         for(int i=input.length()-1;i>=0;i--){     // length() is function with () in String.....In Arrays it does not have ()
@@ -94,6 +101,26 @@ public class JavaProgramtoReverseAString {
     		return s;
 	    }
     	return reverseUsingRecursion(s.substring(1)) + s.charAt(0);
+	}
+
+	@Test
+	public void printInAGivenApproach2(){
+		/*selenium
+		 * seleniu
+		 * seleni
+		 * selen
+		 * sele
+		 * sel
+		 * se
+		 * s*/
+
+		String s="selenium";
+
+		for(int j=0;j<s.length();j++) {
+			System.out.println(s.substring(0, s.length() - j));
+		}
+
+
 	}
 
 
