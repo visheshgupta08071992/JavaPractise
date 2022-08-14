@@ -1,0 +1,8 @@
+
+k
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+k
+java:S1149/"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿ
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(³à˜ª8ú¨½…©0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK

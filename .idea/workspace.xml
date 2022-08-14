@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cb7674bfb8ca462e0cefe5bd0b61196006bd5ed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c79ac1b0d91f283bb019d1153e6eff888166ddea" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Test345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/a/0a53f53d6b416192bd44499d0e6b7fd3a662fc8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7076f9889a887e0b4a5e08a866cda2da43f5dac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed7b727d007a9812ae3bb34332f4e9dac74501ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26a377c77ae9e7ae890b46cba825957b194ee1e" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,18 +103,18 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.simpleCodeUsingTwoPointer">
-    <configuration name="RemoveAllWhiteSpacesFromString.removeWhiteSpace" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MissingNumber.withoutSorting">
+    <configuration name="MissingNumber.usingSorting" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.RemoveAllWhiteSpacesFromString" />
-      <option name="METHOD_NAME" value="removeWhiteSpace" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MissingNumber" />
+      <option name="METHOD_NAME" value="usingSorting" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -119,17 +122,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringWithPreservingSpaces.reverseStringWithPreservingSpaceAnotherApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MissingNumber.withoutSorting" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseStringWithPreservingSpaces" />
-      <option name="METHOD_NAME" value="reverseStringWithPreservingSpaceAnotherApproach" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MissingNumber" />
+      <option name="METHOD_NAME" value="withoutSorting" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -137,7 +140,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordInAString.reverseWordInAString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test345.findDuplicateCharacters" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +149,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseWordInAString" />
-      <option name="METHOD_NAME" value="reverseWordInAString" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Test345" />
+      <option name="METHOD_NAME" value="findDuplicateCharacters" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -155,7 +158,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.simpleCodeUsingTwoPointer" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test345.test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -163,9 +166,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
-      <option name="METHOD_NAME" value="simpleCodeUsingTwoPointer" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay.InterviewQuestions" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Test345" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -173,7 +176,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test546.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test345.test5" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -182,8 +185,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Test546" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Test345" />
+      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -193,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.simpleCodeUsingTwoPointer" />
-        <item itemvalue="TestNG.ReverseStringWithPreservingSpaces.reverseStringWithPreservingSpaceAnotherApproach" />
-        <item itemvalue="TestNG.Test546.test" />
-        <item itemvalue="TestNG.ReverseWordInAString.reverseWordInAString" />
-        <item itemvalue="TestNG.RemoveAllWhiteSpacesFromString.removeWhiteSpace" />
+        <item itemvalue="TestNG.MissingNumber.withoutSorting" />
+        <item itemvalue="TestNG.MissingNumber.usingSorting" />
+        <item itemvalue="TestNG.Test345.test5" />
+        <item itemvalue="TestNG.Test345.findDuplicateCharacters" />
+        <item itemvalue="TestNG.Test345.test2" />
       </list>
     </recent_temporary>
   </component>

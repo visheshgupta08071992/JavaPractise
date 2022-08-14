@@ -1,0 +1,9 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(ÖÕşüÿÿÿÿ
+r
+java:S1149-"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ8€…Ö„©0
+m
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ËŞÂüÿÿÿÿ
+]	java:S125("<This block of commented-out lines of code should be removed.(˜í‡Ëøÿÿÿÿ8Õ„©0
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿ8ÖèÖ„©0
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûK

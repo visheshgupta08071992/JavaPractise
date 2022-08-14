@@ -1,0 +1,30 @@
+
+f
+java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¼ðî¤
+m
+java:S3776&"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¨ðþŸøÿÿÿÿ
+o
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(¼ðî¤
+M	java:S1061"9Replace this use of System.out or System.err by a logger.(ð‚²D
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(Ô¸Š×
+M	java:S106>"9Replace this use of System.out or System.err by a logger.(ð‚²D
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ô¸Š×
+M	java:S106K"9Replace this use of System.out or System.err by a logger.(ð‚²D
+N	java:S106O"9Replace this use of System.out or System.err by a logger.(Ô¸Š×
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(³¬Ý–øÿÿÿÿ
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ó ú›
+i
+java:S11925"SDefine a constant instead of duplicating this literal "Mismatch in braces" 3 times.(Ô¸Š×
+\
+java:S11925"FDefine a constant instead of duplicating this literal " and " 3 times.(Ô¸Š×
+o
+java:S11921"ZDefine a constant instead of duplicating this literal "Additional Closing brace " 3 times.(ð‚²D
+Y
+java:S11550">Use isEmpty() to check whether the collection is empty or not.(ê–˜Óüÿÿÿÿ
+Y
+java:S1155=">Use isEmpty() to check whether the collection is empty or not.(ê–˜Óüÿÿÿÿ
+Y
+java:S1155J">Use isEmpty() to check whether the collection is empty or not.(ê–˜Óüÿÿÿÿ
+Y
+java:S1155W">Use isEmpty() to check whether the collection is empty or not.(ù¹Ž‡ÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûžK
