@@ -153,8 +153,6 @@ r
 Bsrc/main/java/JavaConceptOfTheDay/AppendRandomNoWithinAString.java,b/5/b57cc6e71d03f48bc78c0534216f10d059fe93f1
 f
 6src/main/java/JavaConceptOfTheDay/FinalizeExample.java,6/3/639fba30c49783bc900567597a909b751ccc9c92
-x
-Hsrc/main/java/JavaConceptOfTheDay/ReverseStringWithPreservingSpaces.java,5/e/5eafc74a90aa8c46c8e0303f11af6edef395629f
 _
 /src/main/java/JavaConceptOfTheDay/PigLatin.java,4/4/44af11394f0654761b5397be29e85abbc657a308
 {
