@@ -13,6 +13,44 @@ public class SeparateVowelsOnLeftAndConstantsOnRightInAGivenString {
 
 
 	@Test
+	public void simpleCodeUsingTwoPointer(){
+		String input = "vishesh";
+		/*While separating vowels from consonents we need to ensure four condition
+		* 1. When start is vowel and end is consonent then start ++ and end--
+		* 2 When start is consonent and end is vowel then swap followed by start ++ and end--
+		* 3.when start and end both are vowel then start++
+		* 4.when start and end both are consonent then end--
+		* */
+
+		char [] sArr=input.toCharArray();
+		int i=0;
+		int j=sArr.length - 1;
+
+		while(i<j){
+			if(isVowel(sArr[i]) && isConsonent(sArr[j])){
+				i++;
+				j--;
+			}
+			else if(isConsonent(sArr[i]) && isVowel(sArr[j])){
+				char temp=sArr[i];
+				sArr[i]=sArr[j];
+				sArr[j]=temp;
+				i++;
+				j--;
+			}
+			else if(isVowel(sArr[i]) && isVowel(sArr[j])){
+				i++;
+			}
+			else if(isConsonent(sArr[i]) && isConsonent(sArr[j])){
+				j--;
+			}
+		}
+		System.out.println(String.valueOf(sArr));
+	}
+
+
+
+	@Test
 	public void SeparateVowelsOnLeftAndConstantsOnRightInAGivenString() {
 
 		String input = "vishesh";
@@ -64,6 +102,15 @@ public class SeparateVowelsOnLeftAndConstantsOnRightInAGivenString {
 
 	public boolean isVowel(char c) {
 		if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+	public boolean isConsonent(char c) {
+		if (c != 'a' || c != 'e' || c != 'i' || c != 'o' || c != 'u') {
 
 			return true;
 		} else {

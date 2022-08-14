@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ReverseWordInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eafc74a90aa8c46c8e0303f11af6edef395629f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cb7674bfb8ca462e0cefe5bd0b61196006bd5ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c79ac1b0d91f283bb019d1153e6eff888166ddea" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,25 +100,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ReverseWordInAString.reverseWordInAString">
-    <configuration name="JavaProgramtoReverseAString.PrintStringInAGivenWayUsingStringBuffer" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.JavaProgramtoReverseAString" />
-      <option name="METHOD_NAME" value="PrintStringInAGivenWayUsingStringBuffer" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.simpleCodeUsingTwoPointer">
     <configuration name="RemoveAllWhiteSpacesFromString.removeWhiteSpace" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -136,7 +119,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseEachWordOfString.reverseEachWordOfString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseStringWithPreservingSpaces.reverseStringWithPreservingSpaceAnotherApproach" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -145,26 +128,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseEachWordOfString" />
-      <option name="METHOD_NAME" value="reverseEachWordOfString" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseEachWordOfString.reverseEachWordOfStringUsingStringBuilder" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseEachWordOfString" />
-      <option name="METHOD_NAME" value="reverseEachWordOfStringUsingStringBuilder" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ReverseStringWithPreservingSpaces" />
+      <option name="METHOD_NAME" value="reverseStringWithPreservingSpaceAnotherApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,13 +155,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.simpleCodeUsingTwoPointer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString" />
+      <option name="METHOD_NAME" value="simpleCodeUsingTwoPointer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test546.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Test546" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.simpleCodeUsingTwoPointer" />
+        <item itemvalue="TestNG.ReverseStringWithPreservingSpaces.reverseStringWithPreservingSpaceAnotherApproach" />
+        <item itemvalue="TestNG.Test546.test" />
         <item itemvalue="TestNG.ReverseWordInAString.reverseWordInAString" />
         <item itemvalue="TestNG.RemoveAllWhiteSpacesFromString.removeWhiteSpace" />
-        <item itemvalue="TestNG.ReverseEachWordOfString.reverseEachWordOfStringUsingStringBuilder" />
-        <item itemvalue="TestNG.ReverseEachWordOfString.reverseEachWordOfString" />
-        <item itemvalue="TestNG.JavaProgramtoReverseAString.PrintStringInAGivenWayUsingStringBuffer" />
       </list>
     </recent_temporary>
   </component>

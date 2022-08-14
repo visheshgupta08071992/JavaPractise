@@ -1,20 +1,0 @@
-
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
-W
-java:S1994 ":Move the update of "count" into this loop's update clause.(¢õ½Ã8°ØĞØÇ.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ØÕàúÿÿÿÿ8°ØĞØÇ.
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿæ‚²ÿÿÿÿÿ8ŒìãÖÇ.
-o	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î €Ñüÿÿÿÿ8°ØĞØÇ.
-U	java:S106`"9Replace this use of System.out or System.err by a logger.(¯ÑÉø8÷Öàâı.
-Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ØÕàúÿÿÿÿ8°ØĞØÇ.
-^
-java:S1126B"AReplace this if-then-else statement by a single return statement.(Ã–Ä²8°ØĞØÇ.
-U	java:S106q"9Replace this use of System.out or System.err by a logger.(Ş¿Ú8¦ˆãı.
-n
-java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÿæ‚²ÿÿÿÿÿ8ŒìãÖÇ.
->
-java:S1643n"Use a StringBuilder instead.(àüÙıÿÿÿÿ8Ãà›ãı.
-8
-java:S1643k"Use a StringBuilder instead.(²ìºD8”Äšãı.
-e
-java:S1192"HDefine a constant instead of duplicating this literal "vishesh" 4 times.(Ü¢¸8†¢ğâı.

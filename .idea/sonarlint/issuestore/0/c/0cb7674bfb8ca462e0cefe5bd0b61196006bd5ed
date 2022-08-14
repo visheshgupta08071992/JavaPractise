@@ -1,7 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ùÑÊÔ8™­¦³ˆ/
-œ
-java:S2159"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(‰Üò‰ÿÿÿÿÿ8¬Éœ³ˆ/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
-Z
-java:S2589"8Remove this expression which always evaluates to "false"(‰Üò‰ÿÿÿÿÿ8¬Éœ³ˆ/
