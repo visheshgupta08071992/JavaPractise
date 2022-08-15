@@ -33,7 +33,7 @@ import java.util.Arrays;
 public class ArrayRotation {
 
     @Test
-    public void bestSolution(){
+    public void bestSolutionFromRight(){
         int [] nums={1,2,3,4,5,6,7};
         int k=3;
         // Finding the mod of K with arr.length as after every arr.length rotation k=1 rotation occurs/
@@ -48,7 +48,7 @@ public class ArrayRotation {
         //Part 1 reverse 1st Part of Array from 0 to nums.length - k -1
         reverse(nums,0,nums.length - k -1);
 
-        //Part 2 reverse 2nd Part of Array from nums.length - k -1 to nums.length -1
+        //Part 2 reverse 2nd Part of Array from nums.length - k to nums.length -1
         reverse(nums,nums.length - k,nums.length-1);
 
         //Part 3 reverse the entire array
@@ -65,6 +65,31 @@ public class ArrayRotation {
             i++;
             j--;
         }
+    }
+
+    @Test
+    public void bestSolutionFromLeft(){
+        int [] nums={1,2,3,4,5,6,7};
+        int k=3;
+        // Finding the mod of K with arr.length as after every arr.length rotation k=1 rotation occurs/
+        // So moding the K reduces K,hence reduces no of rotation
+        k=k%nums.length;
+
+        // when K is negative, Then make it positive
+        if(k<0){
+            k = k + nums.length;
+        }
+
+        //Part 1 reverse 1st Part of Array from 0 to k -1
+        reverse(nums,0, k -1);
+
+        //Part 2 reverse 2nd Part of Array from k to nums.length -1
+        reverse(nums,k,nums.length-1);
+
+        //Part 3 reverse the entire array
+        reverse(nums,0,nums.length-1);
+
+        System.out.println(Arrays.toString(nums));
     }
 
     @Test
