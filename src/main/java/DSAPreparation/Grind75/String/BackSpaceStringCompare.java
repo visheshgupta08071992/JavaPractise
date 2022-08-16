@@ -37,10 +37,13 @@ public class BackSpaceStringCompare {
     public void test(){
         String s="ab##";
         String t="c#d#";
-        System.out.println(actualString(s).equals(actualString(t)));
+        //Approach 1
+        System.out.println(actualStringUsingHashCount(s).equals(actualStringUsingHashCount(t)));
+        //Approach 2
+        System.out.println(actualStringWithoutHashCount(s).equals(actualStringWithoutHashCount(t)));
     }
 
-    public String actualString(String s){
+    public String actualStringUsingHashCount(String s){
         //Created StringBuilder Object for Storing the result
         StringBuilder sb = new StringBuilder();
 
@@ -62,5 +65,27 @@ public class BackSpaceStringCompare {
             }
         }
         return sb.toString();
+    }
+
+    public String actualStringWithoutHashCount(String str) {
+        StringBuilder result = new StringBuilder();
+
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) != '#') {
+                //If the given character is not # then append
+                result.append(str.charAt(i));
+            } else {
+                /*
+                * else if given character is not # and stringbuilder is not emppty then
+                * delete last character from StringBuilder
+                * */
+                if (result.length() != 0) {
+                    result.deleteCharAt(result.length() - 1);
+                }
+
+            }
+
+        }
+        return result.toString();
     }
 }
