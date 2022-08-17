@@ -39,6 +39,16 @@ public class findAllAnagramsInAString {
         String s="cbaebabacd";
         String p="abc";
 
+        /*String s = "baa"
+        * String p="aa"
+        *
+        * String s = "ababababab"
+          String p = "aab"
+
+          String s = "aaaaaaaaaa"
+          String p = "aaaaaaaaaaaaa"
+        * */
+
         Map<Character,Integer> smap = new HashMap<>();
         Map<Character,Integer> pmap = new HashMap<>();
 
