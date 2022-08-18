@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BinarySearch/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/findAllAnagramsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/findAllAnagramsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,43 +98,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.RotateString.checkRotation">
-    <configuration name="ArrayListPrograms.compareTwoArrayList" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ArrayListPrograms" />
-      <option name="METHOD_NAME" value="compareTwoArrayList" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ArrayListPrograms.compareTwoArrayListAndFindAdditionalElementOfList1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.ArrayListPrograms" />
-      <option name="METHOD_NAME" value="compareTwoArrayListAndFindAdditionalElementOfList1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LongestSubstringWithoutRepeatingCharacter.test">
     <configuration name="ArrayListPrograms.compareTwoArrayListAndFindAdditionalElementOfList11" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -170,6 +135,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestSubstringWithoutRepeatingCharacter.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestSubstringWithoutRepeatingCharacter" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotateString.checkRotation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -188,13 +171,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="groupAnagrams.groupAnagramBestApproachUsingSorting" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
+      <option name="METHOD_NAME" value="groupAnagramBestApproachUsingSorting" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.test" />
+        <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting" />
         <item itemvalue="TestNG.RotateString.checkRotation" />
         <item itemvalue="TestNG.ArrayRotation.bestSolutionFromLeft" />
         <item itemvalue="TestNG.ArrayListPrograms.compareTwoArrayListAndFindAdditionalElementOfList11" />
-        <item itemvalue="TestNG.ArrayListPrograms.compareTwoArrayListAndFindAdditionalElementOfList1" />
-        <item itemvalue="TestNG.ArrayListPrograms.compareTwoArrayList" />
       </list>
     </recent_temporary>
   </component>

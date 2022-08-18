@@ -17,6 +17,11 @@ public class LongestSubstringWithoutRepeatingCharacter {
     @Test
     public void findLongestSubstringWithoutRepeatingChar(){
        // String s = "abcabcbb";
+        /*
+        * String s = ""
+        * String s=" "
+        *
+        * */
         String s="pwwkew";
         Set<Character> set = new HashSet<>();
         int j = 0;
