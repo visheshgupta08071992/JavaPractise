@@ -59,7 +59,8 @@ public class FindNoOfTimesASortedArrayIsRotated {
 	@Test
 	public void findNoOfTimesSortedArrayIsLeftRotated(){
 
-		int[] rotatedSortedArray = {6,8,11,12,2,5};
+		//int[] rotatedSortedArray = {6,8,11,12,2,5};
+		int[] rotatedSortedArray = {5,6,1,2,3,4};
 		int mid;
 		int noOfRotations;
 		mid =findtheIndexOfMinimumElement(rotatedSortedArray);
@@ -77,7 +78,8 @@ public class FindNoOfTimesASortedArrayIsRotated {
 	@Test
 	public void findNoOfTimesSortedArrayIsRightRotated(){
 
-		int[] rotatedSortedArray = {11,12,2, 5, 6,8};
+		//int[] rotatedSortedArray = {11,12,2, 5, 6,8};
+		int[] rotatedSortedArray = {4,5,6,1,2,3};
 		int mid;
 		int noOfRotations;
 		mid =findtheIndexOfMinimumElement(rotatedSortedArray);

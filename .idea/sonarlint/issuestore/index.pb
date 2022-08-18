@@ -107,8 +107,6 @@ Z
 Usrc/main/java/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.java,b/6/b6c2fa86a408893f033c5496daf622fa3e0ed2ae
 z
 Jsrc/main/java/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.java,8/3/830c0d37cd53c838d7591c14bcd6c08cd056dd66
-r
-Bsrc/main/java/BinarySearch/FindNoOfTimesASortedArrayIsRotated.java,5/3/53ab030d7119b330ccaa27b2268c47181b33e70f
 s
 Csrc/main/java/BinarySearch/SearchAnElementInRotatedSortedArray.java,8/b/8b690b6fb2d9fa91a9731bb449c915955ed155d1
 r
