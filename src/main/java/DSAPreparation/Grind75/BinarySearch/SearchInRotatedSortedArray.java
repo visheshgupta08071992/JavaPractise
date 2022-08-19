@@ -23,6 +23,15 @@ import org.testng.annotations.Test;
 
 public class SearchInRotatedSortedArray {
 
+    /*
+    * Here we always try to find the answer in sorted array as we are aware of the range and we
+    * can check our target value with conditions as we know that the array is sorted. Hence we always
+    * check whether the Arr[mid] > Arr[Start] to ensure whether it is sorted array or not
+    *
+    *
+    *
+    * */
+
     @Test
     public void search(){
         int [] nums={3,1};
@@ -31,7 +40,8 @@ public class SearchInRotatedSortedArray {
         /*
         * int [] nums={5,6,1,2,3,4};
         int target=4;
-        *
+        *nums ={3,2,1}
+        * target =3
         * */
 
         int start = 0;
