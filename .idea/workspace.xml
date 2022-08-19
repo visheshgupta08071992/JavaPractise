@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BinarySearch/FindMinimumInRotatedSortedArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BinarySearch/SearchInRotatedSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BinarySearch/SearchInRotatedSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,25 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SearchInRotatedSortedArray.search">
+  <component name="RunManager" selected="TestNG.FindMinimumInRotatedSortedArray.findMinimum">
+    <configuration name="FindMinimumInRotatedSortedArray.findMinimum" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BinarySearch" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BinarySearch.FindMinimumInRotatedSortedArray" />
+      <option name="METHOD_NAME" value="findMinimum" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsLeftRotated" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -170,31 +188,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="groupAnagrams.groupAnagramBestApproachUsingSorting" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.groupAnagrams" />
-      <option name="METHOD_NAME" value="groupAnagramBestApproachUsingSorting" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FindMinimumInRotatedSortedArray.findMinimum" />
         <item itemvalue="TestNG.SearchInRotatedSortedArray.search" />
         <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsLeftRotated" />
         <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" />
         <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.test" />
-        <item itemvalue="TestNG.groupAnagrams.groupAnagramBestApproachUsingSorting" />
       </list>
     </recent_temporary>
   </component>
