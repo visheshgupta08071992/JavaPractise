@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BinarySearch/FindMinimumInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BitManipulation/SingleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +98,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FindMinimumInRotatedSortedArray.findMinimum">
+  <component name="RunManager" selected="TestNG.SingleNumber.findSingleNumber">
     <configuration name="FindMinimumInRotatedSortedArray.findMinimum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -152,24 +153,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharacter.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestSubstringWithoutRepeatingCharacter" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SearchInRotatedSortedArray.search" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -188,13 +171,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingleNumber.findSingleNumber" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.BitManipulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BitManipulation" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BitManipulation.SingleNumber" />
+      <option name="METHOD_NAME" value="findSingleNumber" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SingleNumber.findSingleNumber" />
         <item itemvalue="TestNG.FindMinimumInRotatedSortedArray.findMinimum" />
         <item itemvalue="TestNG.SearchInRotatedSortedArray.search" />
         <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsLeftRotated" />
         <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" />
-        <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.test" />
       </list>
     </recent_temporary>
   </component>
