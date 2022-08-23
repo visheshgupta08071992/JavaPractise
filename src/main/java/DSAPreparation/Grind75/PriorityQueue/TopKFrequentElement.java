@@ -61,16 +61,25 @@ public class TopKFrequentElement {
         System.out.println(mapSortedWithKey);
 
         //Iterate for Top K element
-        for(int i=1,j=0;i<=k;i++,j++){
-            for(Map.Entry<Integer,Integer> map1 : mapSortedWithKey.entrySet() ){
-                result[j] = map1.getKey();
-                //Removing the value as it is added in result
-                mapSortedWithKey.remove(map1.getKey());
-                //Breaking to get next value
-                break;
+//        for(int i=1,j=0;i<=k;i++,j++){
+//            for(Map.Entry<Integer,Integer> map1 : mapSortedWithKey.entrySet() ){
+//                result[j] = map1.getKey();
+//                //Removing the value as it is added in result
+//                mapSortedWithKey.remove(map1.getKey());
+//                //Breaking to get next value
+//                break;
+//            }
+//        }
+        int count=1;
+        int j=0;
+        for(int key:mapSortedWithKey.keySet()){
+            if(count<=k){
+                result[j]=key;
             }
+            count++;
+            j++;
         }
-        System.out.println(Arrays.toString(result));;
+        System.out.println(Arrays.toString(result));
     }
 
 

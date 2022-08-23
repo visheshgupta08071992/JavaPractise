@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/BitManipulation/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SingleNumber.findSingleNumber">
+  <component name="RunManager" selected="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues">
     <configuration name="FindMinimumInRotatedSortedArray.findMinimum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -117,35 +116,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsLeftRotated" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NumberOf1Bits.countNumberOf1Bits" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.BitManipulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindNoOfTimesASortedArrayIsRotated" />
-      <option name="METHOD_NAME" value="findNoOfTimesSortedArrayIsLeftRotated" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindNoOfTimesASortedArrayIsRotated" />
-      <option name="METHOD_NAME" value="findNoOfTimesSortedArrayIsRightRotated" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BitManipulation" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BitManipulation.NumberOf1Bits" />
+      <option name="METHOD_NAME" value="countNumberOf1Bits" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -189,13 +170,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.TopKFrequentElement" />
+      <option name="METHOD_NAME" value="topKFrequentElementBySortingHashMapWithValues" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" />
+        <item itemvalue="TestNG.NumberOf1Bits.countNumberOf1Bits" />
         <item itemvalue="TestNG.SingleNumber.findSingleNumber" />
         <item itemvalue="TestNG.FindMinimumInRotatedSortedArray.findMinimum" />
         <item itemvalue="TestNG.SearchInRotatedSortedArray.search" />
-        <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsLeftRotated" />
-        <item itemvalue="TestNG.FindNoOfTimesASortedArrayIsRotated.findNoOfTimesSortedArrayIsRightRotated" />
       </list>
     </recent_temporary>
   </component>
@@ -612,22 +611,22 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
-          <line>147</line>
+          <line>156</line>
           <option name="timeStamp" value="89" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
-          <line>108</line>
+          <line>117</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
-          <line>141</line>
+          <line>150</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java</url>
-          <line>143</line>
+          <line>152</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
