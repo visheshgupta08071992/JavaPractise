@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,25 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues">
+  <component name="RunManager" selected="TestNG.FindKClosestElements.findKClosest">
+    <configuration name="FindKClosestElements.findKClosest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.FindKClosestElements" />
+      <option name="METHOD_NAME" value="findKClosest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMinimumInRotatedSortedArray.findMinimum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -127,24 +145,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BitManipulation" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BitManipulation.NumberOf1Bits" />
       <option name="METHOD_NAME" value="countNumberOf1Bits" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SearchInRotatedSortedArray.search" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BinarySearch.SearchInRotatedSortedArray" />
-      <option name="METHOD_NAME" value="search" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FindKClosestElements.findKClosest" />
         <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" />
         <item itemvalue="TestNG.NumberOf1Bits.countNumberOf1Bits" />
         <item itemvalue="TestNG.SingleNumber.findSingleNumber" />
         <item itemvalue="TestNG.FindMinimumInRotatedSortedArray.findMinimum" />
-        <item itemvalue="TestNG.SearchInRotatedSortedArray.search" />
       </list>
     </recent_temporary>
   </component>
