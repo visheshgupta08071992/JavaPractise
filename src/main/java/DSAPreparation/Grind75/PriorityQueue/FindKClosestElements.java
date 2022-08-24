@@ -3,6 +3,7 @@ package DSAPreparation.Grind75.PriorityQueue;
 /*
 * Leetcode - https://leetcode.com/problems/find-k-closest-elements/
 * Youtube - https://www.youtube.com/watch?v=1otAwCQG7XM
+* Youtube Binary Search way - https://www.youtube.com/watch?v=6AackEaa0Qs
 *
 * Given a sorted integer array arr, two integers k and x, return the k closest integers to x in the array. The result should also be sorted in ascending order.
 
@@ -38,6 +39,101 @@ public class FindKClosestElements {
 *
 *
 * */
+
+    @Test
+    public void bestSolution(){
+        int [] arr={0,1,1,1,2,3,6,7,8,9};
+        int k=9;
+        int x=4;
+        int low = 0;
+        int high = arr.length -1;
+        while(high - low >=k){
+            //Whose ever gap is more should be moved further
+            if(Math.abs(arr[low] -x) > Math.abs(arr[high] -x)){
+                low++;
+            }
+            else {
+                high--;
+            }
+        }
+        List<Integer> list = new ArrayList<>(k);
+        for(int i=low;i<=high;i++){
+            list.add(arr[i]);
+        }
+        System.out.println(list);
+    }
+
+    @Test
+    public void findKClosestBetterApproachUsingBinarySearch(){
+        /*
+        * This is pepcoding Optimized solution but this code would not work when
+        * mid comes at 0th index
+        * */
+
+        /*int [] arr={0,1,1,1,2,3,6,7,8,9};
+        int k=9;
+        int x=4;*/
+
+        int [] arr={1,5,10};
+        int k=1;
+        int x=4;
+        List<Integer> list = new ArrayList<>();
+
+        int low =0;
+        int high=arr.length - 1;
+        int mid=(low + high)/2;
+        while(low<=high){
+            mid = (low + high)/2;
+
+            if(arr[mid]==x){
+                break;
+            }
+            else if(arr[mid] > x){
+                high = mid -1;
+            }
+            else if(arr[mid] < x){
+                low = mid +1;
+            }
+        }
+
+        //With Binary search we get the mid index which is closest to our x
+        int l = mid -1;
+        int h= mid;
+        while(l>=0 && h<arr.length && k>0){
+            //Here we have used less then equal because if gap is same then lower value in array
+            //should be considered
+            if(Math.abs(arr[l] - x) <= Math.abs(arr[h] - x)){
+                list.add(arr[l]);
+                l--;
+            }
+            else if(Math.abs(arr[h] - x) < Math.abs(arr[l] - x)){
+                list.add(arr[h]);
+                h++;
+            }
+            k--;
+        }
+
+        if(k!=0){
+            if(l>=0){
+                while(k!=0 && l>=0){
+                    list.add(arr[l]);
+                    l--;
+                    k--;
+                }
+            }
+            else if(h < arr.length){
+                while(k!=0 && h<arr.length){
+                    list.add(arr[h]);
+                    h++;
+                    k--;
+                }
+            }
+        }
+        Collections.sort(list);
+        System.out.println(list);
+    }
+
+
     @Test
     public void findKClosest(){
         /*int [] arr = {1,2,3,4,5};

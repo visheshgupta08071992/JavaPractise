@@ -97,7 +97,25 @@
       <recent name="SeleniumPractise.HandlingDropDowns" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FindKClosestElements.findKClosest">
+  <component name="RunManager" selected="TestNG.FindKClosestElements.bestSolution">
+    <configuration name="FindKClosestElements.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.FindKClosestElements" />
+      <option name="METHOD_NAME" value="bestSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindKClosestElements.findKClosest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -116,17 +134,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMinimumInRotatedSortedArray.findMinimum" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FindKClosestElements.findKClosestBetterApproachUsingBinarySearch" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.BinarySearch.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BinarySearch.FindMinimumInRotatedSortedArray" />
-      <option name="METHOD_NAME" value="findMinimum" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.FindKClosestElements" />
+      <option name="METHOD_NAME" value="findKClosestBetterApproachUsingBinarySearch" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -145,24 +163,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BitManipulation" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BitManipulation.NumberOf1Bits" />
       <option name="METHOD_NAME" value="countNumberOf1Bits" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumber.findSingleNumber" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.BitManipulation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BitManipulation" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BitManipulation.SingleNumber" />
-      <option name="METHOD_NAME" value="findSingleNumber" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FindKClosestElements.bestSolution" />
+        <item itemvalue="TestNG.FindKClosestElements.findKClosestBetterApproachUsingBinarySearch" />
         <item itemvalue="TestNG.FindKClosestElements.findKClosest" />
         <item itemvalue="TestNG.TopKFrequentElement.topKFrequentElementBySortingHashMapWithValues" />
         <item itemvalue="TestNG.NumberOf1Bits.countNumberOf1Bits" />
-        <item itemvalue="TestNG.SingleNumber.findSingleNumber" />
-        <item itemvalue="TestNG.FindMinimumInRotatedSortedArray.findMinimum" />
       </list>
     </recent_temporary>
   </component>
@@ -658,6 +658,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/FindNoOfTimesASortedArrayIsRotated.java</url>
           <line>38</line>
           <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="105" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
