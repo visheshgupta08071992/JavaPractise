@@ -47,7 +47,8 @@ public class FindKClosestElements {
         int x=4;
         int low = 0;
         int high = arr.length -1;
-        while(high - low >=k){
+        //Run the loop till k elements are present between low and high
+        while(high - low  +1 !=k){
             //Whose ever gap is more should be moved further
             if(Math.abs(arr[low] -x) > Math.abs(arr[high] -x)){
                 low++;
