@@ -10,7 +10,7 @@ We can get no of rows and no of columns using -
 
 **No of rows** - arr.length
 
-**No of rows** - arr[0].length
+**No of Columns** - arr[0].length
 
 ### Declaring and initializing 2D Array
 
