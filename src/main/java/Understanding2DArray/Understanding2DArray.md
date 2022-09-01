@@ -6,12 +6,18 @@
 
 ![image](https://user-images.githubusercontent.com/52998083/187847157-06796f11-c1fe-4818-846a-c589c9c2294e.png)
 
-
 We can get no of rows and no of columns using -
 
 **No of rows** - arr.length
 
 **No of rows** - arr[0].length
+
+### Declaring and initializing 2D Array
+
+int [][] matrix2 = {{1,3,5},{2,4,6}}; // 2*3
+
+![image](https://user-images.githubusercontent.com/52998083/187856494-b3a166a2-73c1-467f-b324-d15d0e6e31f2.png)
+
 
 ### Generic code for iterating and displaying matrix
 
