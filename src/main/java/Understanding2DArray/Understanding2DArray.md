@@ -13,6 +13,11 @@ We can get no of rows and no of columns using -
 
 **No of rows** - arr[0].length
 
+### Generic code for iterating and displaying matrix
+
+![image](https://user-images.githubusercontent.com/52998083/187849578-a93ca7db-f2cd-46e6-813d-f8368dbea7de.png)
+
+
 **Referance** - https://www.youtube.com/watch?v=aN9zP9M_FZ8
 
 
