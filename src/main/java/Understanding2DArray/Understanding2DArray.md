@@ -19,7 +19,7 @@ int [][] matrix2 = {{1,3,5},{2,4,6}}; // 2*3
 ![image](https://user-images.githubusercontent.com/52998083/187856494-b3a166a2-73c1-467f-b324-d15d0e6e31f2.png)
 
 
-### Generic code for iterating and displaying matrix
+### Generic code for iterating and displaying matrix, The Given Appoach displays a row column by column
 
 ![image](https://user-images.githubusercontent.com/52998083/187849578-a93ca7db-f2cd-46e6-813d-f8368dbea7de.png)
 
