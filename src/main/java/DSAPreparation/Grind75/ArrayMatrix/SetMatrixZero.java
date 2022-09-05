@@ -17,40 +17,50 @@ import java.util.Set;
 public class SetMatrixZero {
 
     @Test
+    //The given approach used additional space of two sets
     public void setMatrixZero(){
         //int [][] arr={{1,1,1},{1,0,1},{1,1,1}};
         //Expected [[1,0,1],[0,0,0],[1,0,1]]
-        int [][] arr={{0,1,2,0},{3,4,5,2},{1,3,1,5}};
+        int [][] matrix={{0,1,2,0},{3,4,5,2},{1,3,1,5}};
         // Expected [[0,0,0,0],[0,4,5,0],[0,3,1,0]]
-        Set<Integer> rowWithZero= new HashSet<>();
-        Set<Integer> columnWithZero= new HashSet<>();
+        //Creating two sets one for maintaining  rows having zeros and other for maintaining  columns having zeros
+        // We have used set as a single row might contain multiple zeros so we dont want rows to duplicated
+        Set<Integer> rowsWithZero = new HashSet<>();
+        Set<Integer> columnsWithZero = new HashSet<>();
 
-        for(int i=0;i<arr.length;i++){
-            for(int j=0;j<arr[i].length;j++){
-                if(arr[i][j]==0){
-                    rowWithZero.add(i);
-                    columnWithZero.add(j);
+        for(int i=0;i<matrix.length;i++){
+            for(int j=0;j<matrix[i].length;j++){
+                if(matrix[i][j]==0){
+                    rowsWithZero.add(i);
+                    columnsWithZero.add(j);
                 }
             }
         }
-        System.out.println(" Row with zero : " + rowWithZero);
-        System.out.println(" Columns with zero : " + columnWithZero);
 
-        for(int i=0;i< arr.length;i++){
-            for(int j=0;j < arr[i].length;j++){
-                if(rowWithZero.contains(i)){
-                    for(int k=0;k<arr[0].length;k++){
-                        arr[i][k]=0;
+        //Now we have rows and columns containing zero, We would iterate the matrix and check whether the corresponding row has
+        //zero then we would make the entire row zero, Similarly we would make entire column zero if the coulmn contains zero
+
+        for(int i=0;i<matrix.length;i++){
+            //Added flag condition to avoid itearation of making row zero if it is already zero
+            Boolean flag = true;
+            for(int j=0;j<matrix[i].length;j++){
+                if(rowsWithZero.contains(i) && flag){
+                    //Navigate column wise and make the entire row zero
+                    for(int k=0;k<matrix[i].length;k++){
+                        matrix[i][k]=0;
                     }
+                    flag=false;
                 }
-                if(columnWithZero.contains(j)){
-                    for(int m=0;m<arr.length;m++){
-                        arr[m][j]=0;
+
+                if(columnsWithZero.contains(j)){
+                    //Navigate row wise and make the entire column zero
+                    for(int m=0;m<matrix.length;m++){
+                        matrix[m][j]=0;
                     }
                 }
             }
         }
-        System.out.println(Arrays.deepToString(arr));
+        System.out.println(Arrays.deepToString(matrix));
     }
 
     @Test
