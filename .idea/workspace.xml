@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/InsertInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/SetMatrixZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/SetMatrixZero.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,26 +97,8 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.MergeInterval.merge">
-    <configuration name="FindKClosestElements.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.FindKClosestElements" />
-      <option name="METHOD_NAME" value="bestSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GasStation.findStartStation" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.InsertInterval.insertIntervalBestApproach">
+    <configuration name="InsertInterval.insertInterval" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -126,8 +107,26 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.GasStation" />
-      <option name="METHOD_NAME" value="findStartStation" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.InsertInterval" />
+      <option name="METHOD_NAME" value="insertInterval" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertInterval.insertIntervalBestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.InsertInterval" />
+      <option name="METHOD_NAME" value="insertIntervalBestApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -191,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.InsertInterval.insertIntervalBestApproach" />
+        <item itemvalue="TestNG.InsertInterval.insertInterval" />
         <item itemvalue="TestNG.MergeInterval.merge" />
         <item itemvalue="TestNG.SetMatrixZero.setMatrixZero" />
         <item itemvalue="TestNG.RotatematrixBy90Degree.rotate" />
-        <item itemvalue="TestNG.GasStation.findStartStation" />
-        <item itemvalue="TestNG.FindKClosestElements.bestSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -669,6 +668,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java</url>
           <line>85</line>
           <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/InsertInterval.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="107" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
