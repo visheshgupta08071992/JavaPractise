@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/NonOverlappingIntervals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +97,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.InsertInterval.insertIntervalBestApproach">
+  <component name="RunManager" selected="TestNG.NonOverlappingIntervals.nonOverLap">
     <configuration name="InsertInterval.insertInterval" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -152,17 +152,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotatematrixBy90Degree.rotate" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="NonOverlappingIntervals.nonOverLap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.ArrayMatrix.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.ArrayMatrix" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.ArrayMatrix.RotatematrixBy90Degree" />
-      <option name="METHOD_NAME" value="rotate" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.NonOverlappingIntervals" />
+      <option name="METHOD_NAME" value="nonOverLap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.NonOverlappingIntervals.nonOverLap" />
         <item itemvalue="TestNG.InsertInterval.insertIntervalBestApproach" />
         <item itemvalue="TestNG.InsertInterval.insertInterval" />
         <item itemvalue="TestNG.MergeInterval.merge" />
         <item itemvalue="TestNG.SetMatrixZero.setMatrixZero" />
-        <item itemvalue="TestNG.RotatematrixBy90Degree.rotate" />
       </list>
     </recent_temporary>
   </component>
@@ -673,6 +673,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/InsertInterval.java</url>
           <line>102</line>
           <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/InsertInterval.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
