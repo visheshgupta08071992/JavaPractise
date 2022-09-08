@@ -87,4 +87,62 @@ public class DecodeString {
         System.out.println(result.toString());
 
     }
+
+    @Test
+    public void usingelseIf(){
+
+        String s="3[a]2[bc]";
+        // Created numStack to store numeric values of String
+        Stack<Integer> numStack= new Stack<>();
+
+        //Created  String stack to store rest of the characters as String
+        Stack<String> st= new Stack<>();
+
+
+        int k=0;
+        for(char c:s.toCharArray()){
+
+            if(Character.isDigit(c)){
+                k= k*10 + Integer.valueOf(String.valueOf(c));
+            }
+
+            else if(c=='['){
+                numStack.push(k);
+                k=0;
+                st.push(String.valueOf(c));
+            }
+            else if(c!=']'){
+                st.push(String.valueOf(c));
+            }
+
+            else{
+                StringBuilder sb = new StringBuilder();
+
+                while(!st.peek().equals("[")){
+                    sb.insert(0,st.pop());
+                }
+
+                st.pop();
+
+                int count = numStack.pop();
+
+                StringBuilder sb1 = new StringBuilder();
+
+                for(int i=1;i<=count;i++){
+                    sb1.append(sb);
+                }
+
+                st.push(sb1.toString());
+            }
+
+        }
+
+        StringBuilder result = new StringBuilder();
+
+        while(!st.isEmpty()){
+            result.insert(0,st.pop());
+        }
+
+        System.out.println(result.toString());
+    }
 }
