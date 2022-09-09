@@ -41,6 +41,10 @@ public class FindMinimumInRotatedSortedArray {
     @Test
     public void findMinimum(){
         int [] nums={4,5,6,7,0,1,2};
+
+        /*
+        * nums = [2,1]
+        * */
         int start = 0;
         int end = nums.length - 1;
         int mid;

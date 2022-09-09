@@ -57,6 +57,7 @@ public class SearchInRotatedSortedArray {
             }
 
             //Left Array is sorted, >= conditions is used as even if the element is equal it would be sorted
+            //If we wont give equal condition the it would for Array ->[3,1] and target 1
             else if(nums[mid] >= nums[start]){
 
                 if(target < nums[mid] && target >= nums[start]){
