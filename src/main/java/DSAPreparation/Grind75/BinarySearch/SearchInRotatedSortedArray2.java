@@ -12,6 +12,8 @@ public class SearchInRotatedSortedArray2 {
 
     @Test
     public void search(){
+        //The given approach works for both if array has duplicate elements or if array has distinct elements
+        //So the given code works for both SearchInRotatedSortedArray1 and SearchInRotatedSortedArray2
         int [] nums={2,5,6,0,0,1,2,2,2,2,2};
         int target=0;
 
