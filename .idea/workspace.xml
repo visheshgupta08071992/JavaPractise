@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6743165feb6c3c40ddc289c1084666cda01d8f35" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/SearchIn2Dmatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66249d80840f2bcde48340c6b729b25e02577a89" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -98,7 +99,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DecodeString.test">
+  <component name="RunManager" selected="TestNG.SearchIn2Dmatrix.testUsingBinarySearch">
     <configuration name="DecodeString.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -110,24 +111,6 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.DecodeString" />
       <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InsertInterval.insertInterval" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.InsertInterval" />
-      <option name="METHOD_NAME" value="insertInterval" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -153,24 +136,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeInterval.merge" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MergeInterval" />
-      <option name="METHOD_NAME" value="merge" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NonOverlappingIntervals.nonOverLap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -189,13 +154,49 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearchIn2Dmatrix.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.ArrayMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.ArrayMatrix" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.ArrayMatrix.SearchIn2Dmatrix" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchIn2Dmatrix.testUsingBinarySearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.ArrayMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.ArrayMatrix" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.ArrayMatrix.SearchIn2Dmatrix" />
+      <option name="METHOD_NAME" value="testUsingBinarySearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SearchIn2Dmatrix.testUsingBinarySearch" />
+        <item itemvalue="TestNG.SearchIn2Dmatrix.test" />
         <item itemvalue="TestNG.DecodeString.test" />
         <item itemvalue="TestNG.NonOverlappingIntervals.nonOverLap" />
         <item itemvalue="TestNG.InsertInterval.insertIntervalBestApproach" />
-        <item itemvalue="TestNG.InsertInterval.insertInterval" />
-        <item itemvalue="TestNG.MergeInterval.merge" />
       </list>
     </recent_temporary>
   </component>
