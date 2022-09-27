@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/BasicCalculater2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/conatinsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/conatinsDuplicate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +97,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BasicCalculater2.test1">
+  <component name="RunManager" selected="TestNG.conatinsDuplicate.testUsingSet">
     <configuration name="BasicCalculater2.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -152,17 +152,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchIn2Dmatrix.testUsingBinarySearch" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Test123.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.ArrayMatrix.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.ArrayMatrix" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.ArrayMatrix.SearchIn2Dmatrix" />
-      <option name="METHOD_NAME" value="testUsingBinarySearch" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.Test123" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -170,17 +170,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInRotatedSortedArray2.search" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="conatinsDuplicate.testUsingSet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.BinarySearch.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BinarySearch.SearchInRotatedSortedArray2" />
-      <option name="METHOD_NAME" value="search" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.conatinsDuplicate" />
+      <option name="METHOD_NAME" value="testUsingSet" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.conatinsDuplicate.testUsingSet" />
+        <item itemvalue="TestNG.Test123.test" />
         <item itemvalue="TestNG.BasicCalculater2.test1" />
         <item itemvalue="TestNG.BasicCalculater2.test" />
         <item itemvalue="TestNG.KoKoEatingBanana.test" />
-        <item itemvalue="TestNG.SearchInRotatedSortedArray2.search" />
-        <item itemvalue="TestNG.SearchIn2Dmatrix.testUsingBinarySearch" />
       </list>
     </recent_temporary>
   </component>

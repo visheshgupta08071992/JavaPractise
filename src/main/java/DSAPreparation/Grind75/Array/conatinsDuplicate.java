@@ -3,7 +3,9 @@ package DSAPreparation.Grind75.Array;
 import org.testng.annotations.Test;
 
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
+import java.util.Set;
 
 /*
 * Leetcode - https://leetcode.com/problems/contains-duplicate/
@@ -35,5 +37,20 @@ public class conatinsDuplicate {
             }
         }
         System.out.println("FALSE");
+    }
+
+    @Test
+    public void testUsingSet(){
+        int [] nums={1,4,5,7,8,4};
+        Set<Integer> set = new HashSet<>();
+
+        for(int i :nums){
+            //If element is not getting addded in set the it is duplicate element and return true
+            if(!set.add(i)){
+                System.out.println("true");
+                return;
+            }
+        }
+        System.out.println("false");;
     }
     }
