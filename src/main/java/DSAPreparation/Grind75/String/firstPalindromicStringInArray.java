@@ -27,9 +27,6 @@ Input: words = ["def","ghi"]
 Output: ""
 Explanation: There are no palindromic strings, so the empty string is returned.
 *
-*
-*
-*
 * */
 
 import org.testng.annotations.Test;
