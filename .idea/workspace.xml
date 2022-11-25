@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/conatinsDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/conatinsDuplicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,21 +37,21 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/checkHowDoesConcatinationOperatiorWorksWithCharacter.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/MinStack.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ArrayRotation.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Stack/UnderstandingStack" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ArrayRotation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/checkHowDoesConcatinationOperatiorWorksWithCharacter.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DecodeString.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/MinStack.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../../Program Files/Apache/Maven 3.6.3" />
+        <option name="mavenHome" value="$USER_HOME$/Program Files/Apache/Maven 3.6.3" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -71,7 +71,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.17" />
@@ -97,62 +97,8 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.conatinsDuplicate.testUsingSet">
-    <configuration name="BasicCalculater2.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.BasicCalculater2" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BasicCalculater2.test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.BasicCalculater2" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KoKoEatingBanana.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.BinarySearch" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.BinarySearch.KoKoEatingBanana" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test123.test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ValidPalindrome.validPalindrome">
+    <configuration name="MajorityElement1.findMajorityBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -161,8 +107,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.Test123" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MajorityElement1" />
+      <option name="METHOD_NAME" value="findMajorityBestSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -170,7 +116,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="conatinsDuplicate.testUsingSet" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MergeInterval.merge" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -179,8 +125,62 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.conatinsDuplicate" />
-      <option name="METHOD_NAME" value="testUsingSet" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MergeInterval" />
+      <option name="METHOD_NAME" value="merge" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeInterval.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MergeInterval" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindrome.validPalindrome" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.ValidPalindrome" />
+      <option name="METHOD_NAME" value="validPalindrome" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test123.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.test123" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.conatinsDuplicate.testUsingSet" />
-        <item itemvalue="TestNG.Test123.test" />
-        <item itemvalue="TestNG.BasicCalculater2.test1" />
-        <item itemvalue="TestNG.BasicCalculater2.test" />
-        <item itemvalue="TestNG.KoKoEatingBanana.test" />
+        <item itemvalue="TestNG.ValidPalindrome.validPalindrome" />
+        <item itemvalue="TestNG.MajorityElement1.findMajorityBestSolution" />
+        <item itemvalue="TestNG.MergeInterval.merge" />
+        <item itemvalue="TestNG.MergeInterval.test2" />
+        <item itemvalue="TestNG.test123.test" />
       </list>
     </recent_temporary>
   </component>
@@ -683,6 +683,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/BasicCalculater2.java</url>
           <line>59</line>
           <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/MergeInterval.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="112" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
