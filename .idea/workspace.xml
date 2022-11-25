@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/firstPalindromicStringInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validPalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validPalindrome2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortStudentObjectUsingComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortStudentObjectUsingComparable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.firstPalindromicStringInArray.firstPalindromicStringInArray">
+  <component name="RunManager" selected="TestNG.SortStudentObjectUsingComparable.sort">
     <configuration name="MajorityElement1.findMajorityBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -117,17 +116,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeInterval.merge" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortStudentObjectUsingComparable.sort" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="ComparableAndComparater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MergeInterval" />
-      <option name="METHOD_NAME" value="merge" />
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
+      <option name="METHOD_NAME" value="sort" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -135,17 +134,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeInterval.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UnderstandingLexigraphicSortingOfStringArray.sortStringArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.MergeInterval" />
-      <option name="METHOD_NAME" value="test2" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.UnderstandingLexigraphicSortingOfStringArray" />
+      <option name="METHOD_NAME" value="sortStringArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -191,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SortStudentObjectUsingComparable.sort" />
+        <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
         <item itemvalue="TestNG.firstPalindromicStringInArray.firstPalindromicStringInArray" />
         <item itemvalue="TestNG.ValidPalindrome.validPalindrome" />
         <item itemvalue="TestNG.MajorityElement1.findMajorityBestSolution" />
-        <item itemvalue="TestNG.MergeInterval.merge" />
-        <item itemvalue="TestNG.MergeInterval.test2" />
       </list>
     </recent_temporary>
   </component>

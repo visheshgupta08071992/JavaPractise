@@ -19,7 +19,7 @@ public class SortStudentObjectUsingComparable {
 
         //Sorted in Ascending order first on Marks and if Marks are equal then on name
         Collections.sort(list);
-        list.stream().forEach(e -> System.out.println(e));
+        list.stream().forEach(System.out::println);
 
         System.out.println("------------------------------");
 
