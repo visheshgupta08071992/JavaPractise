@@ -16,7 +16,7 @@ public class ValidPalindrome {
     public void validPalindrome(){
       //  String s = "A man, a plan, a canal: Panama";
         String s="ab_a";
-        s=s.toLowerCase().replaceAll("\\d","") //replacing digits
+        s=s.toLowerCase()
                 .replaceAll("\\s","")//replacing whitespace
                 .replaceAll("[^A-Za-z0-9]", "");
                // .replaceAll("\\W",""); // replacing nonWord like , : but
