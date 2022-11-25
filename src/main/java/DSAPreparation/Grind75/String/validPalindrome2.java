@@ -3,7 +3,7 @@ package DSAPreparation.Grind75.String;
 /*
 * Leetcode - https://leetcode.com/problems/valid-palindrome-ii/
 * Pepcoding - https://www.pepcoding.com/resources/data-structures-and-algorithms-in-java-levelup/arrays-and-strings/valid-palindrome-2/ojquestion
-*
+* Youtube - https://www.youtube.com/watch?v=nMjhRtYg2_A&list=TLGGpY9FTOTrtS4yNTExMjAyMg
 * Given a string s, return true if the s can be palindrome after deleting at most one character from it.
 
 
