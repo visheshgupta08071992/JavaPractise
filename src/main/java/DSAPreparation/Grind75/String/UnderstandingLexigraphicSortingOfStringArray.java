@@ -42,7 +42,8 @@ public class UnderstandingLexigraphicSortingOfStringArray {
 
     @Test
     public void sortStringArray(){
-        String [] str = {"5587","559"};
+        //String [] str = {"5587","559"};
+        String [] str = {"flower","float","floaing","fly","flight"};
         Arrays.sort(str);
         System.out.println(Arrays.toString(str));
     }

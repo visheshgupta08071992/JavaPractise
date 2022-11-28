@@ -30,8 +30,9 @@ public class LongestCommonPrefix {
 
     @Test
     public void findLongestCommonPrefix(){
-       String [] strs = {"flower","flow","flight"};
+      // String [] strs = {"flower","flow","flight"};
        // String [] strs = {"dog","racecar","car"};
+        String [] strs = {"flower","float","floaing","fly","flight"};
 
         //Sort the string
         Arrays.sort(strs);

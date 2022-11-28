@@ -1,0 +1,10 @@
+
+V	java:S1251"<This block of commented-out lines of code should be removed.(÷¦†èıÿÿÿÿ
+B
+java:S11257"'Remove the unnecessary boolean literal.(¿³ã–úÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(Ü­Åøÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(—İñŒ
+M	java:S106I"9Replace this use of System.out or System.err by a logger.(ÔŒ„p
+E
+java:S54117"*Use the primitive boolean expression here.(¿³ã–úÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÁ»€
