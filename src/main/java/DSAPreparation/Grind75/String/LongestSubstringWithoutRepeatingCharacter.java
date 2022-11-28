@@ -22,7 +22,8 @@ public class LongestSubstringWithoutRepeatingCharacter {
         * String s=" "
         *
         * */
-        String s="pwwkew";
+       // String s="pwwkew";
+        String s ="abcdadcaebedabcdfeb";
         Set<Character> set = new HashSet<>();
         int j = 0;
         int max = 0;

@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41e691891855b9423bdd920db92d2139f133c3ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/f/1f038bb7c1b3d063b0d6697501081c9f8b525193" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/UnderstandingLexigraphicSortingOfStringArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/UnderstandingLexigraphicSortingOfStringArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/UnderstandingLexigraphicSortingOfStringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/UnderstandingLexigraphicSortingOfStringArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToCompareTwoJsonAndStoreTheUnCommonDataInThirdJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +99,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestCommonPrefix.findLongestCommonPrefix">
+  <component name="RunManager" selected="TestNG.LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar">
     <configuration name="BackSpaceStringCompare.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -134,6 +129,24 @@
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
       <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestCommonPrefix" />
       <option name="METHOD_NAME" value="findLongestCommonPrefix" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestSubstringWithoutRepeatingCharacter" />
+      <option name="METHOD_NAME" value="findLongestSubstringWithoutRepeatingChar" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -177,31 +190,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstPalindromicStringInArray.firstPalindromicStringInArray" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.firstPalindromicStringInArray" />
-      <option name="METHOD_NAME" value="firstPalindromicStringInArray" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" />
         <item itemvalue="TestNG.LongestCommonPrefix.findLongestCommonPrefix" />
         <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
         <item itemvalue="TestNG.BackSpaceStringCompare.test" />
         <item itemvalue="TestNG.SortStudentObjectUsingComparable.sort" />
-        <item itemvalue="TestNG.firstPalindromicStringInArray.firstPalindromicStringInArray" />
       </list>
     </recent_temporary>
   </component>
