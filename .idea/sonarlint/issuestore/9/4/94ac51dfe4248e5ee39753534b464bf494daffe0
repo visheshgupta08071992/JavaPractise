@@ -1,17 +1,0 @@
-
-Q	java:S125""<This block of commented-out lines of code should be removed.(Îµ¥
-N	java:S1063"9Replace this use of System.out or System.err by a logger.(‰àÆ
-Q	java:S1259"<This block of commented-out lines of code should be removed.(Îµ¥
-S	java:S106P"9Replace this use of System.out or System.err by a logger.(¼‰©üÿÿÿÿ
-V	java:S125["<This block of commented-out lines of code should be removed.(ùßı“ûÿÿÿÿ
-S	java:S106{"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
-J
-java:S2864"4Iterate over the "entrySet" instead of the "keySet".(´ºØB
-E
-java:S1066t"/Merge this if statement with the enclosing one.(ìñ
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶ãñÏ
-@
-java:S5411m"*Use the primitive boolean expression here.(É•¨Ğ
-@
-java:S5411s"*Use the primitive boolean expression here.(É•¨Ğ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µëŞØ

@@ -25,6 +25,7 @@ Output: 4
 
 import org.testng.annotations.Test;
 
+import java.util.Arrays;
 import java.util.Collections;
 import java.util.PriorityQueue;
 
@@ -48,5 +49,23 @@ public class KthLargestElement {
         System.out.println(pq.peek());
     }
 
+    @Test
+    public void findKthLargestElementUsingSort(){
+        int [] nums={3,2,3,1,2,4,5,5,6};
+        int k=2;
+        Integer [] nums1 = new Integer[nums.length];
+
+        for(int i=0;i<nums.length;i++){
+            nums1[i]=nums[i];
+        }
+
+        //We cannot sort array of type int in reverseOrder, Hence first converting to Array of Type Integer
+        Arrays.sort(nums1, Collections.reverseOrder());
+
+        System.out.println(nums1[k-1]);
     }
+
+    }
+
+
 
