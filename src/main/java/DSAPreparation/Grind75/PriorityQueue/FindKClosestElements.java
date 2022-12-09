@@ -48,11 +48,13 @@ public class FindKClosestElements {
         int low = 0;
         int high = arr.length -1;
         //Run the loop till k elements are present between low and high
+        //The while loop would ensure to create a bucket size of k elements between low and high
         while(high - low  +1 !=k){
             //Whose ever gap is more should be moved further
             if(Math.abs(arr[low] -x) > Math.abs(arr[high] -x)){
                 low++;
             }
+            //If the gap between higher and x is greater or equal to gap between lower and x
             else {
                 high--;
             }
