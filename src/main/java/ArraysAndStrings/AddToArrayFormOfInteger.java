@@ -9,6 +9,7 @@ package ArraysAndStrings;
 import org.testng.annotations.Test;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class AddToArrayFormOfInteger {
@@ -46,5 +47,38 @@ public class AddToArrayFormOfInteger {
             sum.add(val);
         }
         System.out.println(sum);
+    }
+
+    @Test
+    public void addArrayBestSolution(){
+        int [] num={2,1,5};
+        int k=806;
+        String num2= String.valueOf(k);
+        int [] result = new int[num.length > num2.length() ? num.length:num2.length()];
+        int carry=0;
+
+        int i=num.length - 1;
+        int j=num2.length() - 1;
+        int m=result.length - 1;
+        List<Integer> list = new ArrayList<>();
+
+        while(m>=0){
+            int val1 = i>=0 ? num[i]:0;
+            int val2 = j>=0 ? num2.charAt(i) - '0':0;
+            i--;
+            j--;
+            int sum = val1 + val2 + carry;
+            result[m]=sum%10;
+            m--;
+            carry=sum/10;
+        }
+
+        if(carry > 0){
+            list.add(carry);
+        }
+        for(int val : result){
+            list.add(val);
+        }
+        System.out.println(list);
     }
 }
