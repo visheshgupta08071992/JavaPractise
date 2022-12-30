@@ -18,23 +18,21 @@ public class ProductOfArrayExceptItself {
     @Test
     public void bestSolution(){
         int [] nums={2,3,1,5,2,4};
-        int [] right= new int[nums.length];
         int [] result= new int[nums.length];
+        int [] rightProduct = new int[nums.length];
 
-        //Create right product
-        int product=1;
-        for(int i=nums.length -1;i>=0;i--){
-            product= product * nums[i];
-            right[i]=product;
+        rightProduct[nums.length - 1] = 1;
+        int rightProd =1;
+        for(int i=nums.length -2;i>=0;i--){
+            rightProd = rightProd * nums[i+1];
+            rightProduct[i] = rightProd;
         }
 
-        //Find the product of array except itself
-        int leftProduct=1;
-        for(int i=0;i<nums.length -1;i++){
-            result[i]= right[i+1] * leftProduct;
-            leftProduct=leftProduct * nums[i];
+        int leftProduct = 1;
+        for(int i=0;i<nums.length;i++){
+            result[i] = leftProduct * rightProduct[i];
+            leftProduct = leftProduct * nums[i];
         }
-        result[nums.length -1]=leftProduct;
         System.out.println(Arrays.toString(result));
     }
 
