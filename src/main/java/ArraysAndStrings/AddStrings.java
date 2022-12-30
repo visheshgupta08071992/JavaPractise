@@ -101,4 +101,19 @@ public class AddStrings {
         System.out.println(sb);
         System.out.println(sb.toString());
     }
+
+    @Test
+    public void addStringByConvertingIntoInteger(){
+
+        String s1="9997";
+        String s2="389";
+
+        int sum = Integer.valueOf(s1) + Integer.valueOf(s2);
+
+        String result = String.valueOf(sum);
+
+        System.out.println(sum);
+        System.out.println(result);
+
+    }
 }
