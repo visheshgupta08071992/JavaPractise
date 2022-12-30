@@ -52,4 +52,53 @@ public class AddStrings {
 
         System.out.println(result);
     }
+
+    @Test
+    public void addStringBestSolution(){
+
+        String s1="9997";
+        String s2="389";
+        String result="";
+
+        int i=s1.length() - 1;
+        int j=s2.length() -1;
+        int carry=0;
+
+        while(i>=0 || j>=0 || carry>0){
+            int val1 = i>=0 ? s1.charAt(i) -'0' : 0;
+            int val2 = j>=0 ? s2.charAt(j) -'0' : 0;
+            i--;
+            j--;
+
+            int sum = val1+val2+carry;
+            result = sum%10 + result;
+            carry = sum/10;
+        }
+        System.out.println(result);
+    }
+
+    @Test
+    public void addStringBestSolutionUsingStringBuilder(){
+
+        String s1="9997";
+        String s2="389";
+        StringBuilder sb = new StringBuilder();
+
+        int i=s1.length() - 1;
+        int j=s2.length() -1;
+        int carry=0;
+
+        while(i>=0 || j>=0 || carry>0){
+            int val1 = i>=0 ? s1.charAt(i) -'0' : 0;
+            int val2 = j>=0 ? s2.charAt(j) -'0' : 0;
+            i--;
+            j--;
+
+            int sum = val1+val2+carry;
+            sb.insert(0,sum%10);
+            carry = sum/10;
+        }
+        System.out.println(sb);
+        System.out.println(sb.toString());
+    }
 }

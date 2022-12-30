@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d6fe4e422eb512c832546f4fb1c61eb26fc848a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/897334b5c4a9a71fd23b00b8236fae652a835a7e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/e/8ea2a0915a620a173c508e89731c7f0acec494bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -55,6 +62,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1XCCyQlwOXUnktmL8bdqDtubJ1l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -97,7 +107,43 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FindKClosestElements.bestSolution">
+  <component name="RunManager" selected="TestNG.AddStrings.addStringBestSolutionUsingStringBuilder">
+    <configuration name="AddStrings.addStringBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddStrings" />
+      <option name="METHOD_NAME" value="addStringBestSolution" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddStrings.addStringBestSolutionUsingStringBuilder" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddStrings" />
+      <option name="METHOD_NAME" value="addStringBestSolutionUsingStringBuilder" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindKClosestElements.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -152,49 +198,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.LongestSubstringWithoutRepeatingCharacter" />
-      <option name="METHOD_NAME" value="findLongestSubstringWithoutRepeatingChar" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PriorityQueueTest.verifyWhenQueueIsEmpty" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="UnderstandPriorityQueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="UnderstandPriorityQueue" />
-      <option name="MAIN_CLASS_NAME" value="UnderstandPriorityQueue.PriorityQueueTest" />
-      <option name="METHOD_NAME" value="verifyWhenQueueIsEmpty" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddStrings.addStringBestSolutionUsingStringBuilder" />
+        <item itemvalue="TestNG.AddStrings.addStringBestSolution" />
         <item itemvalue="TestNG.FindKClosestElements.bestSolution" />
         <item itemvalue="TestNG.KthLargestElement.findKthLargestElementUsingSort1" />
         <item itemvalue="TestNG.KthLargestElement.findKthLargestElementUsingSort" />
-        <item itemvalue="TestNG.PriorityQueueTest.verifyWhenQueueIsEmpty" />
-        <item itemvalue="TestNG.LongestSubstringWithoutRepeatingCharacter.findLongestSubstringWithoutRepeatingChar" />
       </list>
     </recent_temporary>
   </component>
