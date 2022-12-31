@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/IntersectionOfTwoArrays2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c3b34637e8d94b676d3c52e3fd5b4fd1bacd287" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5ac053e359aa66074333334914d16df60d5cf3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,25 +106,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.IntersectionOfTwoArrays2.test">
-    <configuration name="AAPractise.diffOfTwoArrays" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
-      <option name="METHOD_NAME" value="diffOfTwoArrays" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex">
     <configuration name="IntersectionOfTwoArrays1.approach1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -194,13 +179,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LongestConsecutiveSequence.findLongestConsecutiveIndex" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.LongestConsecutiveSequence" />
+      <option name="METHOD_NAME" value="findLongestConsecutiveIndex" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex" />
         <item itemvalue="TestNG.IntersectionOfTwoArrays2.test" />
         <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach3" />
         <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach2" />
         <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach1" />
-        <item itemvalue="TestNG.AAPractise.diffOfTwoArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -579,7 +582,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java</url>
-          <line>51</line>
+          <line>52</line>
           <option name="timeStamp" value="77" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

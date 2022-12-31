@@ -31,7 +31,8 @@ public class LongestConsecutiveSequence {
 
     @Test
     public void findLongestConsecutiveIndex(){
-        int [] arr={10,5,9,1,11,8,6,5,3,12,2};
+    //    int [] arr={10,5,9,1,11,8,6,5,3,12,2};
+        int [] arr={9,1,4,7,3,-1,0,5,8,-1,6};
         Map<Integer,Boolean> map = new HashMap<>();
 
         //Add all the element of array into Map and map it to True
