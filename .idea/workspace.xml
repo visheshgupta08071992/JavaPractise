@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23b2600c2818c0acf54e500e0f768c53645af44a" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/IntersectionOfTwoArrays1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d13d830134308f23317853ff3fb5dcb0e616429" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ProductOfArrayExceptItself.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/ProductOfArrayExceptItself.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/DifferenceOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/DifferenceOfTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +109,8 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.ProductOfArrayExceptItself.bestSolution">
-    <configuration name="AddStrings.addStringBestSolutionUsingStringBuilder" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.IntersectionOfTwoArrays1.approach3">
+    <configuration name="AAPractise.diffOfTwoArrays" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -115,8 +119,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddStrings" />
-      <option name="METHOD_NAME" value="addStringBestSolutionUsingStringBuilder" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
+      <option name="METHOD_NAME" value="diffOfTwoArrays" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -124,7 +128,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddStrings.addStringByConvertingIntoInteger" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DifferenceOfTwoArrays.differenceOfTwoArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -133,8 +137,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddStrings" />
-      <option name="METHOD_NAME" value="addStringByConvertingIntoInteger" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.DifferenceOfTwoArrays" />
+      <option name="METHOD_NAME" value="differenceOfTwoArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -142,43 +146,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddToArrayFormOfInteger.addArray" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddToArrayFormOfInteger" />
-      <option name="METHOD_NAME" value="addArray" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AddToArrayFormOfInteger.addArrayBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddToArrayFormOfInteger" />
-      <option name="METHOD_NAME" value="addArrayBestSolution" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductOfArrayExceptItself.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="IntersectionOfTwoArrays1.approach1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -187,8 +155,44 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.ProductOfArrayExceptItself" />
-      <option name="METHOD_NAME" value="bestSolution" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays1" />
+      <option name="METHOD_NAME" value="approach1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionOfTwoArrays1.approach2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays1" />
+      <option name="METHOD_NAME" value="approach2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntersectionOfTwoArrays1.approach3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays1" />
+      <option name="METHOD_NAME" value="approach3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -198,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.ProductOfArrayExceptItself.bestSolution" />
-        <item itemvalue="TestNG.AddToArrayFormOfInteger.addArrayBestSolution" />
-        <item itemvalue="TestNG.AddToArrayFormOfInteger.addArray" />
-        <item itemvalue="TestNG.AddStrings.addStringByConvertingIntoInteger" />
-        <item itemvalue="TestNG.AddStrings.addStringBestSolutionUsingStringBuilder" />
+        <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach3" />
+        <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach2" />
+        <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach1" />
+        <item itemvalue="TestNG.AAPractise.diffOfTwoArrays" />
+        <item itemvalue="TestNG.DifferenceOfTwoArrays.differenceOfTwoArray" />
       </list>
     </recent_temporary>
   </component>

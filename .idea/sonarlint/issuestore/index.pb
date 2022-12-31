@@ -197,8 +197,6 @@ s
 Csrc/main/java/DSAPreparation/Grind75/Array/NextGreaterElement3.java,d\2\d20723c9e34e49da4ece13e7ef47c79a88702984
 h
 8src/main/java/ArraysAndStrings/SquaresOfSortedArray.java,2\9\29d74e0c12c2494e64907606367d597faa91f91a
-b
-2src/main/java/ArraysAndStrings/SumOfTwoArrays.java,4\d\4d13d830134308f23317853ff3fb5dcb0e616429
 \
 ,src/main/java/Leetcode/MergeSortedArray.java,d\8\d83ae46c0e9cd4f9b4d0a777be510e98eb9753e4
 r

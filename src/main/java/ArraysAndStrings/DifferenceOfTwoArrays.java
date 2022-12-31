@@ -17,8 +17,8 @@ public class DifferenceOfTwoArrays {
 
     @Test
     public void differenceOfTwoArray(){
-        int [] arr1 ={9,9,9};
-        int [] arr2={3,3,3,3};
+        int [] arr1 ={9};
+        int [] arr2={1,0,0,0};
 //        int [] arr1 ={0,0,1};
 //        int [] arr2={1,0,0,0};
         //Expected -> {0,9,9,9}
