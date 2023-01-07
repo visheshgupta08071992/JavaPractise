@@ -1,12 +1,0 @@
-
-f
-java:S1149)"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾•ÌÝ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî
-N	java:S106"9Replace this use of System.out or System.err by a logger.(‡µ¶ò
-o
-java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾•ÌÝ
-N	java:S106="9Replace this use of System.out or System.err by a logger.(×Æáî
-N	java:S106>"9Replace this use of System.out or System.err by a logger.(‡µ¶ò
-T
-java:S11550">Use isEmpty() to check whether the collection is empty or not.(ãÕ˜ü
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áûžK

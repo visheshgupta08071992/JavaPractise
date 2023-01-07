@@ -5,11 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c3b34637e8d94b676d3c52e3fd5b4fd1bacd287" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/f/3f5ac053e359aa66074333334914d16df60d5cf3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d2cb31b30aa1ceb3f4acbec7f475b31f11ec66" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3ca2539a306feca2b45bf057e603708d7a0342d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/507691c6a801ab9586b5d52f71fdacd783033016" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c1f8c243e01d972a5a4a4ba47602596429164cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85ec8c405a6cd85092c38d3fd2ecdd97d01ce439" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/940d12b3894bb6db32b8ef22eafe7ea00f7e3f4c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94366b5a259a44701d3e0084b4d6049085c8e624" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96b510f3fe40f99f889381cc4cb0c97e2255f3e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d08d3cf49eb190ad49eb3d5d4df8426eb93562b1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d20723c9e34e49da4ece13e7ef47c79a88702984" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4231a8bd99517c19a771c8a522e4ac3ec659ec4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1929a01dfbb78adc6958a1738edb18a9d1a115d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,18 +117,18 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex">
-    <configuration name="IntersectionOfTwoArrays1.approach1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.AAPractise.nextSmallerOnLeftUsingStack">
+    <configuration name="AAPractise.nextSmallerOnLeft" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays1" />
-      <option name="METHOD_NAME" value="approach1" />
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
+      <option name="METHOD_NAME" value="nextSmallerOnLeft" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -125,17 +136,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoArrays1.approach2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AAPractise.nextSmallerOnLeftUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays1" />
-      <option name="METHOD_NAME" value="approach2" />
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
+      <option name="METHOD_NAME" value="nextSmallerOnLeftUsingStack" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -199,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AAPractise.nextSmallerOnLeftUsingStack" />
+        <item itemvalue="TestNG.AAPractise.nextSmallerOnLeft" />
         <item itemvalue="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex" />
         <item itemvalue="TestNG.IntersectionOfTwoArrays2.test" />
         <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach3" />
-        <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach2" />
-        <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach1" />
       </list>
     </recent_temporary>
   </component>

@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Stack;
 
 public class AAPractise {
 
@@ -138,6 +139,57 @@ public class AAPractise {
         }
         return false;
 
+    }
+
+    @Test
+    public void nextSmallerOnLeft(){
+        int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
+        // Expected - -1 2 5 2 -1 1 1 6 6
+
+        int [] result = new int[arr.length];
+
+        for(int i=arr.length -1;i>0;i--){
+            for(int j = i-1;j>=0;j--){
+                if(arr[j]<arr[i]){
+                    result[i]=arr[j];
+                    break;
+                }
+                if(j==0){
+                    result[i]=-1;
+                }
+            }
+        }
+        result[0] = -1;
+        System.out.println(Arrays.toString(result));
+    }
+
+    @Test
+    public void nextSmallerOnLeftUsingStack() {
+        int[] arr = {2, 5, 9, 3, 1, 12, 6, 8, 7};
+        // Expected - -1 2 5 2 -1 1 1 6 6
+        int [] result = new int[arr.length];
+        Stack<Integer> st = new Stack<>();
+
+        for(int i=0;i<arr.length;i++){
+            if(st.isEmpty()){
+                result[i]=-1;
+                st.push(arr[i]);
+            }
+            else{
+                while(!st.isEmpty() && arr[i] < st.peek()){
+                    st.pop();
+                }
+                if(st.isEmpty()){
+                    result[i]=-1;
+                    st.push(arr[i]);
+                }
+                else{
+                    result[i]=st.peek();
+                    st.push(arr[i]);
+                }
+            }
+        }
+        System.out.println(Arrays.toString(result));
     }
 }
 
