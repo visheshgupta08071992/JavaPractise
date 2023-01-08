@@ -1,4 +1,4 @@
-package Stack;
+package DSAPreparation.Grind75.Stack;
 
 import org.testng.annotations.Test;
 
@@ -46,8 +46,8 @@ public class DailyTemperatures {
         result[temperatures.length - 1] = 0;
 
         System.out.println(Arrays.toString(result));
-    }
 
+    }
 
     @Test
     public void dailyTemperature(){

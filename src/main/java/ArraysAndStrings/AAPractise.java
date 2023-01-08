@@ -191,5 +191,37 @@ public class AAPractise {
         }
         System.out.println(Arrays.toString(result));
     }
+
+    @Test
+    public void stockSpan(){
+        //  int[] arr = {100, 80, 60, 70, 60, 75, 85};
+        // Expected - 1 1 1 2 1 4 6
+        int[] arr = {100,130,100,90,120,120,110,130,140};
+        // [1, 2, 1, 1, 3, 4, 1, 8, 9]
+
+        Stack<Integer> st = new Stack<>();
+        int [] result= new int[arr.length];
+
+        for(int i=0;i<arr.length;i++){
+            if(st.isEmpty()){
+                result[i]=1;
+                st.push(i);
+            }
+            else{
+                while(!st.isEmpty() && arr[i] >=arr[st.peek()]){
+                    st.pop();
+                }
+                if(st.isEmpty()){
+                    result[i] = i+1;
+                    st.push(i);
+                }
+                else{
+                    result[i] = i - st.peek();
+                    st.push(i);
+                }
+            }
+        }
+        System.out.println(Arrays.toString(result));
+    }
 }
 

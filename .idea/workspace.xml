@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d2cb31b30aa1ceb3f4acbec7f475b31f11ec66" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3ca2539a306feca2b45bf057e603708d7a0342d3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/507691c6a801ab9586b5d52f71fdacd783033016" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c1f8c243e01d972a5a4a4ba47602596429164cc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85ec8c405a6cd85092c38d3fd2ecdd97d01ce439" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/940d12b3894bb6db32b8ef22eafe7ea00f7e3f4c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94366b5a259a44701d3e0084b4d6049085c8e624" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/96b510f3fe40f99f889381cc4cb0c97e2255f3e9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/0/d08d3cf49eb190ad49eb3d5d4df8426eb93562b1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/2/d20723c9e34e49da4ece13e7ef47c79a88702984" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4231a8bd99517c19a771c8a522e4ac3ec659ec4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f1929a01dfbb78adc6958a1738edb18a9d1a115d" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DailyTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5db9c119cfa27a93eaa76675cfcc77bfa97472f3" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/NextGreaterElement2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/DailyTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/DailyTemperatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/DailyTemperatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/DailyTemperatures.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,14 +102,14 @@
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\UnderstandPriorityQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="DSAPreparation.Grind75.ArrayMatrix" />
       <recent name="DSAPreparation.Grind75.Stack" />
+      <recent name="DSAPreparation.Grind75.ArrayMatrix" />
       <recent name="DSAPreparation.Grind75.PriorityQueue" />
       <recent name="DSAPreparation.NeetCode.Array" />
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AAPractise.nextSmallerOnLeftUsingStack">
+  <component name="RunManager" selected="TestNG.DailyTemperatures.dailyTemperatureBruteForce">
     <configuration name="AAPractise.nextSmallerOnLeft" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -154,17 +146,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoArrays1.approach3" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AAPractise.stockSpan" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays1" />
-      <option name="METHOD_NAME" value="approach3" />
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
+      <option name="METHOD_NAME" value="stockSpan" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -172,17 +164,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoArrays2.test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DailyTemperatures.dailyTemperature" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.IntersectionOfTwoArrays2" />
-      <option name="METHOD_NAME" value="test" />
+      <option name="PACKAGE_NAME" value="Stack" />
+      <option name="MAIN_CLASS_NAME" value="Stack.DailyTemperatures" />
+      <option name="METHOD_NAME" value="dailyTemperature" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -190,17 +182,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestConsecutiveSequence.findLongestConsecutiveIndex" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DailyTemperatures.dailyTemperatureBruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.LongestConsecutiveSequence" />
-      <option name="METHOD_NAME" value="findLongestConsecutiveIndex" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.DailyTemperatures" />
+      <option name="METHOD_NAME" value="dailyTemperatureBruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -210,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DailyTemperatures.dailyTemperatureBruteForce" />
+        <item itemvalue="TestNG.DailyTemperatures.dailyTemperature" />
+        <item itemvalue="TestNG.AAPractise.stockSpan" />
         <item itemvalue="TestNG.AAPractise.nextSmallerOnLeftUsingStack" />
         <item itemvalue="TestNG.AAPractise.nextSmallerOnLeft" />
-        <item itemvalue="TestNG.LongestConsecutiveSequence.findLongestConsecutiveIndex" />
-        <item itemvalue="TestNG.IntersectionOfTwoArrays2.test" />
-        <item itemvalue="TestNG.IntersectionOfTwoArrays1.approach3" />
       </list>
     </recent_temporary>
   </component>
