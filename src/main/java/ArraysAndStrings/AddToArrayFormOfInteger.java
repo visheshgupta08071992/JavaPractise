@@ -64,7 +64,7 @@ public class AddToArrayFormOfInteger {
 
         while(m>=0){
             int val1 = i>=0 ? num[i]:0;
-            int val2 = j>=0 ? num2.charAt(i) - '0':0;
+            int val2 = j>=0 ? num2.charAt(j) - '0':0;
             i--;
             j--;
             int sum = val1 + val2 + carry;

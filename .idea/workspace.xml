@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/DailyTemperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/d/5db9c119cfa27a93eaa76675cfcc77bfa97472f3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/DailyTemperatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/DailyTemperatures.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Stack/DailyTemperatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/DailyTemperatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddToArrayFormOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddToArrayFormOfInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,25 +103,7 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DailyTemperatures.dailyTemperatureBruteForce">
-    <configuration name="AAPractise.nextSmallerOnLeft" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
-      <option name="METHOD_NAME" value="nextSmallerOnLeft" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.AddToArrayFormOfInteger.addArrayBestSolution">
     <configuration name="AAPractise.nextSmallerOnLeftUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -157,6 +133,24 @@
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
       <option name="METHOD_NAME" value="stockSpan" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToArrayFormOfInteger.addArrayBestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AddToArrayFormOfInteger" />
+      <option name="METHOD_NAME" value="addArrayBestSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -202,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddToArrayFormOfInteger.addArrayBestSolution" />
         <item itemvalue="TestNG.DailyTemperatures.dailyTemperatureBruteForce" />
         <item itemvalue="TestNG.DailyTemperatures.dailyTemperature" />
         <item itemvalue="TestNG.AAPractise.stockSpan" />
         <item itemvalue="TestNG.AAPractise.nextSmallerOnLeftUsingStack" />
-        <item itemvalue="TestNG.AAPractise.nextSmallerOnLeft" />
       </list>
     </recent_temporary>
   </component>
