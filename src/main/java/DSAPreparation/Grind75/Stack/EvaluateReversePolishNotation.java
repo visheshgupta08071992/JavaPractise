@@ -63,8 +63,8 @@ public class EvaluateReversePolishNotation {
 
                 // Here pop fetches the values and then removes it from the stack
                 // we ar first storing value in val2 as we need to perform operatipn from left to right
-                int val2 = Integer.valueOf(st.pop());
-                int val1 = Integer.valueOf(st.pop());
+                int val2 = st.pop();
+                int val1 = st.pop();
 
                 if(s.equals("+")){
                     st.push(val1 + val2);

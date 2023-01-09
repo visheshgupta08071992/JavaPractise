@@ -6,7 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddToArrayFormOfInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AddToArrayFormOfInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,8 +105,8 @@
       <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.AddToArrayFormOfInteger.addArrayBestSolution">
-    <configuration name="AAPractise.nextSmallerOnLeftUsingStack" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.EvaluateReversePolishNotation.evaluateReversePolishNotation">
+    <configuration name="AAPractise.differenceOfTwoArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -114,25 +116,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
-      <option name="METHOD_NAME" value="nextSmallerOnLeftUsingStack" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AAPractise.stockSpan" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ArraysAndStrings.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
-      <option name="METHOD_NAME" value="stockSpan" />
+      <option name="METHOD_NAME" value="differenceOfTwoArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -194,13 +178,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EvaluateReversePolishNotation.evaluateReversePolishNotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.EvaluateReversePolishNotation" />
+      <option name="METHOD_NAME" value="evaluateReversePolishNotation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.EvaluateReversePolishNotation.evaluateReversePolishNotation" />
+        <item itemvalue="TestNG.AAPractise.differenceOfTwoArray" />
         <item itemvalue="TestNG.AddToArrayFormOfInteger.addArrayBestSolution" />
         <item itemvalue="TestNG.DailyTemperatures.dailyTemperatureBruteForce" />
         <item itemvalue="TestNG.DailyTemperatures.dailyTemperature" />
-        <item itemvalue="TestNG.AAPractise.stockSpan" />
-        <item itemvalue="TestNG.AAPractise.nextSmallerOnLeftUsingStack" />
       </list>
     </recent_temporary>
   </component>

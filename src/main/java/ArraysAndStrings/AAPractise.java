@@ -223,5 +223,35 @@ public class AAPractise {
         }
         System.out.println(Arrays.toString(result));
     }
+
+    @Test
+    public void differenceOfTwoArray() {
+        int[] arr1 = {1,8,2};
+        int[] arr2 = {3,0,4};
+        int [] result = new int[arr1.length > arr2.length ? arr1.length:arr2.length];
+        int i = arr1.length -1;
+        int j= arr2.length -1;
+        int k=result.length -1;
+        int carry=0;
+
+        while(i>=0 || j>=0){
+            int val1= i>=0? arr1[i]:0;
+            int val2= j>=0? arr2[j]:0;
+            i--;
+            j--;
+
+            if(val2+carry >= val1){
+                result[k] = val2 + carry -val1;
+                k--;
+            }
+            else{
+                result[k] = val2 + carry + 10 -val1;
+                k--;
+                carry=-1;
+            }
+        }
+        System.out.println(Arrays.toString(result));
+
+    }
 }
 
