@@ -46,7 +46,7 @@ public class BasicCalculater2 {
         //String s = " 3+5 / 2";
         //String s="0-2147483647";
 
-        String s= "3+2*2";
+        String s= "-10+3*3-2/3*4+5";
 
         //Removing white spaces from string expression
 
