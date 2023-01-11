@@ -4,6 +4,7 @@ import com.sun.javafx.collections.MappingChange;
 import org.testng.annotations.Test;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class AAPractise {
 
@@ -257,6 +258,15 @@ public class AAPractise {
         int arr[] = {3, 4, 5, 7, 10, 10, 10, 14};
         //We need to find the first occurance of element 10 i.e 4th index
         int requiredNo = 10;
+    }
+
+    @Test
+    public void findDistinct(){
+        List<Integer> list1 = Arrays.asList(1,1,2,2,3,3,4,4,4,5,5,6,6);
+        List<Integer> list2 = list1.stream().distinct().collect(Collectors.toList());
+        System.out.println(list2);
+        Set<Integer> set = list1.stream().collect(Collectors.toSet());
+        System.out.println(set);
     }
 }
 

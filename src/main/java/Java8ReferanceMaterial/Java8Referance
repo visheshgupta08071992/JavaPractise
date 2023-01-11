@@ -1,0 +1,40 @@
+JAVA 8
+
+Intermediate Operations : map(), filter(), distinct(), sorted(), limit(), skip(), mapToInt(),mapToLong().mapToDouble(),flatMap()
+Terminal Operations : forEach(), toArray(), reduce(), collect(), min(), max(), count(), anyMatch(), allMatch(), noneMatch(), findFirst(), findAny()
+
+skip() : skip() method returns a stream of remaining elements after skipping first N elements.
+limit():  The limit() method returns a reduced stream of first N elements
+reduce(): sum(), min(), max(), count() etc. are some examples of reduce operations. reduce() explicitly asks you to specify how to reduce the data that made it through the stream.
+Stream of(T… values) returns a sequential ordered stream whose elements are the specified values.
+Stream map(Function mapper) returns a stream consisting of the results of applying the given function to the elements of this stream.
+mapToInt()
+allMatch():returns whether all elements of this stream match the provided predicate.
+anyMatch():returns whether any elements of this stream match the provided predicate.
+findAny(): returns an Optional (a container object which may or may not contain a non-null value) describing some element of the stream, or an empty Optional if the stream is empty.
+findFirst(): returns an Optional describing the first element of this stream, or an empty Optional if the stream is empty. If the stream has no encounter order, then any element may be returned.
+flatMap():  returns a stream consisting of the results of replacing each element of this stream with the contents of a mapped stream produced by applying the provided mapping function to each element.
+
+ map() takes a Stream and transform it to another Stream. It applies a function on each element of Stream and store return value into new Stream. It does not flatten the stream. But flatMap() is the combination of a map and a flat operation i.e, it applies a function to elements as well as flatten them.
+
+https://www.geeksforgeeks.org/functional-interfaces-java/?ref=rp
+https://www.geeksforgeeks.org/functional-programming-in-java-with-examples/?ref=rp
+https://www.geeksforgeeks.org/functional-programming-in-java-8-using-the-stream-api-with-example/?ref=rp
+https://www.geeksforgeeks.org/difference-between-stream-of-and-arrays-stream-method-in-java/?ref=rp
+https://www.geeksforgeeks.org/count-occurrence-of-a-given-character-in-a-string-using-stream-api-in-java/?ref=rp
+https://www.geeksforgeeks.org/stream-filter-java-examples/
+https://www.geeksforgeeks.org/java-stream-api-filters/?ref=rp
+https://www.geeksforgeeks.org/bloom-filter-in-java-with-examples/?ref=rp
+https://www.geeksforgeeks.org/stream-skip-method-java-examples/?ref=rp
+https://www.geeksforgeeks.org/stream-reduce-java-examples/?ref=rp
+https://www.geeksforgeeks.org/stream-generate-method-java/?ref=rp
+https://www.geeksforgeeks.org/java-collectors/?ref=rp
+https://www.geeksforgeeks.org/java-collectors-minbycomparator-comparator-with-examples/?ref=rp
+https://www.geeksforgeeks.org/java-util-collections-rotate-method-java-examples/?ref=rp
+https://www.geeksforgeeks.org/java-util-interface-spliterator-java8/?ref=rp
+
+Functional Intefaces
+Supplier: It represents a function which does not take in any argument but produces a value of type T.
+Consumer: It represents a function which takes in one argument and produces a result.
+Predicate : It represents a function which takes a single argument function that returns a boolean value (true or false).
+Binary Operator: It represents a binary operator which takes two operands and operates on them to produce a result

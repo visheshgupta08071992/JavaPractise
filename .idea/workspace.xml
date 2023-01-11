@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/9/e9b81eaeef82e09ffe1d56eec7517690dce55745" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/3/830c0d37cd53c838d7591c14bcd6c08cd056dd66" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,14 +99,14 @@
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\UnderstandPriorityQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DSAPreparation.Grind75.BinarySearch" />
       <recent name="DSAPreparation.Grind75.Stack" />
       <recent name="DSAPreparation.Grind75.ArrayMatrix" />
       <recent name="DSAPreparation.Grind75.PriorityQueue" />
       <recent name="DSAPreparation.NeetCode.Array" />
-      <recent name="Java8Practise.LambaFunction" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.BasicCalculater2.test1">
+  <component name="RunManager" selected="TestNG.AAPractise.findDistinct">
     <configuration name="AAPractise.differenceOfTwoArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -117,6 +118,24 @@
       <option name="PACKAGE_NAME" value="ArraysAndStrings" />
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
       <option name="METHOD_NAME" value="differenceOfTwoArray" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AAPractise.findDistinct" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
+      <option name="METHOD_NAME" value="findDistinct" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -160,24 +179,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DailyTemperatures.dailyTemperatureBruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.DailyTemperatures" />
-      <option name="METHOD_NAME" value="dailyTemperatureBruteForce" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="EvaluateReversePolishNotation.evaluateReversePolishNotation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -198,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AAPractise.findDistinct" />
         <item itemvalue="TestNG.BasicCalculater2.test1" />
         <item itemvalue="TestNG.EvaluateReversePolishNotation.evaluateReversePolishNotation" />
         <item itemvalue="TestNG.AAPractise.differenceOfTwoArray" />
         <item itemvalue="TestNG.AddToArrayFormOfInteger.addArrayBestSolution" />
-        <item itemvalue="TestNG.DailyTemperatures.dailyTemperatureBruteForce" />
       </list>
     </recent_temporary>
   </component>
@@ -451,7 +452,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.java</url>
-          <line>41</line>
+          <line>42</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

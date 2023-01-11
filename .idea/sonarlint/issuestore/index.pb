@@ -95,8 +95,6 @@ i
 9src/main/java/JavaConceptOfTheDay/NoOfWordsInaString.java,d/3/d39c07c9c331e640e7374f7ae1bbce8c89fc77c3
 Z
 *src/main/java/Leetcode/DuplicateZeros.java,9/2/92b0c5aba493788b451fcded7dea9a60d364ecb0
-z
-Jsrc/main/java/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.java,8/3/830c0d37cd53c838d7591c14bcd6c08cd056dd66
 s
 Csrc/main/java/BinarySearch/SearchAnElementInRotatedSortedArray.java,8/b/8b690b6fb2d9fa91a9731bb449c915955ed155d1
 r
