@@ -1,4 +1,4 @@
-package BinarySearch;
+package DSAPreparation.Grind75.BinarySearch;
 
 // Given a sorted Array....Find the first Occurance of required element
 //Leetcode - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/

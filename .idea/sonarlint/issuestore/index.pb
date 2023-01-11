@@ -95,8 +95,6 @@ i
 9src/main/java/JavaConceptOfTheDay/NoOfWordsInaString.java,d/3/d39c07c9c331e640e7374f7ae1bbce8c89fc77c3
 Z
 *src/main/java/Leetcode/DuplicateZeros.java,9/2/92b0c5aba493788b451fcded7dea9a60d364ecb0
-…
-Usrc/main/java/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.java,b/6/b6c2fa86a408893f033c5496daf622fa3e0ed2ae
 z
 Jsrc/main/java/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.java,8/3/830c0d37cd53c838d7591c14bcd6c08cd056dd66
 s
@@ -149,8 +147,6 @@ t
 Dsrc/main/java/JavaConceptOfTheDay/FindTheMissingNumberInAnArray.java,5/f/5f19ec5890121ccd79f7ce5eae051dd9af381f24
 O
 src/main/java/BinarySearch.java,2\3\23c2df4a0594543a60cf7dccfb23b0722cf9c37d
-‹
-[src/main/java/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.java,f\2\f2f9162565e13ca46c66ac88e9745588d1ce7dda
 Z
 *src/main/java/ReverseEachWordOfString.java,2\3\2382d892a8770e1cbb7e6555788c32cc218da663
 P
@@ -159,8 +155,6 @@ P
 Ksrc/main/java/JavaConceptOfTheDay/RemoveDuplicateElementsFromArrayList.java,8\9\8992153ba20362c532c76edd314683a3af4f9613
 s
 Csrc/main/java/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.java,e\0\e05931811a8b00af6ba6906ca5066b5ce83b9d27
-]
--src/main/java/Stack/LargestAreaHistogram.java,e\9\e9b81eaeef82e09ffe1d56eec7517690dce55745
 \
 ,src/main/java/JavaConceptOfTheDay/json1.json,b\9\b977b62581d9d0fed11587bc66d1bb198684d8ca
 \

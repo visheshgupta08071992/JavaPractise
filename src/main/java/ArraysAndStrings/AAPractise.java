@@ -1,11 +1,9 @@
 package ArraysAndStrings;
 
+import com.sun.javafx.collections.MappingChange;
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 public class AAPractise {
 
@@ -252,6 +250,13 @@ public class AAPractise {
         }
         System.out.println(Arrays.toString(result));
 
+    }
+
+    @Test
+    public void findFirstOccuranceOfRequiredElement() {
+        int arr[] = {3, 4, 5, 7, 10, 10, 10, 14};
+        //We need to find the first occurance of element 10 i.e 4th index
+        int requiredNo = 10;
     }
 }
 
