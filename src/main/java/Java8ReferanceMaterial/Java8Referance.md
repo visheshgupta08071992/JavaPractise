@@ -3,8 +3,23 @@
 
 ### What is stream in Java
 
-1.Stream API's are used to perform aggregate operation on data returned from Collection classes which drastically reduces the complexity of code.
-2.A Stream is not a data structure instead it takes input from Collections,Arrays or I/O channesl and provides the result as per the pipelined methods.
+1.Stream API's are used to perform aggregate operation on data returned from Collection classes which drastically reduces the complexity of code.</br>
+2.A Stream is not a data structure instead it takes input from Collections,Arrays or I/O channesl and provides the result as per the pipelined methods.</br>
+3.We cannot directly apply stream and its methods on Map, We first need to convert Map into entryset as shown below
+
+```js
+Map<String,Integer> map = new HashMap<>();
+
+        map.put("Akshay",100);
+        map.put("Chandan",150);
+        map.put("Nihal",200);
+
+        //Filtering Map whose Key starts with A
+        map.entrySet().stream()
+                .filter(e -> e.getKey().startsWith("A"))
+                .forEach(e -> System.out.println(e));
+
+```
 
 ### What is Lamda in Java
 
