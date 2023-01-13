@@ -107,7 +107,7 @@ List<Integer> list = Arrays.asList(1,2,3,4,5);
 
 sorted method is used to sort streams, If we want to sort stream in descending order we need to use **stream.sorted(Collections.reverseOrder())** . It is an intermediate operation.
 
-4.**collect*
+4.**collect**
 
 collect method is used to collect your result and convert it back into List/Set/Map. It is a Terminal Operation.
 
