@@ -4,6 +4,7 @@ import ComparableAndComparater.Student;
 import org.testng.annotations.Test;
 
 import java.util.*;
+import java.util.function.BinaryOperator;
 import java.util.stream.Collectors;
 
 public class Java8ReferanceCode {
@@ -168,4 +169,59 @@ public class Java8ReferanceCode {
            return b.getKey().compareTo(a.getKey());
        }).forEach(e -> System.out.println(e));
     }
+
+    @Test
+    public void understandingMapAndFlatMap(){
+        List<List<String>> list = new ArrayList<>();
+        list.add(Arrays.asList("Vishal","Sahil"));
+        list.add(Arrays.asList("Akshat","Akhil"));
+        list.add(Arrays.asList("Neha","Nikita"));
+
+        List<String> listWithMap = list.stream()
+                                             //Flatenning the List<List<String>> to List<String>
+                                              .flatMap(e -> e.stream())
+                                            //Now Transforming the List<String>
+                                              .map(e -> e.toUpperCase(Locale.ROOT))
+                                              .collect(Collectors.toList());
+
+        System.out.println(listWithMap);
+
+    }
+
+    @Test
+    public void understandingReduceMethod(){
+        List<Integer> list = Arrays.asList(1,2,3,4,5,6);
+
+        //Find sum of all elements using sum method
+        int sum=list.stream().mapToInt(e -> e).sum();
+        System.out.println(sum);
+
+        //Find sum of all elements using reduce method.
+        //The first parameter of reduce method is the initial value while the second
+        //parameter is the operation
+        int sumUsingReduce =list.stream().reduce(0,(a,b) -> a+b);
+        System.out.println(sumUsingReduce);
+
+        //Find product of all elements using reduce method.
+        //The first parameter of reduce method is the initial value while the second
+        //parameter is the operation
+        int productUsingReduce =list.stream().reduce(1,(a,b) -> a*b);
+        System.out.println(productUsingReduce);
+
+        //Find Max element from the list using reduce
+
+        int max1 = list.stream().reduce(0,(a, b) -> a>b?a:b);
+
+        System.out.println(max1);
+
+        List<String> words = Arrays.asList("Java","Hi","Aurangabad");
+
+        //Find the longest string from the Array List
+
+        String longestString = words.stream()
+                .reduce((word1,word2) -> word1.length() > word2.length()?word1:word2).get();
+        System.out.println(longestString);
+
+    }
+
 }

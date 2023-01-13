@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortHashMapBasedOnKeysUsingTreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortHashMapUsingKeysOrValuesUsingJava8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortMapIfTheKeyIsStudentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/Java8ReferanceCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38ccb746beeb5d4716c67124a656a12d40920ef6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/84288ee81f60560313e5de4935d5945c92bea7fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b2e503299c223eb135752ff90abac1fb7bddbec1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b357dc5a11a3ab781d2eb2d8b1202565182c220a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortingHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ComparableAndComparater/SortingHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortingHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortingHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/Java8ReferanceCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/Java8ReferanceCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortMapIfTheKeyIsStudentObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortMapIfTheKeyIsStudentObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Java8ReferanceCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Java8ReferanceCode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +105,8 @@
       <recent name="DSAPreparation.Grind75.PriorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SortMapIfTheKeyIsStudentObject.trySortingStudentObjectUsingTreeMapAndComparater">
-    <configuration name="Java8ReferanceCode.understandingSort" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Java8ReferanceCode.understandingReduceMethod">
+    <configuration name="Java8ReferanceCode.understandingMapAndFlatMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -125,7 +116,25 @@
       </extension>
       <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
       <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
-      <option name="METHOD_NAME" value="understandingSort" />
+      <option name="METHOD_NAME" value="understandingMapAndFlatMap" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java8ReferanceCode.understandingReduceMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java8ReferanceMaterial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
+      <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
+      <option name="METHOD_NAME" value="understandingReduceMethod" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -187,31 +196,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingHashSet.sortHashSetUsingStream" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortingHashSet" />
-      <option name="METHOD_NAME" value="sortHashSetUsingStream" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Java8ReferanceCode.understandingReduceMethod" />
+        <item itemvalue="TestNG.Java8ReferanceCode.understandingMapAndFlatMap" />
         <item itemvalue="TestNG.SortMapIfTheKeyIsStudentObject.trySortingStudentObjectUsingTreeMapAndComparater" />
         <item itemvalue="TestNG.SortMapIfTheKeyIsStudentObject.trySortingStudentObjectUsingTreeMap" />
         <item itemvalue="TestNG.SortHashMapBasedOnKeysUsingTreeMap.sortHashMapUsingTreeMap" />
-        <item itemvalue="TestNG.SortingHashSet.sortHashSetUsingStream" />
-        <item itemvalue="TestNG.Java8ReferanceCode.understandingSort" />
       </list>
     </recent_temporary>
   </component>
