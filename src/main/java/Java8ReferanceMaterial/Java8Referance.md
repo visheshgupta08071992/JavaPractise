@@ -29,7 +29,7 @@ Lambda is denoted by -> in Java. The left side of lambda represents the paramete
 
 1.**foreach**
 
-foreach method of Stream is used for Iteration. Also we can use foreach method without Stream API on Collection classes
+foreach method of Stream is used for Iteration. It is a Terminal Operation  .Also we can use foreach method without Stream API on Collection classes. 
 
 ```js
 @Test
@@ -63,7 +63,7 @@ foreach method of Stream is used for Iteration. Also we can use foreach method w
 
 2.**filter**
 
-filter method is used to filter data within streams based on some condition
+filter method is used to filter data within streams based on some condition. It is an intermediate operation.
 
 ```js
 
@@ -105,5 +105,19 @@ List<Integer> list = Arrays.asList(1,2,3,4,5);
 
 3.**sorted**
 
-sorted method is used to sort streams, If we want to sort stream in descending order we need to use **stream.sorted(Collections.reverseOrder())**
+sorted method is used to sort streams, If we want to sort stream in descending order we need to use **stream.sorted(Collections.reverseOrder())** . It is an intermediate operation.
+
+4.**collect*
+
+collect method is used to collect your result and convert it back into List/Set/Map. It is a Terminal Operation.
+
+5.**Map and flatMap**
+
+1.map method is used when we want to manipulate or transform the stream. It is an intermediate operation.</br>
+2.flat map method is used when we want to tansform and flattern the Stream. It is also an intermediate operation. </br>
+
+![image](https://user-images.githubusercontent.com/52998083/212278202-399b0925-47f6-4858-9faa-70e791fa27ef.png)
+
+
+
 
