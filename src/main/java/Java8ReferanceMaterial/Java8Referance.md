@@ -111,12 +111,15 @@ sorted method is used to sort streams, If we want to sort stream in descending o
 
 collect method is used to collect your result and convert it back into List/Set/Map. It is a Terminal Operation.
 
-5.**Map and flatMap**
+5.**Map and flatMap** (Explanation - https://www.youtube.com/watch?v=CwvlS3ViGFQ&list=PLVz2XdJiJQxzrdrpglCv_nWIO5CDIqOVj&index=6)
 
 1.map method is used when we want to manipulate or transform the stream. It is an intermediate operation.</br>
 2.flat map method is used when we want to tansform and flattern the Stream. It is also an intermediate operation. </br>
 
 ![image](https://user-images.githubusercontent.com/52998083/212278202-399b0925-47f6-4858-9faa-70e791fa27ef.png)
+
+![image](https://user-images.githubusercontent.com/52998083/212280291-0409d9e7-9c61-4501-9861-346fc29cb470.png)
+
 
 
 
