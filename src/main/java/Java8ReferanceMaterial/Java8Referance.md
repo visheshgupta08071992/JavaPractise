@@ -103,3 +103,7 @@ List<Integer> list = Arrays.asList(1,2,3,4,5);
 
 ```
 
+3.**sorted**
+
+sorted method is used to sort streams, If we want to sort stream in descending order we need to use **stream.sorted(Collections.reverseOrder())**
+
