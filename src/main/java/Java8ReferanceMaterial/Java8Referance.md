@@ -115,10 +115,17 @@ collect method is used to collect your result and convert it back into List/Set/
 
 1.map method is used when we want to manipulate or transform the stream. It is an intermediate operation.</br>
 2.flat map method is used when we want to tansform and flattern the Stream. It is also an intermediate operation. </br>
+3.So to better understand whenever we want to flatten nested List like List<List<String>> we could flatten it with flatmap. We could further transform this
+flattened Stream with the help of map function. </br>
+4.flatMap always takes stream as input.       
 
 ![image](https://user-images.githubusercontent.com/52998083/212278202-399b0925-47f6-4858-9faa-70e791fa27ef.png)
 
 ![image](https://user-images.githubusercontent.com/52998083/212280291-0409d9e7-9c61-4501-9861-346fc29cb470.png)
+
+![image](https://user-images.githubusercontent.com/52998083/212285165-1b9b6cba-edb5-4b47-b8b1-445369f88f8d.png)
+
+
 
 
 
