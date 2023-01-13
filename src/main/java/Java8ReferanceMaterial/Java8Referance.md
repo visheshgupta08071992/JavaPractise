@@ -131,7 +131,9 @@ reduce method is used to perform aggregation on Stream Data. The first parameter
 
 ![image](https://user-images.githubusercontent.com/52998083/212305999-cfbd24b1-d345-4e2f-bddf-2b066518f870.png)
 
-![image](https://user-images.githubusercontent.com/52998083/212309880-b04256cb-81c7-43d2-91ec-b22c92177a72.png)
+![image](https://user-images.githubusercontent.com/52998083/212311755-6fa02727-ed34-4fce-af2d-ad01928db9c1.png)
+
+
 
 
 
