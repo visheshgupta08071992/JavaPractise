@@ -126,6 +126,18 @@ flattened Stream with the help of map function. </br>
 ![image](https://user-images.githubusercontent.com/52998083/212285165-1b9b6cba-edb5-4b47-b8b1-445369f88f8d.png)
 
 
+6.**reduce**
+reduce method is used to perform aggregation on Stream Data. The first parameter of reduce is the initial value while the second parameter is the aggregation operation.
+
+![image](https://user-images.githubusercontent.com/52998083/212305999-cfbd24b1-d345-4e2f-bddf-2b066518f870.png)
+
+![image](https://user-images.githubusercontent.com/52998083/212309880-b04256cb-81c7-43d2-91ec-b22c92177a72.png)
+
+
+
+
+
+
 
 
 
