@@ -135,7 +135,30 @@ reduce method is used to perform aggregation on Stream Data. The first parameter
 
 7.**Optional class**
 
-Optional Class is added in Java 8. There are scenarios when the value of Object can be either present or not present,So value can be null. In that case its tricky to write lot of checks and those checks are not readable. Optional can handle these scenario when the value is present or when the value is not present. You can create an optional object with **Optional.of(object)** and **Optional.ofNullable(object)** . If you are very sure that value of object would not be null only then use **Optional.of** . Else it is always better to use **Optional.ofNullable**
+Optional Class is added in Java 8. There are scenarios when the value of Object can be either present or not present,So value can be null. In that case its tricky to write lot of checks and those checks are not readable. Optional can handle these scenario when the value is present or when the value is not present. You can create an optional object with **Optional.of(object)** and **Optional.ofNullable(object)** . If you are very sure that value of object would not be null only then use **Optional.of** . Else it is always better to use **Optional.ofNullable** . To get the value we need to call get method of Optional
+
+
+**Declare a variable of Type String and create an Optional out of it.**
+
+![image](https://user-images.githubusercontent.com/52998083/212684551-7623349d-bc52-47d0-b111-d3dfc8e65f19.png)
+
+**Declare a variable of Type String which has null and create an Optional out of it. Ensure that there is no NullPointer Exception.Return a default value if
+ the value is null**
+
+1.isPresent - checks whether there are values in Optional.
+2.orElse - checks whether the value is present else it returns the default value
+
+![image](https://user-images.githubusercontent.com/52998083/212687868-cd3edfe6-3105-40ae-b110-51cb52bd702a.png)
+
+we would get NullPointerException if we try to perform the same operation with Optional.of as shown in below screenshot
+
+![image](https://user-images.githubusercontent.com/52998083/212688351-ad208c75-7ec7-4459-9222-650e1f785329.png)
+
+
+
+
+
+
 
 
 
