@@ -221,7 +221,43 @@ public class Java8ReferanceCode {
         String longestString = words.stream()
                 .reduce((word1,word2) -> word1.length() > word2.length()?word1:word2).get();
         System.out.println(longestString);
-
     }
 
+    @Test
+    public void understandingOptionalClass() {
+        //Declare a variable of Type String and create an Optional out of it.
+
+        String str = "SDET";
+
+        Optional<String> stringOptional = Optional.ofNullable(str);
+
+        System.out.println(stringOptional.get());
+    }
+
+    @Test
+    public void understandingOptionalClass1() {
+        /*Declare a variable of Type String which has null and create an Optional out of it.
+         Ensure that there is no NullPointer Exception.Return a default value if
+         the value is null*/
+
+        String str = null;
+
+        Optional<String> stringOptional = Optional.ofNullable(str);
+
+        /*
+        * isPresents checks whether there are values in Optional
+        * */
+
+        if(stringOptional.isPresent()){
+            System.out.println(stringOptional.get());
+        }
+        else{
+            /*
+            * orElse checks whether the value is present else it returns the default value
+            * */
+
+            String value= stringOptional.orElse("No value present");
+            System.out.println(value);
+        }
+    }
 }
