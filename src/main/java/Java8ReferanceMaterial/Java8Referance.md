@@ -133,6 +133,11 @@ reduce method is used to perform aggregation on Stream Data. The first parameter
 
 ![image](https://user-images.githubusercontent.com/52998083/212311755-6fa02727-ed34-4fce-af2d-ad01928db9c1.png)
 
+7.**Optional class**
+
+Optional Class is added in Java 8. There are scenarios when the value of Object can be either present or not present,So value can be null. In that case its tricky to write lot of checks and those checks are not readable. Optional can handle these scenario when the value is present or when the value is not present. You can create an optional object with **Optional.of(object)** and **Optional.ofNullable(object)** . If you are very sure that value of object would not be null only then use **Optional.of** . Else it is always better to use **Optional.ofNullable**
+
+
 
 
 
