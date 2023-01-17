@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/SearchIn2Dmatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/SearchIn2Dmatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/Java8ReferanceCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/Java8ReferanceCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Java8ReferanceCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Java8ReferanceCode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +103,25 @@
       <recent name="DSAPreparation.Grind75.PriorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Java8ReferanceCode.understandingOptionalClass1">
+  <component name="RunManager" selected="TestNG.DiagonalMatrixTraversal.bestApproach">
+    <configuration name="DiagonalMatrixTraversal.bestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DSAPreparation.Grind75.ArrayMatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.ArrayMatrix" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.ArrayMatrix.DiagonalMatrixTraversal" />
+      <option name="METHOD_NAME" value="bestApproach" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Java8ReferanceCode.understandingMapAndFlatMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
@@ -178,31 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortMapIfTheKeyIsStudentObject.trySortingStudentObjectUsingTreeMapAndComparater" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortMapIfTheKeyIsStudentObject" />
-      <option name="METHOD_NAME" value="trySortingStudentObjectUsingTreeMapAndComparater" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DiagonalMatrixTraversal.bestApproach" />
         <item itemvalue="TestNG.Java8ReferanceCode.understandingOptionalClass1" />
         <item itemvalue="TestNG.Java8ReferanceCode.understandingOptionalClass" />
         <item itemvalue="TestNG.Java8ReferanceCode.understandingReduceMethod" />
         <item itemvalue="TestNG.Java8ReferanceCode.understandingMapAndFlatMap" />
-        <item itemvalue="TestNG.SortMapIfTheKeyIsStudentObject.trySortingStudentObjectUsingTreeMapAndComparater" />
       </list>
     </recent_temporary>
   </component>
@@ -696,6 +694,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/MergeInterval.java</url>
           <line>66</line>
           <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="114" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
