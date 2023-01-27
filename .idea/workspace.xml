@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder/Array/FindKthSmallestElementQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder/Array/KadanesAlgorithmMaxSumSubArrayQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder/Array/ReverseAnArrayQ1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +80,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/ComparableAndComparater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.17" />
@@ -85,13 +89,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guptvis\OneDrive\OneDrive - MSCI Office 365\Desktop\JavaPractise\src\main\java\DSAPreparation\BossCoder" />
       <recent name="C:\Users\guptvis\OneDrive\OneDrive - MSCI Office 365\Desktop\JavaPractise\src\main\java\ComparableAndComparater" />
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DSAPreparation\Grind75\Stack" />
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DailyCodingProblem" />
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\DailyCodingProblem\001-Google" />
-      <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guptvis\OneDrive\OneDrive - MSCI Office 365\Desktop\JavaPractise\src\main\java\DSAPreparation\Grind75" />
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\UnderstandPriorityQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -102,18 +107,18 @@
       <recent name="DSAPreparation.Grind75.PriorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.DiagonalMatrixTraversal.bestApproach">
-    <configuration name="DiagonalMatrixTraversal.bestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayBestApproachKanadeAlgorithmn">
+    <configuration name="FindKthSmallestElementQ2.findKthSmallestElement" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.ArrayMatrix.*" />
+          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.ArrayMatrix" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.ArrayMatrix.DiagonalMatrixTraversal" />
-      <option name="METHOD_NAME" value="bestApproach" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.FindKthSmallestElementQ2" />
+      <option name="METHOD_NAME" value="findKthSmallestElement" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -121,17 +126,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8ReferanceCode.understandingMapAndFlatMap" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayBestApproachKanadeAlgorithmn" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8ReferanceMaterial.*" />
+          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
-      <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
-      <option name="METHOD_NAME" value="understandingMapAndFlatMap" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.KadanesAlgorithmMaxSumSubArrayQ3" />
+      <option name="METHOD_NAME" value="maxSumSubArrayBestApproachKanadeAlgorithmn" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,17 +144,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8ReferanceCode.understandingOptionalClass" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayWorstApproach" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8ReferanceMaterial.*" />
+          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
-      <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
-      <option name="METHOD_NAME" value="understandingOptionalClass" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.KadanesAlgorithmMaxSumSubArrayQ3" />
+      <option name="METHOD_NAME" value="maxSumSubArrayWorstApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -157,17 +162,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8ReferanceCode.understandingOptionalClass1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseAnArrayQ1.reverseArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8ReferanceMaterial.*" />
+          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
-      <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
-      <option name="METHOD_NAME" value="understandingOptionalClass1" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.ReverseAnArrayQ1" />
+      <option name="METHOD_NAME" value="reverseArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -175,17 +180,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8ReferanceCode.understandingReduceMethod" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReverseAnArrayQ1.reverseString" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8ReferanceMaterial.*" />
+          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
-      <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
-      <option name="METHOD_NAME" value="understandingReduceMethod" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.ReverseAnArrayQ1" />
+      <option name="METHOD_NAME" value="reverseString" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -195,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.DiagonalMatrixTraversal.bestApproach" />
-        <item itemvalue="TestNG.Java8ReferanceCode.understandingOptionalClass1" />
-        <item itemvalue="TestNG.Java8ReferanceCode.understandingOptionalClass" />
-        <item itemvalue="TestNG.Java8ReferanceCode.understandingReduceMethod" />
-        <item itemvalue="TestNG.Java8ReferanceCode.understandingMapAndFlatMap" />
+        <item itemvalue="TestNG.KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayBestApproachKanadeAlgorithmn" />
+        <item itemvalue="TestNG.KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayWorstApproach" />
+        <item itemvalue="TestNG.FindKthSmallestElementQ2.findKthSmallestElement" />
+        <item itemvalue="TestNG.ReverseAnArrayQ1.reverseString" />
+        <item itemvalue="TestNG.ReverseAnArrayQ1.reverseArray" />
       </list>
     </recent_temporary>
   </component>
