@@ -155,6 +155,11 @@ we would get NullPointerException if we try to perform the same operation with O
 ![image](https://user-images.githubusercontent.com/52998083/212688351-ad208c75-7ec7-4459-9222-650e1f785329.png)
 
 
+**Java 8 Stream Sample for referance**
+
+https://iamvickyav.medium.com/java-8-stream-samples-for-your-reference-f6cee5066c77
+
+
 
 
 
