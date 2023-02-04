@@ -5,11 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder/Array/FindKthSmallestElementQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder/Array/KadanesAlgorithmMaxSumSubArrayQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder/Array/ReverseAnArrayQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/KadanesAlgorithmMaxSumSubArrayQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/List1stNegativeNumberInEveryWindowOfSizeK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/MaximumOfAllSubArrayOFGivenSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/SlidingWindowMaximum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/findAllAnagramsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/permutationInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b48fc19e18527c6f13b7520c237edb0ece6dbe5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/933066f51fee7dcb2062d30e94eeb936a2e783ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Balance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Balance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,25 +108,25 @@
       <recent name="C:\Users\guptvis\Desktop\JavaPractise\src\main\java\UnderstandPriorityQueue" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="DSAPreparation.Grind75.SlidingWindow" />
+      <recent name="DSAPreparation.Grind75.Array" />
       <recent name="Java8ReferanceMaterial" />
       <recent name="DSAPreparation.Grind75.BinarySearch" />
       <recent name="DSAPreparation.Grind75.Stack" />
-      <recent name="DSAPreparation.Grind75.ArrayMatrix" />
-      <recent name="DSAPreparation.Grind75.PriorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayBestApproachKanadeAlgorithmn">
-    <configuration name="FindKthSmallestElementQ2.findKthSmallestElement" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.List1stNegativeNumberInEveryWindowOfSizeK.BestApproach">
+    <configuration name="List1stNegativeNumberInEveryWindowOfSizeK.BestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.FindKthSmallestElementQ2" />
-      <option name="METHOD_NAME" value="findKthSmallestElement" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.SlidingWindow" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.SlidingWindow.List1stNegativeNumberInEveryWindowOfSizeK" />
+      <option name="METHOD_NAME" value="BestApproach" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -126,17 +134,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayBestApproachKanadeAlgorithmn" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="List1stNegativeNumberInEveryWindowOfSizeK.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.KadanesAlgorithmMaxSumSubArrayQ3" />
-      <option name="METHOD_NAME" value="maxSumSubArrayBestApproachKanadeAlgorithmn" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.SlidingWindow" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.SlidingWindow.List1stNegativeNumberInEveryWindowOfSizeK" />
+      <option name="METHOD_NAME" value="bruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -144,17 +152,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayWorstApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MaximumOfAllSubArrayOFGivenSize.findmMaximumSumOfSubarrayUsingBruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.SlidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.KadanesAlgorithmMaxSumSubArrayQ3" />
-      <option name="METHOD_NAME" value="maxSumSubArrayWorstApproach" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.SlidingWindow" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.SlidingWindow.MaximumOfAllSubArrayOFGivenSize" />
+      <option name="METHOD_NAME" value="findmMaximumSumOfSubarrayUsingBruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -162,17 +170,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAnArrayQ1.reverseArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SlidingWindowMaximum.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.ReverseAnArrayQ1" />
-      <option name="METHOD_NAME" value="reverseArray" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SlidingWindowMaximum" />
+      <option name="METHOD_NAME" value="bestSolution" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -180,17 +188,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseAnArrayQ1.reverseString" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SlidingWindowMaximum.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.BossCoder.Array.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.BossCoder.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.BossCoder.Array.ReverseAnArrayQ1" />
-      <option name="METHOD_NAME" value="reverseString" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SlidingWindowMaximum" />
+      <option name="METHOD_NAME" value="bruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -200,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayBestApproachKanadeAlgorithmn" />
-        <item itemvalue="TestNG.KadanesAlgorithmMaxSumSubArrayQ3.maxSumSubArrayWorstApproach" />
-        <item itemvalue="TestNG.FindKthSmallestElementQ2.findKthSmallestElement" />
-        <item itemvalue="TestNG.ReverseAnArrayQ1.reverseString" />
-        <item itemvalue="TestNG.ReverseAnArrayQ1.reverseArray" />
+        <item itemvalue="TestNG.List1stNegativeNumberInEveryWindowOfSizeK.BestApproach" />
+        <item itemvalue="TestNG.List1stNegativeNumberInEveryWindowOfSizeK.bruteForce" />
+        <item itemvalue="TestNG.MaximumOfAllSubArrayOFGivenSize.findmMaximumSumOfSubarrayUsingBruteForce" />
+        <item itemvalue="TestNG.SlidingWindowMaximum.bestSolution" />
+        <item itemvalue="TestNG.SlidingWindowMaximum.bruteForce" />
       </list>
     </recent_temporary>
   </component>

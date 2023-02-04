@@ -497,4 +497,47 @@ public class Balance {
 		}
 
 	}
+
+	@Test
+	public void maxSumSubArray() {
+		int[] arr = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
+		int maxSum = Integer.MIN_VALUE;
+		int sum;
+
+		for (int i = 0; i < arr.length; i++) {
+			sum=0;
+			for (int j=i;j<arr.length;j++) {
+				sum= sum + arr[j];
+				if(sum > maxSum){
+					maxSum=sum;
+				}
+			}
+		}
+		System.out.println(maxSum);
+	}
+
+	@Test
+	public void findmMaximumSumOfSubarray() {
+
+		int[] arr = {2, 5, 1, 8, 2, 9, 1};
+		int sum;
+		int maxSum = 0;
+		int windowSize = 3;
+		//Here subArrays of size are
+		/*{2,5,1} =>8
+		{5,1,8}=>14
+		{1,8,2}=>11
+		{8,2,9}=>19
+		{2,9,1}=>12*/
+        for(int i=0;i<=arr.length-windowSize;i++){
+        	sum=0;
+        	for(int j=i,count=1;count<=windowSize;j++,count++){
+        		sum = sum + arr[j];
+			}
+        	if(sum > maxSum){
+        		maxSum=sum;
+			}
+		}
+		System.out.println(maxSum);
+	}
 }
