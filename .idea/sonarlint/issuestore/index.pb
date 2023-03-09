@@ -127,8 +127,6 @@ X
 (src/main/java/SeleniumGCP/SauceTest.java,9/c/9cba5a4cb7f7d558a15b0be669cdc7f9d56bb26b
 I
 src/main/java/Varags.java,e/2/e238b926c0f15a2329c7dd3cd75131f45287fb6e
-Ü
-Vsrc/main/java/SlidingWindowAdityaVerma/ListNoOfAnagramOfGivenPatternWithinAString.java,4/5/45feb794e3635a994d039d4d716a2927a71c6c01
 è
 _src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.java,6/b/6b610a786698af23632b69ba4b8aad25df916b6d
 t

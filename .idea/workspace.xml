@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/KadanesAlgorithmMaxSumSubArrayQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/List1stNegativeNumberInEveryWindowOfSizeK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/MaximumOfAllSubArrayOFGivenSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/SlidingWindowMaximum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/findAllAnagramsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/SlidingWindow/permutationInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b48fc19e18527c6f13b7520c237edb0ece6dbe5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/933066f51fee7dcb2062d30e94eeb936a2e783ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45feb794e3635a994d039d4d716a2927a71c6c01" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Balance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Balance.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +78,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.17.1" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/DSAPreparation/BossCoder" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VisheshProjects/spring-openapi-example/pom.xml" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.17" />

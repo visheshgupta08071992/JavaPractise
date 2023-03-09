@@ -1,9 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÚˆ¿ûÿÿÿÿ
-n
-java:S1854$"SRemove this useless assignment to local variable "countOfDistinctLettersInPattern".(ûÃ–øýÿÿÿÿ
-t
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(„àµØúÿÿÿÿ
-C	java:S108-")Either remove or fill this block of code.(Éÿâûúÿÿÿÿ
-_
-java:S1481$"DRemove this unused "countOfDistinctLettersInPattern" local variable.(ûÃ–øýÿÿÿÿ
