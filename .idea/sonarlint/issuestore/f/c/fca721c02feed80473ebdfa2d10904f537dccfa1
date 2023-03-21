@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬àÙ÷üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬àÙ÷üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦”ÉÎÿÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(¶‡Û=
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(¶‡Û=
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(¬Ì²úÿÿÿÿ
+\
+java:S1192*"GDefine a constant instead of duplicating this literal "Array " 3 times.(¶‡Û=
+E
+java:S54115"*Use the primitive boolean expression here.(ıü‡Ìûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö

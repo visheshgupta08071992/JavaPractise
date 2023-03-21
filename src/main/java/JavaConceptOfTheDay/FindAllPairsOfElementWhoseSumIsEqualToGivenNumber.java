@@ -73,4 +73,21 @@ public class FindAllPairsOfElementWhoseSumIsEqualToGivenNumber {
 			}
 		}
 	}
+
+	@Test
+	public void bestApproach(){
+		int[] arr = {4, 5, 7, 11, 9, 13, 8, 12,10,10};
+		int sum = 20;
+		Map<Integer,Integer> map=new HashMap<>();
+
+		for(int i:arr){
+			if(map.containsKey(sum -i)){
+				System.out.println(map.get(sum-i) + "+" + i + " forms " + sum);
+			}
+			else{
+				map.put(i,i);
+			}
+
+		}
+	}
 	}

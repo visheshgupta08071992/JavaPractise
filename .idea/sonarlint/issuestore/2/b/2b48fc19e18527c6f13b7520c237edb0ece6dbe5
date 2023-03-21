@@ -1,0 +1,11 @@
+
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ë§ñš
+t
+java:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(’½¤Üüÿÿÿÿ
+>
+java:S5413A")Verify that "remove()" is used correctly.(ÔŽÇ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(ÄˆÕÈ
+N	java:S106?"9Replace this use of System.out or System.err by a logger.(á»åÑ
+T
+java:S1155;">Use isEmpty() to check whether the collection is empty or not.(ÿžŸŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úÚˆ¿ûÿÿÿÿ
