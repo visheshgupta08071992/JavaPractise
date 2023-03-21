@@ -13,6 +13,8 @@ public class CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome {
 	* Example dda can be rearranged to form dad which is a palindrome
 	* llvee can be rearranged to level which is a palindrom*
 	The program is nicely explained here : https://www.youtube.com/watch?v=kCCv5fuyTIo
+	*
+	* https://practice.geeksforgeeks.org/problems/anagram-palindrome4720/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 	 */
 
 	@Test

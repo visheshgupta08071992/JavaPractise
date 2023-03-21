@@ -4,6 +4,8 @@ package JavaConceptOfTheDay;
 // digits in it. For example: 153, 371, 407, 9474, 54748 are some Armstrong numbers.
 //153 = 13 + 53 + 33 = 1 + 125 + 27 = 153
 
+/*https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1*/
+
 import org.testng.annotations.Test;
 
 public class ArmstrongNumber {
@@ -16,6 +18,7 @@ public class ArmstrongNumber {
 		int digits=0;
 		int rem;
 		int sum=0;
+
 		while(inputNumber>0){
 			inputNumber=inputNumber/10;
 			digits=digits+1;
@@ -26,6 +29,7 @@ public class ArmstrongNumber {
 			for(int j=0;j<digits;j++){
 				remPower=remPower*rem;
 			}
+
 			sum=sum+remPower;
 			System.out.println(sum);
 			inputNumber3=inputNumber3/10;

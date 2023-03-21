@@ -27,7 +27,7 @@ public class ArrayListPrograms {
 	//Remove Duplicate elements from ArrayList using Java 8
 	@Test
 	public void removeDuplicateValuesFromArrayListUsingJava8(){
-		List<Integer> list = new ArrayList<Integer>(Arrays.asList(1,1,2,3,2,4,4,3));
+	    List<Integer> list = new ArrayList<Integer>(Arrays.asList(1,1,2,3,2,4,4,3));
 		List<Integer> listWithoutDuplicated=list.stream().distinct().collect(Collectors.toList());
 		System.out.println(listWithoutDuplicated);
 	}
@@ -40,6 +40,9 @@ public class ArrayListPrograms {
 		List<Integer> list3 = new ArrayList<Integer>(Arrays.asList(1,2,4,5,3));
 
 		//Equals method compares with 1-1 indexing hence we need to sort the list.
+
+		System.out.println(list1.equals(list2));
+		System.out.println(list1.equals(list3));
 
 		Collections.sort(list1);
 		Collections.sort(list2);

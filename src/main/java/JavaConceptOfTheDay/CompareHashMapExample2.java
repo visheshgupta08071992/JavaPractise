@@ -145,10 +145,9 @@ public class CompareHashMapExample2 {
 		map2.put("Nagpur", 3);
 
 		Set<String> combineKeys=new HashSet<>(map1.keySet());
-		combineKeys.addAll(map2.keySet());
-		//Finding the additional key in map1.
 		combineKeys.removeAll(map2.keySet());
 		System.out.println("Additional key in Map1 is : " + combineKeys);
+
 	}
 
 	//Compare two maps and find the additional key in Map1 without using Hashset

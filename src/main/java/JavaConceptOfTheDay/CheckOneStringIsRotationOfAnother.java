@@ -14,6 +14,7 @@ public class CheckOneStringIsRotationOfAnother {
 
 /*“StrutsHibernateJavaJ2ee”, “J2eeStrutsHibernateJava”, “HibernateJavaJ2eeStruts”*/
 
+/*https://leetcode.com/problems/rotate-string/submissions/918662967/*/
 	@Test
 	public void checkOneStringIsRotationOfAnother(){
 		String s1="JavaJ2eeStrutsHibernate";

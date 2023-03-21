@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/5/45feb794e3635a994d039d4d716a2927a71c6c01" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41edb08b7c97fd91cc3bfdaf7b717f9e8d710055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/616542396731b8effa6a42f8afdc77432e74a0d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62b9eb7389f43b3ad040e716ebc19f224ab4b428" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/639fba30c49783bc900567597a909b751ccc9c92" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b610a786698af23632b69ba4b8aad25df916b6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9512aaf8a0da02557344699038b16cba441e077a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc3e1e8ea9519d66097b4a2e5cb3944bc8d2a9e8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05931811a8b00af6ba6906ca5066b5ce83b9d27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3f0971fa6f844c4b314cf6b20d8392a365543ca" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestGitFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArmstrongNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArmstrongNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllLeadersInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllLeadersInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindSecondLargestNumberInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindSecondLargestNumberInAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,35 +123,17 @@
       <recent name="DSAPreparation.Grind75.Stack" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.List1stNegativeNumberInEveryWindowOfSizeK.BestApproach">
-    <configuration name="List1stNegativeNumberInEveryWindowOfSizeK.BestApproach" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.FindSecondLargestNumberInAnArray.findSecondLargest">
+    <configuration name="FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.SlidingWindow.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.SlidingWindow" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.SlidingWindow.List1stNegativeNumberInEveryWindowOfSizeK" />
-      <option name="METHOD_NAME" value="BestApproach" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="List1stNegativeNumberInEveryWindowOfSizeK.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.SlidingWindow.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.SlidingWindow" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.SlidingWindow.List1stNegativeNumberInEveryWindowOfSizeK" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO" />
       <option name="METHOD_NAME" value="bruteForce" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -142,17 +142,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumOfAllSubArrayOFGivenSize.findmMaximumSumOfSubarrayUsingBruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.usingHashMap" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.SlidingWindow.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.SlidingWindow" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.SlidingWindow.MaximumOfAllSubArrayOFGivenSize" />
-      <option name="METHOD_NAME" value="findmMaximumSumOfSubarrayUsingBruteForce" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO" />
+      <option name="METHOD_NAME" value="usingHashMap" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -160,17 +160,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlidingWindowMaximum.bestSolution" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.findPairsUsingBruteForce1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SlidingWindowMaximum" />
-      <option name="METHOD_NAME" value="bestSolution" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.FindAllPairsOfElementWhoseSumIsEqualToGivenNumber" />
+      <option name="METHOD_NAME" value="findPairsUsingBruteForce1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -178,17 +178,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SlidingWindowMaximum.bruteForce" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FindSecondLargestNumberInAnArray.findSecondLargest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.Array.*" />
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Array" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Array.SlidingWindowMaximum" />
-      <option name="METHOD_NAME" value="bruteForce" />
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.FindSecondLargestNumberInAnArray" />
+      <option name="METHOD_NAME" value="findSecondLargest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise.findLeaders" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Practise" />
+      <option name="METHOD_NAME" value="findLeaders" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -198,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.List1stNegativeNumberInEveryWindowOfSizeK.BestApproach" />
-        <item itemvalue="TestNG.List1stNegativeNumberInEveryWindowOfSizeK.bruteForce" />
-        <item itemvalue="TestNG.MaximumOfAllSubArrayOFGivenSize.findmMaximumSumOfSubarrayUsingBruteForce" />
-        <item itemvalue="TestNG.SlidingWindowMaximum.bestSolution" />
-        <item itemvalue="TestNG.SlidingWindowMaximum.bruteForce" />
+        <item itemvalue="TestNG.FindSecondLargestNumberInAnArray.findSecondLargest" />
+        <item itemvalue="TestNG.FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.findPairsUsingBruteForce1" />
+        <item itemvalue="TestNG.FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.usingHashMap" />
+        <item itemvalue="TestNG.FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.bruteForce" />
+        <item itemvalue="TestNG.Practise.findLeaders" />
       </list>
     </recent_temporary>
   </component>
@@ -383,17 +401,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
-          <line>207</line>
+          <line>206</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
-          <line>212</line>
+          <line>211</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CompareHashMapExample2.java</url>
-          <line>215</line>
+          <line>214</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -461,7 +479,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.java</url>
-          <line>52</line>
+          <line>54</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -706,6 +724,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.java</url>
           <line>36</line>
           <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="115" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
