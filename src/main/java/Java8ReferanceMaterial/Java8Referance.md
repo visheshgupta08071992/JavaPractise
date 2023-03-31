@@ -127,7 +127,7 @@ flattened Stream with the help of map function. </br>
 
 
 6.**reduce**
-reduce method is used to perform aggregation on Stream Data. The first parameter of reduce is the initial value while the second parameter is the aggregation operation.
+In Java 8, the reduce() method is part of the Stream API and can be used to reduce a stream of elements to a single value.. The first parameter of reduce is the initial value while the second parameter is the aggregation operation 
 
 ![image](https://user-images.githubusercontent.com/52998083/212305999-cfbd24b1-d345-4e2f-bddf-2b066518f870.png)
 
