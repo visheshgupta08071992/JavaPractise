@@ -155,6 +155,55 @@ we would get NullPointerException if we try to perform the same operation with O
 ![image](https://user-images.githubusercontent.com/52998083/212688351-ad208c75-7ec7-4459-9222-650e1f785329.png)
 
 
+# Java 8 Optional Class Explained by ChatGPT
+
+The Java 8 Optional class is a container object that may or may not contain a non-null value. It is used to avoid `NullPointerExceptions` and make the code more robust, especially when dealing with null values or unknown results.
+
+## Example
+
+```java
+public class Person {
+    private String name;
+    private Optional<Integer> age;
+
+    public Person(String name, Integer age) {
+        this.name = name;
+        this.age = Optional.ofNullable(age);
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Optional<Integer> getAge() {
+        return age;
+    }
+}
+```
+
+In this example, the `Person` class has a `name` and an `age` which is an `Optional`. The `age` variable can either contain an integer value or it can be `null`. Using the Optional class allows us to avoid null checks and handle the case where there is no age value assigned to the person.
+
+To get the age value of a person, we can call the `getAge()` method which returns an `Optional`. We can then use methods provided by the Optional class to handle the case where there is no age value assigned.
+
+```java
+Person john = new Person("John Doe", null);
+
+//using Optional.ifPresent() to print the age value only if it exists
+john.getAge().ifPresent(age -> System.out.println("Age: " + age));
+
+//using Optional.orElse() to assign a default value if the age is not present
+int defaultAge = 18;
+int age = john.getAge().orElse(defaultAge);
+System.out.println("Age: " + age);
+
+//using Optional.map() to perform operations on the age value if it exists
+int incrementedAge = john.getAge().map(age -> age + 1).orElse(defaultAge);
+System.out.println("Incremented Age: " + incrementedAge);
+```
+
+In the first example, we use the `ifPresent()` method to print the age value only if it exists. In the second example, we use the `orElse()` method to assign a default value of 18 if there is no age value assigned to the person. In the third example, we use the `map()` method to increment the age value by 1 if it exists, and assign the result to a new variable. If the age value is not present, the `orElse()` method assigns the default age value of 18 to the `incrementedAge` variable.
+
+
 **Java 8 Stream Sample for referance**
 
 https://iamvickyav.medium.com/java-8-stream-samples-for-your-reference-f6cee5066c77
