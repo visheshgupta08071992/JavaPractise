@@ -22,8 +22,7 @@ public class ProgramToFindFibonacciAtAGivenIndex {
 		else if(index==1){
 			return 1;
 		}
-		else{
-			return fibonaciAtGivenIndex(index-1) + fibonaciAtGivenIndex(index-2);
-		}
+
+		return fibonaciAtGivenIndex(index-1) + fibonaciAtGivenIndex(index-2);
 	}
 }

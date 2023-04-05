@@ -1,20 +1,0 @@
-
-R
-java:S1854"5Remove this useless assignment to local variable "m".(Ù¡é¡8½¾ú¹©0
-S	java:S106"9Replace this use of System.out or System.err by a logger.(´Ğ•»üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(¼æşÍøÿÿÿÿ
-C
-java:S1481"&Remove this unused "m" local variable.(Ù¡é¡8À¾ú¹©0
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ²¹±øÿÿÿÿ
-Z	java:S106 "9Replace this use of System.out or System.err by a logger.(¼æşÍøÿÿÿÿ8Ğº©0
-]	java:S125"<This block of commented-out lines of code should be removed.(¼›å÷ıÿÿÿÿ8Ï·º©0
-U	java:S106,"9Replace this use of System.out or System.err by a logger.(ª¯çÓ8Ñº©0
-U	java:S1066"9Replace this use of System.out or System.err by a logger.(ŞÕÑñ8Óº©0
-X	java:S125@"<This block of commented-out lines of code should be removed.(ª¥Şè8Òº©0
-X	java:S125B"<This block of commented-out lines of code should be removed.(ª¥Şè8Óº©0
-U	java:S106G"9Replace this use of System.out or System.err by a logger.(‘‘í 8òºƒº©0
-9
-java:S1643("Use a StringBuilder instead.(¨ÑÊ„8Ôº©0
-9
-java:S16433"Use a StringBuilder instead.( §ı™8Ôº©0
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö

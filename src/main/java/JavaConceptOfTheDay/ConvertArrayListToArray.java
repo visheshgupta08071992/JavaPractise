@@ -21,6 +21,18 @@ public class ConvertArrayListToArray {
 	}
 
 	@Test
+	public void convertIntegerArrayListToArrayUsingStreams(){
+
+		List<Integer> arrayList=new ArrayList<>(Arrays.asList(1,2,3,4,5,6));
+		//toArray Method returns an Object array
+		int [] intArray=arrayList.stream().mapToInt(e -> e).toArray();
+		System.out.println(Arrays.toString(intArray));
+		for(int i=0;i<intArray.length;i++){
+			System.out.println(intArray[i]);
+		}
+	}
+
+	@Test
 	public void convertStringArrayListToArray(){
 
 		List<String> arrayList=new ArrayList<>(Arrays.asList("Vishesh","Sandesh"));

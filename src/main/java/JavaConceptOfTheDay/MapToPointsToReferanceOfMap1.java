@@ -17,6 +17,7 @@ public class MapToPointsToReferanceOfMap1 {
 		Map<Character,String> map2= map;
 
 		map2.put('b',"VisheshGupta");
+		map2.put('c',"Hero");
 		System.out.println(map);
 	}
 
