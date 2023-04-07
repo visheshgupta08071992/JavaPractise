@@ -1,9 +1,0 @@
-
-h
-java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(®…Æ…
-N	java:S106("9Replace this use of System.out or System.err by a logger.(‰„çñ
-N	java:S106J"9Replace this use of System.out or System.err by a logger.(˚ÂÛà
-N	java:S106f"9Replace this use of System.out or System.err by a logger.(˚ÂÛà
-N	java:S106i"9Replace this use of System.out or System.err by a logger.(‰„çñ
-b	java:S101 "MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ﬂ∞‘∫
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µÎﬁÿ

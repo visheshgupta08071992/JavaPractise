@@ -5,49 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ReverseEachWordOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8ReferanceMaterial/UnderstandingJava8Reduce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/BigDecimalConstructer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/UnderstandStringSplitAroundWhiteSpace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/069007d0662d5e7a0f6fa172778299235aa902ff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cb7674bfb8ca462e0cefe5bd0b61196006bd5ed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/5/157ec63d142f5a1b8005ab6bf2f49b0b4477aac9" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/165295c765fde65755ad3d223e6f68ff2d9bcb38" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/19ce66169a3db05180b77463a506ac4f5871d5c7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/26f4198c3ed74df5fd04ca055f7f0c0d75ba701c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a765a416b9217984f430957422825ea4fb01e39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3bc7bbaa50128205c9b51d6ae751e293d1d65e4a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/0/40a714bba735d6fab1f71bb0f42409281aa7ea8b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5ce990093e4f8320e672c1dc136b8390c2d0a189" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eafc74a90aa8c46c8e0303f11af6edef395629f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/2/62b9eb7389f43b3ad040e716ebc19f224ab4b428" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/639fba30c49783bc900567597a909b751ccc9c92" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/c/6cca02628e34dea37dd957fea08dcc44a02930ce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7acf9d9b8843bcf674e0e84823e5f8ad6b4048f5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/4/847f807f2ba3e21f799b53da36b22990046ef906" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/8992153ba20362c532c76edd314683a3af4f9613" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/3/936097b4da9c167bc1a26decb7d23e1e349c5cf5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/95484c091d943bcac334bd9aeeaf80a96e3029fc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/6/9669f46a31e007f2bf4205868b76d0880d4b283c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/0/a02d8a9381a7e8a12b72604a3e36b0938e25997c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b9cfffdacc3f1fd12cc5cba41bc14ce0a9c18369" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/e/be6f398f2358e2dd1750f54430b63ba4897d41cd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cc3e1e8ea9519d66097b4a2e5cb3944bc8d2a9e8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d39c07c9c331e640e7374f7ae1bbce8c89fc77c3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e05931811a8b00af6ba6906ca5066b5ce83b9d27" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26a377c77ae9e7ae890b46cba825957b194ee1e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fafe813d17aafa5140a797ae9326e7b66c2e1a3a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fca721c02feed80473ebdfa2d10904f537dccfa1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/d/0d7db51bc3cb67d6b9f082fac3012261b8fc95b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/947a85b8c2bedf3f050fd119c78548ec94d4be40" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/9/d90783687a30f65a01330426408c6bcddd173eaa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f11c438d6b9d36eaa1d476bf387fa59e216fb670" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f93a4f3c80f53a9fa9c66e208cbdeeb1492b211b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa29bc29e06db2f682f94effa601a5be0c23cf21" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ConvertArrayListToArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ConvertArrayListToArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramtoReverseAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validPalindrome2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/String/validPalindrome2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ProgramToFindFibonacciAtAGivenIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ProgramToFindFibonacciAtAGivenIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ConvertArrayListToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ConvertArrayListToArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramtoReverseAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramtoReverseAString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Practise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Practise.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,8 +114,8 @@
       <recent name="DSAPreparation.Grind75.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SeparateZerosFromNonZerosInAnArray.seprateZerosAtFirstUsingTwoPointer">
-    <configuration name="Practise.seprateZerosAtFirst" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.SortStudentObjectUsingComparable.sort">
+    <configuration name="Practise.TestRegex" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -157,7 +125,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
       <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Practise" />
-      <option name="METHOD_NAME" value="seprateZerosAtFirst" />
+      <option name="METHOD_NAME" value="TestRegex" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -165,17 +133,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practise.seprateZerosAtFirst1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SortStudentObjectUsingComparable.sort" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="ComparableAndComparater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Practise" />
-      <option name="METHOD_NAME" value="seprateZerosAtFirst1" />
+      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
+      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
+      <option name="METHOD_NAME" value="sort" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -183,17 +151,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practise.seprateZerosAtLast" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="UnderstandingLexigraphicSortingOfStringArray.sortStringArray" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Practise" />
-      <option name="METHOD_NAME" value="seprateZerosAtLast" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.UnderstandingLexigraphicSortingOfStringArray" />
+      <option name="METHOD_NAME" value="sortStringArray" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -201,17 +169,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practise.seprateZerosAtLast1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidPalindrome.checkPalindromeUsingRecursion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Practise" />
-      <option name="METHOD_NAME" value="seprateZerosAtLast1" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.ValidPalindrome" />
+      <option name="METHOD_NAME" value="checkPalindromeUsingRecursion" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -219,17 +187,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeparateZerosFromNonZerosInAnArray.seprateZerosAtFirstUsingTwoPointer" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="scope.scopeTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.SeparateZerosFromNonZerosInAnArray" />
-      <option name="METHOD_NAME" value="seprateZerosAtFirstUsingTwoPointer" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.scope" />
+      <option name="METHOD_NAME" value="scopeTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -239,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SeparateZerosFromNonZerosInAnArray.seprateZerosAtFirstUsingTwoPointer" />
-        <item itemvalue="TestNG.Practise.seprateZerosAtFirst1" />
-        <item itemvalue="TestNG.Practise.seprateZerosAtLast1" />
-        <item itemvalue="TestNG.Practise.seprateZerosAtFirst" />
-        <item itemvalue="TestNG.Practise.seprateZerosAtLast" />
+        <item itemvalue="TestNG.SortStudentObjectUsingComparable.sort" />
+        <item itemvalue="TestNG.scope.scopeTest" />
+        <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
+        <item itemvalue="TestNG.ValidPalindrome.checkPalindromeUsingRecursion" />
+        <item itemvalue="TestNG.Practise.TestRegex" />
       </list>
     </recent_temporary>
   </component>
@@ -750,7 +718,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java</url>
-          <line>14</line>
+          <line>12</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
       </breakpoints>

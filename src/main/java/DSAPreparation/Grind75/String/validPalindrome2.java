@@ -32,6 +32,8 @@ public class validPalindrome2 {
     @Test
     public void checkValidPalindromeAfterRemovingAtMostOneChar(){
        // String s="abcca";
+        //String s="tebbem"
+        //String s="cbbcc"
         String s="abc";
         int i=0;
         int j=s.length() -1;

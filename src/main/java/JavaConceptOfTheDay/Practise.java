@@ -2,9 +2,7 @@ package JavaConceptOfTheDay;
 
 import org.testng.annotations.Test;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class Practise {
 
@@ -252,7 +250,30 @@ s*/
 
     }
 
+    @Test
+    public void TestRegex(){
+        String s="A man, a plan, a canal: Panam";
+        s=s.toLowerCase().replaceAll("[^a-z0-9]","");
+        System.out.println(s);
+    }
 
+    @Test
+    public void checkOptional(){
+
+        Optional<String> x = optionalString();
+        if(x != null && x.isPresent()){
+            System.out.println(optionalString().get());
+        }
+        else{
+            System.out.println("String is null");
+        }
+    }
+
+    public Optional<String> optionalString(){
+        String a=null;
+        Optional<String> aOptional= Optional.ofNullable(a);
+        return Optional.ofNullable(a);
+    }
 
 
 

@@ -106,6 +106,33 @@ public class ValidPalindrome {
                 return;
             }
         }
-        System.out.println("true");;
+        System.out.println("true");
 }
+
+   @Test
+    public void checkPalindromeUsingRecursion(){
+
+       String s="ab_a";
+       StringBuilder s1= new StringBuilder();
+       for(int i=0;i<s.length();i++){
+           if(Character.isLetterOrDigit(s.charAt(i))){
+               s1.append(s.charAt(i));
+           }
+       }
+       s=s1.toString().toLowerCase();
+       int i=0;
+       int j=s.length() -1;
+       System.out.println(validatePalindrome(s,i,j));
+
+   }
+
+   public Boolean validatePalindrome(String s,int i,int j){
+       if(i>=j){
+           return true;
+       }
+       if(s.charAt(i)!=s.charAt(j)){
+           return false;
+       }
+       return validatePalindrome(s,i+1,j-1);
+   }
 }
