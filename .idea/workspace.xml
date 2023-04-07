@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="" />
+    <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" afterDir="false" />
+    </list>
     <list id="4f7c771e-9529-4aad-bfa6-20b9f9ffaef5" name="Revert &quot;Added Comment&quot;" comment="Revert &quot;Added Comment&quot;&#10;&#10;This reverts commit a716d08c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
