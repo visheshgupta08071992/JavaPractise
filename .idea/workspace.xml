@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="" />
+    <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" afterDir="false" />
+    </list>
+    <list id="4da2316e-6a8c-4e6a-9846-7e6c09a3db06" name="Added comment 7" comment="" />
+    <list id="5b53157f-a4e7-48de-95af-c4e83e2d0ecd" name="Revert &quot;Added Comment 6&quot;" comment="Revert &quot;Added Comment 6&quot;&#10;&#10;This reverts commit 0b76a889" />
     <list id="4f7c771e-9529-4aad-bfa6-20b9f9ffaef5" name="Revert &quot;Added Comment&quot;" comment="Revert &quot;Added Comment&quot;&#10;&#10;This reverts commit a716d08c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,6 +215,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="" />
+      <changelist id="4da2316e-6a8c-4e6a-9846-7e6c09a3db06" name="Added comment 7" comment="" />
       <created>1580540943128</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -290,7 +295,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;Added Comment&quot;&#10;&#10;This reverts commit a716d08c" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Added Comment&quot;&#10;&#10;This reverts commit a716d08c" />
+    <MESSAGE value="Revert &quot;Added Comment 6&quot;&#10;&#10;This reverts commit 0b76a889" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Added Comment 6&quot;&#10;&#10;This reverts commit 0b76a889" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
