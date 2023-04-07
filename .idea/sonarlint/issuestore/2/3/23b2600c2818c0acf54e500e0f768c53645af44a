@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ΧΖαξ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(ΧΖαξ
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ΧΖαξ8α„Νυ0
+U	java:S106e"9Replace this use of System.out or System.err by a logger.(ΧΖαξ8„†Χυ0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Δφ
+§
+java:S1862^"„This branch can not be reached because the condition duplicates a previous condition in the same sequence of "if/else if" statements(¨υ‡’ώÿÿÿÿ8‡†Χυ0

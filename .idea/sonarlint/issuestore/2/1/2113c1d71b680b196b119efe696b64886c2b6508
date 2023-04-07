@@ -1,0 +1,32 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ÊùĞd
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡…­¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÄÌ¹ÿÿÿÿÿ
+U
+java:S1854"":Remove this useless assignment to local variable "number".(ò½ŒÀüÿÿÿÿ
+F
+java:S1481""+Remove this unused "number" local variable.(ò½ŒÀüÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(‡…­¤
+M	java:S1062"9Replace this use of System.out or System.err by a logger.(ÊùĞd
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(‡…­¤
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ÜÄÌ¹ÿÿÿÿÿ
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(ÊùĞd
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ÜÄÌ¹ÿÿÿÿÿ
+M	java:S106V"9Replace this use of System.out or System.err by a logger.(ÊùĞd
+N	java:S106["9Replace this use of System.out or System.err by a logger.(ë·Óß
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(Øòˆòøÿÿÿÿ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(‡…­¤
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ÜÄÌ¹ÿÿÿÿÿ
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(ÊùĞd
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(ë·Óß
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(Øòˆòøÿÿÿÿ
+T	java:S106†"9Replace this use of System.out or System.err by a logger.(ÜÄÌ¹ÿÿÿÿÿ
+_
+java:S1192"JDefine a constant instead of duplicating this literal "try block" 5 times.(ÊùĞd
+i
+java:S1192"NDefine a constant instead of duplicating this literal "finally block" 5 times.(ÜÄÌ¹ÿÿÿÿÿ
+b
+java:S1192"LDefine a constant instead of duplicating this literal "catch block" 4 times.(‡…­¤
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö
+^
+java:S3518""CMake sure this expression can't be zero before doing this division.(ò½ŒÀüÿÿÿÿ

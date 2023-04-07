@@ -1,0 +1,13 @@
+
+<
+java:S2129"!Remove this "Integer" constructor(•Ò¿Øýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Á¸ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õÁÒ—
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ççíýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÜÔÁúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+T
+java:S4973"9Use the "equals" method if value comparison was intended.(†Á¸ÿÿÿÿÿ
+O
+java:S4973"9Use the "equals" method if value comparison was intended.(õÁÒ—
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½Äö

@@ -1,0 +1,26 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ò¹Æ˜þÿÿÿÿ
+I
+java:S28642"4Iterate over the "entrySet" instead of the "keySet".(´ºØB
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(ò¹Æ˜þÿÿÿÿ
+M	java:S1068"9Replace this use of System.out or System.err by a logger.(œüýu
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ò¹Æ˜þÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(§ÚË¨üÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(‰ÓÑÆýÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ò¹Æ˜þÿÿÿÿ
+M	java:S106V"9Replace this use of System.out or System.err by a logger.(œüýu
+1
+java:S3626p"Remove this redundant jump.(ûÁÝ…
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(ò¹Æ˜þÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(§ÚË¨üÿÿÿÿ
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(‰ÓÑÆýÿÿÿÿ
+M	java:S106o"9Replace this use of System.out or System.err by a logger.(œüýu
+S	java:S106s"9Replace this use of System.out or System.err by a logger.(ò¹Æ˜þÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "anagram" 3 times.(Û–—Ï
+s
+java:S1192"XDefine a constant instead of duplicating this literal "Strings are not anagram" 6 times.(ò¹Æ˜þÿÿÿÿ
+^
+java:S1192"HDefine a constant instead of duplicating this literal "nagaram" 3 times.(Ì¸Ï¿
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿Š¡8
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µëÞØ

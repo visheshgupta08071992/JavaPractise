@@ -1,0 +1,82 @@
+
+G
+java:S1612",Replace this lambda with a method reference.(›º‹ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›º‹ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+B
+java:S1612",Replace this lambda with a method reference.(ú‹àô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ú‹àô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¸Ëúÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+B
+java:S1612$",Replace this lambda with a method reference.(¢Øü
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¢Øü
+G
+java:S1612-",Replace this lambda with a method reference.(»«¨˜ùÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(»«¨˜ùÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+G
+java:S16124",Replace this lambda with a method reference.(Íò¡Ïùÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Íò¡Ïùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+G
+java:S1612A",Replace this lambda with a method reference.(¼Ì×ùüÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(¼Ì×ùüÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(÷ˆéıÿÿÿÿ
+G
+java:S1612H",Replace this lambda with a method reference.(¼Ì×ùüÿÿÿÿ
+S	java:S106H"9Replace this use of System.out or System.err by a logger.(¼Ì×ùüÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+S	java:S106^"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+B
+java:S1612d",Replace this lambda with a method reference.(»‰œÆ
+N	java:S106d"9Replace this use of System.out or System.err by a logger.(»‰œÆ
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+B
+java:S1612j",Replace this lambda with a method reference.(×äË¨
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(×äË¨
+S	java:S106l"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+S	java:S106y"9Replace this use of System.out or System.err by a logger.(¼†ÊÇúÿÿÿÿ
+S	java:S106{"9Replace this use of System.out or System.err by a logger.(ı²¤²øÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(›¯‰øÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(ı²¤²øÿÿÿÿ
+T	java:S106‹"9Replace this use of System.out or System.err by a logger.(Õ÷õúÿÿÿÿ
+H
+java:S1612",Replace this lambda with a method reference.(÷Š¥ûÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(÷Š¥ûÿÿÿÿ
+o
+java:S1602¨"SRemove useless curly braces around statement and then remove useless return keyword(Ò Ô¢şÿÿÿÿ
+H
+java:S1612ª",Replace this lambda with a method reference.(÷Š¥ûÿÿÿÿ
+T	java:S106ª"9Replace this use of System.out or System.err by a logger.(÷Š¥ûÿÿÿÿ
+C
+java:S1612¶",Replace this lambda with a method reference.(¥¾¶ï
+T	java:S106»"9Replace this use of System.out or System.err by a logger.(ä½¸Šıÿÿÿÿ
+O	java:S106Å"9Replace this use of System.out or System.err by a logger.(‚¨Ö§
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(Î£³êùÿÿÿÿ
+T	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(Ü¹ŒÖÿÿÿÿÿ
+O	java:S106×"9Replace this use of System.out or System.err by a logger.(¾¨“”
+O	java:S106ß"9Replace this use of System.out or System.err by a logger.(Û³Ã»
+O	java:S106ê"9Replace this use of System.out or System.err by a logger.(ÿ˜Öé
+O	java:S106ü"9Replace this use of System.out or System.err by a logger.(ÿ˜Öé
+T	java:S106„"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ
+Y
+java:S1128">Remove this unused import 'java.util.function.BinaryOperator'.(º÷ùÿÿÿÿ
+~
+java:S1192V"cDefine a constant instead of duplicating this literal "----------------------------------" 6 times.(Õ÷õúÿÿÿÿ
+]
+java:S11921"GDefine a constant instead of duplicating this literal "Akshay" 3 times.(±ÄÕ
+^
+java:S1192q"HDefine a constant instead of duplicating this literal "Vishesh" 4 times.(®™Ëã
+^
+java:S11921"HDefine a constant instead of duplicating this literal "Chandan" 3 times.(±ÄÕ
+‰
+java:S1192/"nDefine a constant instead of duplicating this literal "---------------------------------------------" 3 times.(÷ˆéıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ğá¶‚úÿÿÿÿ
+S
+java:S3655İ"7Call "Optional#isPresent()" before accessing the value.(øãÛÊøÿÿÿÿ
+[
+java:S2583û"DChange this condition so that it does not always evaluate to "false"(ˆ‚”ÿ
