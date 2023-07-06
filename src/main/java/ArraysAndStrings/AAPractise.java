@@ -268,5 +268,46 @@ public class AAPractise {
         Set<Integer> set = list1.stream().collect(Collectors.toSet());
         System.out.println(set);
     }
+
+    @Test
+    public void calc(){
+       String s = "32+5/2";
+       Stack<Integer> st = new Stack<>();
+       char sign = '+';
+       int result=0;
+
+       for(int i=0;i<s.length();i++){
+           if(Character.isDigit(s.charAt(i))){
+               int value=0;
+               while(i<s.length() && Character.isDigit(s.charAt(i))){
+
+                   value= value*10 + s.charAt(i) - '0';
+                   i++;
+               }
+               i--;
+               if(sign=='+'){
+                   st.push(value);
+               }
+               else if(sign=='-'){
+                   st.push(-value);
+               }
+               else if(sign=='*'){
+                   st.push(st.pop()*value);
+               }
+               else if(sign=='/'){
+                   st.push(st.pop()/value);
+               }
+
+           }
+
+           else{
+               sign = s.charAt(i);
+           }
+       }
+       while(!st.isEmpty()){
+           result = result + st.pop();
+       }
+        System.out.println(result);
+    }
 }
 

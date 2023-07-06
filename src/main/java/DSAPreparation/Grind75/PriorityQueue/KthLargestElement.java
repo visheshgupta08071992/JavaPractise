@@ -50,6 +50,14 @@ public class KthLargestElement {
     }
 
     @Test
+    public void findKthLargestElementUsingSortAsc(){
+        int [] nums={3,2,3,1,2,4,5,5,6};
+        int k=2;
+        Arrays.sort(nums);
+        System.out.println(nums[nums.length - k]);
+    }
+
+    @Test
     public void findKthLargestElementUsingSort(){
         int [] nums={3,2,3,1,2,4,5,5,6};
         int k=2;

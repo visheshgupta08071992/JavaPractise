@@ -50,6 +50,7 @@ public class BasicCalculater2 {
 
         //Removing white spaces from string expression
 
+
         s=s.replaceAll(" ","");
 
         Stack<Integer> st = new Stack<>();
@@ -90,5 +91,50 @@ public class BasicCalculater2 {
             result=result + st.pop();
         }
         System.out.println(result);
+    }
+
+    @Test
+    public void anotherWay(){
+        String s= "-10+3*3-2/3*4+5";
+        Stack<Integer> st = new Stack<>();
+        char sign = '+';
+        int result=0;
+
+        s=s.replaceAll(" ","");
+
+        for(int i=0;i<s.length();i++){
+            if(Character.isDigit(s.charAt(i))){
+
+                int initial=i;
+                while(i<s.length() && Character.isDigit(s.charAt(i))){
+                    i++;
+                }
+                int value = Integer.valueOf(s.substring(initial,i));
+
+                i--;
+                if(sign=='+'){
+                    st.push(value);
+                }
+                else if(sign=='-'){
+                    st.push(-value);
+                }
+                else if(sign=='*'){
+                    st.push(st.pop()*value);
+                }
+                else if(sign=='/'){
+                    st.push(st.pop()/value);
+                }
+
+            }
+
+            else{
+                sign = s.charAt(i);
+            }
+        }
+        while(!st.isEmpty()){
+            result = result + st.pop();
+        }
+        System.out.println(result);
+
     }
 }

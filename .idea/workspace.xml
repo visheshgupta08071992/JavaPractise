@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/5/751276c29a86a28bf2dae4063d14fce7c6671e37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a1e6e3c280d6c2a09ec7a5fae7680cfa8c8f1f2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7c9d5425c6528042f4a7a8649b51762b8eec8e62" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a84416730cc3b2476ea33998422d13e9ce4b8863" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/BasicCalculater2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/BasicCalculater2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Stack/StockSpanProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stack/StockSpanProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Practise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Practise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/StockSpanProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/StockSpanProblem.class" afterDir="false" />
+    </list>
+    <list id="9fa9d233-0364-4f3d-98ee-746c9e570a47" name="Added Additional" comment="">
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java" afterDir="false" />
     </list>
     <list id="4da2316e-6a8c-4e6a-9846-7e6c09a3db06" name="Added comment 7" comment="" />
+    <list id="9a9dbfb5-24a9-44d9-a0dd-788196b5dcac" name="Revert &quot;Added Additional&quot;" comment="Revert &quot;Added Additional&quot;&#10;&#10;This reverts commit dc0f7e77" />
     <list id="5b53157f-a4e7-48de-95af-c4e83e2d0ecd" name="Revert &quot;Added Comment 6&quot;" comment="Revert &quot;Added Comment 6&quot;&#10;&#10;This reverts commit 0b76a889" />
     <list id="4f7c771e-9529-4aad-bfa6-20b9f9ffaef5" name="Revert &quot;Added Comment&quot;" comment="Revert &quot;Added Comment&quot;&#10;&#10;This reverts commit a716d08c" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +69,15 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/Stack/BalancedBrackets.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Practise.java">
+      <ranges>
+        <range start1="275" end1="277" start2="275" end2="275" changelist="9fa9d233-0364-4f3d-98ee-746c9e570a47" />
+        <range start1="278" end1="278" start2="276" end2="277" changelist="9fa9d233-0364-4f3d-98ee-746c9e570a47" />
+        <range start1="280" end1="280" start2="279" end2="360" changelist="b2740fa4-b016-4a91-8971-c21ec1558c38" />
+      </ranges>
+    </file>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -107,18 +133,18 @@
       <recent name="DSAPreparation.Grind75.BinarySearch" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SortStudentObjectUsingComparable.sort">
-    <configuration name="Practise.TestRegex" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.BasicCalculater2.anotherWay">
+    <configuration name="AAPractise.calc" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Practise" />
-      <option name="METHOD_NAME" value="TestRegex" />
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.AAPractise" />
+      <option name="METHOD_NAME" value="calc" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -126,17 +152,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortStudentObjectUsingComparable.sort" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicCalculater2.anotherWay" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ComparableAndComparater.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ComparableAndComparater" />
-      <option name="MAIN_CLASS_NAME" value="ComparableAndComparater.SortStudentObjectUsingComparable" />
-      <option name="METHOD_NAME" value="sort" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.BasicCalculater2" />
+      <option name="METHOD_NAME" value="anotherWay" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -144,17 +170,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnderstandingLexigraphicSortingOfStringArray.sortStringArray" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BasicCalculater2.test1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.UnderstandingLexigraphicSortingOfStringArray" />
-      <option name="METHOD_NAME" value="sortStringArray" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.Stack" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.Stack.BasicCalculater2" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -162,17 +188,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome.checkPalindromeUsingRecursion" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="InverseAnArray.inverseArray1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.ValidPalindrome" />
-      <option name="METHOD_NAME" value="checkPalindromeUsingRecursion" />
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.InverseAnArray" />
+      <option name="METHOD_NAME" value="inverseArray1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -180,17 +206,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="scope.scopeTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KthLargestElement.findKthLargestElementUsingSortAsc" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DSAPreparation.Grind75.String.*" />
+          <option name="PATTERN" value="DSAPreparation.Grind75.PriorityQueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.String" />
-      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.String.scope" />
-      <option name="METHOD_NAME" value="scopeTest" />
+      <option name="PACKAGE_NAME" value="DSAPreparation.Grind75.PriorityQueue" />
+      <option name="MAIN_CLASS_NAME" value="DSAPreparation.Grind75.PriorityQueue.KthLargestElement" />
+      <option name="METHOD_NAME" value="findKthLargestElementUsingSortAsc" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -200,11 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SortStudentObjectUsingComparable.sort" />
-        <item itemvalue="TestNG.scope.scopeTest" />
-        <item itemvalue="TestNG.UnderstandingLexigraphicSortingOfStringArray.sortStringArray" />
-        <item itemvalue="TestNG.ValidPalindrome.checkPalindromeUsingRecursion" />
-        <item itemvalue="TestNG.Practise.TestRegex" />
+        <item itemvalue="TestNG.BasicCalculater2.anotherWay" />
+        <item itemvalue="TestNG.BasicCalculater2.test1" />
+        <item itemvalue="TestNG.AAPractise.calc" />
+        <item itemvalue="TestNG.InverseAnArray.inverseArray1" />
+        <item itemvalue="TestNG.KthLargestElement.findKthLargestElementUsingSortAsc" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +242,7 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="" />
       <changelist id="4da2316e-6a8c-4e6a-9846-7e6c09a3db06" name="Added comment 7" comment="" />
+      <changelist id="9fa9d233-0364-4f3d-98ee-746c9e570a47" name="Added Additional" comment="" />
       <created>1580540943128</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -697,7 +724,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Stack/BasicCalculater2.java</url>
-          <line>59</line>
+          <line>60</line>
           <option name="timeStamp" value="111" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
