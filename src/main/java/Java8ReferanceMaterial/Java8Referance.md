@@ -157,7 +157,7 @@ we would get NullPointerException if we try to perform the same operation with O
 
 # Java 8 Optional Class Explained by ChatGPT
 
-The Java 8 Optional class is a container object that may or may not contain a non-null value. It is used to avoid `NullPointerExceptions` and make the code more robust, especially when dealing with null values or unknown results.
+The Java 8 Optional class is a container object that may or may not contain a non-null value. It is used to avoid `NullPointerExceptions` and make the code more robust, especially when dealing with null values or unknown results. Optional is a useful class for handling cases where a value may or may not be present, reducing the likelihood of null pointer exceptions and making your code more robust.
 
 ## Example
 
