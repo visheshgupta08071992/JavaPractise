@@ -12,7 +12,7 @@ public class CompareHashMapExample {
 		Map < String, String > dstMap = new HashMap < String, String > ();
 		dstMap.put("Key1", "Value1");
 		dstMap.put("Key2", "Value2");
-		dstMap.put("Key3", "Value3");
+	//	dstMap.put("Key3", "Value3");
 
 		CompareHashMapExample hashMapExample = new CompareHashMapExample();
 

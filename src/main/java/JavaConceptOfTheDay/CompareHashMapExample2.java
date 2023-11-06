@@ -144,7 +144,8 @@ public class CompareHashMapExample2 {
 		map2.put("Pune", 2);
 		map2.put("Nagpur", 3);
 
-		Set<String> combineKeys=new HashSet<>(map1.keySet());
+		//Set<String> combineKeys=new HashSet<>(map1.keySet());
+		Set<String> combineKeys=map1.keySet();
 		combineKeys.removeAll(map2.keySet());
 		System.out.println("Additional key in Map1 is : " + combineKeys);
 

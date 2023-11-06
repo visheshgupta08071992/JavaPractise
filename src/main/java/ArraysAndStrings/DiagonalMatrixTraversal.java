@@ -5,6 +5,8 @@ package ArraysAndStrings;
 *
 * Solution -> https://www.youtube.com/watch?v=lvRdFCMD_Ew&list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH&index=15
 *
+* https://leetcode.com/problems/diagonal-traverse/description/
+*
 * */
 
 import org.testng.annotations.Test;

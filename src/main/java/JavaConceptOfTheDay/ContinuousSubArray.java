@@ -4,7 +4,32 @@ package JavaConceptOfTheDay;
 
 import org.testng.annotations.Test;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ContinuousSubArray {
+
+	@Test
+	public void subArry(){
+		int [] arr={12, 5, 31, 9, 21, 8};
+		int inputNumber=45;
+		List<Integer> list = new ArrayList<>();
+		int sum=0;
+		for(int i=0;i<arr.length;i++){
+             sum = sum + arr[i];
+			 list.add(arr[i]);
+			 if(sum==inputNumber){
+				 System.out.println(list);
+				 return;
+			 }
+			 if(sum>inputNumber){
+				 sum = sum -list.get(0);
+				 list.remove(0);
+
+			 }
+		}
+	}
+
 
 	@Test
 	public void continuousSubArray(){

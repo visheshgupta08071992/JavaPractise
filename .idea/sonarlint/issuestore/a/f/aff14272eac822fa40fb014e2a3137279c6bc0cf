@@ -1,8 +1,0 @@
-
-V	java:S125#"<This block of commented-out lines of code should be removed.(ÏÌæùÿÿÿÿ
-h
-java:S1602-"SRemove useless curly braces around statement and then remove useless return keyword(ñùÑy
-S	java:S106L"9Replace this use of System.out or System.err by a logger.(ˆ¨¹•øÿÿÿÿ
-Y
-java:S1155;">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüþÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âÁ»€

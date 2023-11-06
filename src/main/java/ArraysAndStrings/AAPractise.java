@@ -1,6 +1,6 @@
 package ArraysAndStrings;
 
-import com.sun.javafx.collections.MappingChange;
+//import com.sun.javafx.collections.MappingChange;
 import org.testng.annotations.Test;
 
 import java.util.*;
@@ -309,5 +309,202 @@ public class AAPractise {
        }
         System.out.println(result);
     }
+
+    @Test
+    public void decode(){
+        String s="3[a2[c]]";
+
+        Stack<Integer> numst = new Stack<>();
+        Stack<String> st = new Stack<>();
+        StringBuilder result = new StringBuilder();
+
+        int val=0;
+        for(int i=0;i<s.length();i++){
+            if(Character.isDigit(s.charAt(i))){
+                while(i< s.length() && Character.isDigit(s.charAt(i))){
+                    val = val*10 + (s.charAt(i) - '0');
+                    i++;
+                }
+                i--;
+                numst.push(val);
+            }
+            else if(s.charAt(i)==']'){
+                StringBuilder sb = new StringBuilder();
+                while(!st.peek().equals("[")){
+                    sb.insert(0,st.pop());
+                }
+                st.pop();
+                int no=numst.pop();
+                StringBuilder sb1 = new StringBuilder();
+                for(int m=1;m<=no;m++){
+                    sb1.insert(0,sb);
+                }
+               st.push(sb1.toString());
+            }
+            else{
+                val=0;
+                st.push(String.valueOf(s.charAt(i)));
+            }
+
+        }
+        while(!st.isEmpty()){
+            result.insert(0,st.pop());
+        }
+        System.out.println(result.toString());
+
+    }
+
+    @Test
+    public void FaultyKeyBoardWithHashMap(){
+        String name="alex";
+        String typed = "aaleex";
+
+        Map<Character,Integer> mapName = new HashMap<>();
+        Map<Character,Integer> mapTyped = new HashMap<>();
+
+        for(char c:name.toCharArray()){
+            if(mapName.containsKey(c)){
+                mapName.put(c,mapName.get(c) + 1);
+            }
+            else{
+                mapName.put(c,1);
+            }
+        }
+
+        for(char c:typed.toCharArray()){
+            if(mapTyped.containsKey(c)){
+                mapTyped.put(c,mapTyped.get(c) + 1);
+            }
+            else{
+                mapTyped.put(c,1);
+            }
+        }
+
+        if(mapName.keySet().size() != mapTyped.keySet().size()){
+            System.out.println("false");
+            return;
+        }
+        else{
+            for(int key:mapName.keySet()){
+                if(!mapTyped.containsKey(key)){
+                    System.out.println("false");
+                    return;
+                }
+                else{
+                    if(mapTyped.get(key) < mapName.get(key)){
+                        System.out.println("false");
+                        return;
+                    }
+                }
+
+            }
+        }
+        System.out.println("true");
+    }
+
+    @Test
+    public void test124(){
+        char c='4';
+        System.out.println(Integer.valueOf('0'));
+        System.out.println(Integer.valueOf(c));
+    }
+
+    @Test
+    public void test134(){
+        int [] nums={5,0,3,8,6};
+        int [] rightMin = new int[nums.length+1];
+        rightMin[nums.length-1] = Integer.MAX_VALUE;
+
+        for(int i=rightMin.length-2;i>=0;i--){
+            rightMin[i] = Math.min(nums[i],rightMin[i+1]);
+        }
+        int leftMax= Integer.MIN_VALUE;
+        for(int i=0;i<nums.length;i++){
+            leftMax=Math.max(nums[i],leftMax);
+            if(leftMax<=rightMin[i+1]){
+                int leftPartitionLength=i+1;
+                System.out.println(leftPartitionLength);
+                return;
+            }
+        }
+        System.out.println("0");;
+    }
+
+    @Test
+    public void broken(){
+        int [] arr={5,10,15,22,33,40,42,55};
+
+        int target=25;
+        List<Integer> list = new ArrayList<>();
+
+        int i=0;
+        int j=arr.length-1;
+        int mid;
+        while(i<=j){
+            mid = (i+j)/2;
+            if(arr[mid]==target){
+                list.add(target);
+                return;
+            }
+            else if(arr[mid]<target){
+                i=mid+1;
+            }
+            else if(arr[mid]>target){
+                j=mid-1;
+            }
+        }
+        list.add(arr[i]);
+        list.add(arr[j]);
+        System.out.println(list);
+
+    }
+
+    @Test
+    public void intersection(){
+        int[] nums1 = {1, 2, 2, 1};
+        int[] nums2 = {2, 2};
+
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i:nums1){
+            if(map.containsKey(i)){
+                map.put(i,map.get(i) + 1);
+            }
+            else{
+                map.put(i,1);
+            }
+        }
+
+        List<Integer> result = new ArrayList<>();
+
+        for(int i=0;i<nums2.length;i++){
+            if(map.containsKey(nums2[i])){
+                if(map.get(nums2[i]) > 0){
+                    result.add(nums2[i]);
+                    map.put(nums2[i],map.get(nums2[i]) - 1);
+                }
+
+            }
+        }
+        System.out.println(result);
+    }
+
+    @Test
+    public void matrixMultiply(){
+        int [][] matrix1 = {{1,2},{3,4}}; // 2*2
+        int [][] matrix2 = {{1,3,5},{2,4,6}}; // 2*3
+        //Expected {{5,11,17},{11,25,31}}
+        int [][] result = new int[matrix1.length][matrix2[0].length];
+
+        for(int i=0;i<result.length;i++){
+            for(int j=0;j<result[0].length;j++){
+                for(int k=0;k<matrix1[0].length;k++){
+                    result[i][j]= result[i][j] + (matrix1[i][k] * matrix2[k][j]);
+                }
+            }
+
+        }
+        System.out.println(Arrays.deepToString(result));
+    }
+
 }
 

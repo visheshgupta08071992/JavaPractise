@@ -1,0 +1,16 @@
+
+k
+java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ׁײÙƒ‎ÿÿÿÿ
+m
+java:S3776%"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(…‚ףשÿÿÿÿ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106c"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(הד–
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(ûוףˆ
+\
+java:S11922"FDefine a constant instead of duplicating this literal "false" 7 times.(הד–
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(רתÝ

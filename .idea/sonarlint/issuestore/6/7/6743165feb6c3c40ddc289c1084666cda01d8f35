@@ -1,0 +1,15 @@
+
+f
+java:S1149+"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾â–ä
+k
+java:S1149,"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ìç¼íøÿÿÿÿ
+f
+java:S1149`"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¾â–ä
+k
+java:S1149c"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¼áåæüÿÿÿÿ
+V	java:S125("<This block of commented-out lines of code should be removed.(óÅ²‹ùÿÿÿÿ
+V	java:S125*"<This block of commented-out lines of code should be removed.(‹í˜¿üÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(²ÄÓ«ýÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(²ÄÓ«ýÿÿÿÿ
+n	java:S135/"YReduce the total number of break and continue statements in this loop to use at most one.(´Øè
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øúÝŽ

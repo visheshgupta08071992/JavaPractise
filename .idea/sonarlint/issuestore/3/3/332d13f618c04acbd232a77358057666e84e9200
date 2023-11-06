@@ -1,0 +1,21 @@
+
+k
+java:S11498"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+k
+java:S1149c"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¶Âôœøÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(°îÝÍ
+c
+java:S53616"HReplace this call to "replaceAll()" by a call to the "replace()" method.(°¼²†ùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+c
+java:S5361g"HReplace this call to "replaceAll()" by a call to the "replace()" method.(°¼²†ùÿÿÿÿ
+O
+java:S2130p"9Use "Integer.parseInt" for this string-to-int conversion.(¢÷¾¼
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+m	java:S127A"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+l	java:S127D"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+m	java:S127n"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+l	java:S127r"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øúÝŽ
+T
+java:S3518O"9Make sure "val" can't be zero before doing this division.(ªÐ’Öúÿÿÿÿ
