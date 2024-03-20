@@ -506,5 +506,30 @@ public class AAPractise {
         System.out.println(Arrays.deepToString(result));
     }
 
+    @Test
+    public void test6(){
+        int [] nums1 ={1,2,2,1};
+        int [] nums2={2,2};
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i:nums2){
+            if(map.containsKey(i)){
+                map.put(i,map.get(i) + 1);
+            }
+            else{
+                map.put(i,1);
+            }
+        }
+       List<Integer> list = new ArrayList<>();
+        for(int i=0;i<nums1.length;i++){
+            if(map.containsKey(nums1[i])){
+                if(map.get(nums1[i])>0){
+                    list.add(nums1[i]);
+                    map.put(nums1[i],map.get(nums1[i]) - 1);
+                }
+            }
+        }
+        System.out.println(list);
+    }
+
 }
 

@@ -3,6 +3,9 @@ package ArraysAndStrings;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
@@ -75,7 +78,7 @@ public class PortfolioGeneratorWorking {
             String portfolioIdPrefix = isInvalidPortfolio ? "?" : "";
 
             Map<String, Object> portfolio = new LinkedHashMap<>();
-            portfolio.put("id", portfolioIdPrefix + "portfolio" + portfolioId);
+            portfolio.put("id", portfolioIdPrefix + "TLoad1M" + portfolioId);
             portfolio.put("portfolioType", "Base");
             portfolio.put("name", "Name-" + portfolioId);
             portfolio.put("description", "Sample Portfolio " + portfolioId);
@@ -102,14 +105,15 @@ public class PortfolioGeneratorWorking {
                 String instrumentId = getRandomElement(IDENTIFIER_POOL.get(instrumentIdType));
 
                 Map<String, Object> position = new LinkedHashMap<>();
-                position.put("id", positionIdPrefix + "PMSJ" + positionId);
+                position.put("id", positionIdPrefix + "T15Load1MPMSJ" + positionId);
                 position.put("quantity", getRandomInt(0, 1000));
                 position.put("quantityType", "NumShares");
 
                 Map<String, Object> instrument = new HashMap<>();
                 Map<String, Object> primaryId = new HashMap<>();
-                primaryId.put("id", "IMSJ" + instrumentId);
-                primaryId.put("idType", instrumentIdType.toUpperCase());
+                primaryId.put("id", "T15Load1MIMSJ" + positionId);
+               // primaryId.put("idType", instrumentIdType.toUpperCase());
+                primaryId.put("idType", "ISIN");
                 instrument.put("primaryId", primaryId);
                 instrument.put("attributes", getRandomAttributes(ATTR_POOL));
                 instrument.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL));
@@ -129,10 +133,20 @@ public class PortfolioGeneratorWorking {
         }
 
         String format = "json"; // Change this to "ndjson" if required
+        String outputDirectory = "C:\\Users\\guptvis\\OneDrive\\OneDrive - MSCI Office 365\\Desktop\\PositionJson";
+        String outputFile = outputDirectory + "\\portfolio.json";
 
         switch (format) {
             case "json":
-                System.out.println(gson.toJson(portfolios));
+                try {
+                    FileWriter fileWriter = new FileWriter(outputFile);
+                    BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+                    bufferedWriter.write(gson.toJson(portfolios));
+                    bufferedWriter.newLine(); // Add a newline between JSON objects in case of ndjson
+                    bufferedWriter.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
                 break;
             case "ndjson":
                 for (Map<String, Object> portfolio : portfolios) {

@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class PosiionGeneratorWorking {
+public class PosiionGeneratorWith5PositionAttribute {
 
     private static final Map<String, List<String>> IDENTIFIER_POOL = new HashMap<>();
     private static final List<Map<String, Integer>> ATTR_POOL = new ArrayList<>();
@@ -20,13 +20,19 @@ public class PosiionGeneratorWorking {
         IDENTIFIER_POOL.put("cusip", new ArrayList<>(Arrays.asList("US49", "US50", "EU49", "EU50")));
         IDENTIFIER_POOL.put("sedol", new ArrayList<>(Arrays.asList("XYZ00", "XYZ01", "XYZ02", "XYZ03")));
 
+        // Update ATTR_POOL to include 5 attributes
         ATTR_POOL.add(Collections.singletonMap("ant", 1));
         ATTR_POOL.add(Collections.singletonMap("bat", 2));
-        // Add more attributes here...
+        ATTR_POOL.add(Collections.singletonMap("cat", 3));
+        ATTR_POOL.add(Collections.singletonMap("dog", 4));
+        ATTR_POOL.add(Collections.singletonMap("elephant", 5));
 
+        // Update INTERNAL_ATTR_POOL to include 5 internal attributes
         INTERNAL_ATTR_POOL.add(Collections.singletonMap("Ann Arbor", 1));
         INTERNAL_ATTR_POOL.add(Collections.singletonMap("Boston", 2));
-        // Add more internal attributes here...
+        INTERNAL_ATTR_POOL.add(Collections.singletonMap("Chicago", 3));
+        INTERNAL_ATTR_POOL.add(Collections.singletonMap("Denver", 4));
+        INTERNAL_ATTR_POOL.add(Collections.singletonMap("El Paso", 5));
     }
 
     private static final String[] CURRENCIES = {"USD", "EUR", "GBP", "CHF", "JPY"};
@@ -40,17 +46,19 @@ public class PosiionGeneratorWorking {
         return list.get(ThreadLocalRandom.current().nextInt(list.size()));
     }
 
-    private static <K, V> Map<K, V> getRandomAttributes(List<Map<K, V>> attributesList) {
+    private static <K, V> Map<K, V> getRandomAttributes(List<Map<K, V>> attributesList, int count) {
+        // Shuffle the list of attributes and select 'count' number of them
         Collections.shuffle(attributesList);
-        return attributesList.get(0);
+        Map<K, V> attributes = new LinkedHashMap<>();
+        for (int i = 0; i < count; i++) {
+            attributes.putAll(attributesList.get(i));
+        }
+        return attributes;
     }
 
     public static void main(String[] args) {
-
-
         Scanner scanner = new Scanner(System.in);
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
-
 
         System.out.print("Enter the minimum number of positions per portfolio: ");
         int minPositions = scanner.nextInt();
@@ -61,39 +69,38 @@ public class PosiionGeneratorWorking {
         System.out.print("Enter the asOfDate (YYYY-MM-DD): ");
         String asOfDate = scanner.next();
 
+        int positionCount = getRandomInt(minPositions, maxPositions);
+        List<Map<String, Object>> positions = new ArrayList<>();
 
+        for (int positionId = 1; positionId <= positionCount; positionId++) {
+            boolean isInvalidPosition = getRandomInt(0, 99) < 0; // Change this to the desired percentage
+            String positionIdPrefix = isInvalidPosition ? "?" : "";
 
-            int positionCount = getRandomInt(minPositions, maxPositions);
-            List<Map<String, Object>> positions = new ArrayList<>();
+            String instrumentIdType = getRandomElement(new ArrayList<>(IDENTIFIER_POOL.keySet()));
+            String instrumentId = getRandomElement(IDENTIFIER_POOL.get(instrumentIdType)) ;
 
-            for (int positionId = 1; positionId <= positionCount; positionId++) {
-                boolean isInvalidPosition = getRandomInt(0, 99) < 0; // Change this to the desired percentage
-                String positionIdPrefix = isInvalidPosition ? "?" : "";
+            Map<String, Object> position = new LinkedHashMap<>();
+            position.put("id", positionIdPrefix + "PMSJ" + positionId);
+            position.put("quantity", getRandomInt(0, 1000));
+            position.put("quantityType", "NumShares");
 
-                String instrumentIdType = getRandomElement(new ArrayList<>(IDENTIFIER_POOL.keySet()));
-                String instrumentId = getRandomElement(IDENTIFIER_POOL.get(instrumentIdType)) ;
+            LinkedHashMap<String, Object> instrument = new LinkedHashMap<>();
+            LinkedHashMap<String, Object> primaryId = new LinkedHashMap<>();
+            //primaryId.put("id", "IMSJ" + ThreadLocalRandom.current().nextInt(1, 100));
+            primaryId.put("id", "IMSJ" + positionId);
+            primaryId.put("idType", instrumentIdType.toUpperCase());
+            instrument.put("primaryId", primaryId);
+            instrument.put("attributes", getRandomAttributes(ATTR_POOL, 1)); // Ensure 1 attributes
+            instrument.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 1)); // Ensure 1 internal attributes
+            instrument.put("blobType","RML3");
+            instrument.put("blobData","BMSJ");
 
-                Map<String, Object> position = new LinkedHashMap<>();
-                position.put("id", positionIdPrefix + "PMSJ" + positionId);
-                position.put("quantity", getRandomInt(0, 1000));
-                position.put("quantityType", "NumShares");
+            position.put("instrument", instrument);
+            position.put("attributes", getRandomAttributes(ATTR_POOL, 5)); // Ensure 5 attributes
+            position.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 5)); // Ensure 5 internal attributes
 
-                Map<String, Object> instrument = new HashMap<>();
-                Map<String, Object> primaryId = new HashMap<>();
-                primaryId.put("id", "IMSJ" + ThreadLocalRandom.current().nextInt(1, 100));
-                primaryId.put("idType", instrumentIdType.toUpperCase());
-                instrument.put("primaryId", primaryId);
-                instrument.put("attributes", getRandomAttributes(ATTR_POOL));
-                instrument.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL));
-                instrument.put("blobType","RML3");
-                instrument.put("blobData","BMSJ");
-
-                position.put("instrument", instrument);
-                position.put("attributes", getRandomAttributes(ATTR_POOL));
-                position.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL));
-
-                positions.add(position);
-            }
+            positions.add(position);
+        }
 
         String format = "json"; // Change this to "ndjson" if required
         String outputDirectory = "C:\\Users\\guptvis\\OneDrive\\OneDrive - MSCI Office 365\\Desktop\\PositionJson";

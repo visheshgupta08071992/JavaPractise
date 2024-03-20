@@ -1,9 +1,9 @@
-package JavaConceptOfTheDay;
+package DSAPreparation.Grind75.Array;
+
+import org.testng.annotations.Test;
 
 import java.util.HashMap;
 import java.util.Map;
-
-import org.testng.annotations.Test;
 
 public class FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO {
 	/*if {2, 4, 6, 8, 9, 5, 3, 12} is an array and 24 is the given number, then you have to find all pairs of
