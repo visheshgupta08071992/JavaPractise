@@ -540,4 +540,29 @@ public class Balance {
 		}
 		System.out.println(maxSum);
 	}
+
+	@Test
+	public void subArry() {
+		int[] arr = {12, 5, 31, 9, 21, 8};
+		int inputNumber = 45;
+		int sum;
+		int startIndex;
+		int endIndex;
+
+		for(int i=0;i<arr.length;i++){
+			sum=arr[i];
+			for(int j=i+1;j<arr.length;j++){
+				sum = sum + arr[j];
+				if(sum>inputNumber){
+					break;
+				}
+				if(sum==inputNumber){
+					for(int m=i;m<=j;m++){
+						System.out.println(arr[m]);
+					}
+					return;
+				}
+			}
+		}
+	}
 }

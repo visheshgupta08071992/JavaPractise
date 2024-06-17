@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="Revert &quot;Added Comment 6&quot;&#10;&#10;This reverts commit 0b76a889">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PortfolioGeneratorWorkingCopy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith10PositionInsAttribute.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith10PositionInsAttributeWithoutBlob.java" afterDir="false" />
@@ -20,9 +21,298 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PortfolioGeneratorWorking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PortfolioGeneratorWorking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/Sort2DArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ContinuousSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ContinuousSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/InterviewQuestions/Balance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArrayReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArrayReversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArrayRotation.class" afterDir="false" />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AddStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AddStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AddToArrayFormOfInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AddToArrayFormOfInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/BrokernEconomy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/BrokernEconomy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DiagonalMatrixTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DiagonalMatrixTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/DifferenceOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/ExitPointOfmatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/ExitPointOfmatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/FaultyKeyboard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/FaultyKeyboard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/GasStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/GasStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/InverseAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/InverseAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MajorityElement1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MajorityElement1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MajorityElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MajorityElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MajorityElementGeneral.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MajorityElementGeneral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MatrixMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MatrixMultiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MaxChunksToMakeArraySorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MaxChunksToMakeArraySorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MaxChunksToMakeArraySorted2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/MaxChunksToMakeArraySorted2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/NextGreaterElement3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/NextGreaterElement3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PartitionArrayIntoDisjointIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PartitionArrayIntoDisjointIntervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PartitionLabels.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PartitionLabels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PortfolioGenerator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PortfolioGenerator.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PortfolioGeneratorWorking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PortfolioGeneratorWorking.class" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArrayListPrograms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArrayListPrograms.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PosiionGeneratorWorking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PosiionGeneratorWorking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PrintMatrixInSpiral.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PrintMatrixInSpiral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/ProductOfArrayExceptItself.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/ProductOfArrayExceptItself.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/ReverseVowelOfAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/ReverseVowelOfAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/RotateMatrixBy90Degree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/RotateMatrixBy90Degree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/SetMatrixZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/SetMatrixZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/SquaresOfSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/SquaresOfSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/SumOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/SumOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/TransposeOfMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/TransposeOfMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/WaveTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/WaveTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsAscendinglySorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsAscendinglySorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/FindAnElementUsingBinarySearchWhenArrayIsDescendinglySorted.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/FindNoOfTimesASortedArrayIsRotated.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/FindNoOfTimesASortedArrayIsRotated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/FindTotalOccuranceOfAnElementInSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/SearchAnElementInNearlySortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/SearchAnElementInNearlySortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinarySearch/SearchAnElementInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/BinarySearch/SearchAnElementInRotatedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortHashMapBasedOnKeysUsingTreeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortHashMapBasedOnKeysUsingTreeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortHashMapUsingKeysOrValuesUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortHashMapUsingKeysOrValuesUsingJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortMapIfTheKeyIsStudentObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortMapIfTheKeyIsStudentObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortStudentObjectUsingComparable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortStudentObjectUsingComparable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortStudentObjectUsingComparater.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortStudentObjectUsingComparater.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortingHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/SortingHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ComparableAndComparater/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ComparableAndComparater/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CountNoOfOccuranceOfGivenCharInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CountNoOfOccuranceOfGivenCharInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CreateNewPropertyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CreateNewPropertyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/BossCoder/Array/FindKthSmallestElementQ2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/BossCoder/Array/FindKthSmallestElementQ2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/BossCoder/Array/KadanesAlgorithmMaxSumSubArrayQ3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/BossCoder/Array/KadanesAlgorithmMaxSumSubArrayQ3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/BossCoder/Array/ReverseAnArrayQ1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/BossCoder/Array/ReverseAnArrayQ1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/ArrayRotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/ArrayRotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/BestTimeToBuyAndSellStock2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindDuplicateNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindDuplicateNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindSecondLargestNumberInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/FindSecondLargestNumberInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/GasStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/GasStation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/InsertInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/InsertInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/IntersectionOfTwoArrays1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/IntersectionOfTwoArrays1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/IntersectionOfTwoArrays2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/IntersectionOfTwoArrays2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/KadanesAlgorithmMaxSumSubArrayQ3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/KadanesAlgorithmMaxSumSubArrayQ3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/LongestConsecutiveSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/MajorityElement1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/MajorityElement1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/MergeInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/MergeInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/MissingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/MissingNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/NextGreaterElement3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/NextGreaterElement3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/NonOverlappingIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/NonOverlappingIntervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/ProductOfArrayExceptItself.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/ProductOfArrayExceptItself.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SearchInsertPosition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SearchInsertPosition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SlidingWindowMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SlidingWindowMaximum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/Sort012.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/Sort012.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SquaresOfSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SquaresOfSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SubArraySumEqualK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SubArraySumEqualK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SumTargetSumUniquePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/SumTargetSumUniquePairs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/TargetSumPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/TargetSumPair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/ThreeSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/ThreeSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/conatinsDuplicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Array/conatinsDuplicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/DiagonalMatrixTraversal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/MatrixMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/MatrixMultiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/RotatematrixBy90Degree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/RotatematrixBy90Degree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/SearchIn2Dmatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/SearchIn2Dmatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/SetMatrixZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/SetMatrixZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/TransposeOfMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/ArrayMatrix/TransposeOfMatrix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/FindMinimumInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/FindMinimumInRotatedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/FindTheFirstAndLastOccuranceOfAnElementInASortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/KoKoEatingBanana.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/KoKoEatingBanana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/SearchInRotatedSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/SearchInRotatedSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/SearchInRotatedSortedArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BinarySearch/SearchInRotatedSortedArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BitManipulation/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/BitManipulation/SingleNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements$pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements$pair.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/FindKClosestElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/KthLargestElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/TopKFrequentElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/PriorityQueue/TopKFrequentWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/List1stNegativeNumberInEveryWindowOfSizeK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/List1stNegativeNumberInEveryWindowOfSizeK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/MaximumOfAllSubArrayOFGivenSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/MaximumOfAllSubArrayOFGivenSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/SlidingWindowMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/SlidingWindowMaximum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/findAllAnagramsInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/findAllAnagramsInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/permutationInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/SlidingWindow/permutationInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/BasicCalculater2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/BasicCalculater2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/DailyTemperatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/DailyTemperatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/DecodeString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/DecodeString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/EvaluateReversePolishNotation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/ImplementQueueUsingTwoStacks$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/ImplementQueueUsingTwoStacks$MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/ImplementQueueUsingTwoStacks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/ImplementQueueUsingTwoStacks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/MinStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/NextGreaterElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/NextGreaterElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/NextGreaterElementOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/NextGreaterElementOnRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/Validparanthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/Validparanthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/nextGreaterToRightFromAnotherArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/Stack/nextGreaterToRightFromAnotherArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/BackSpaceStringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/BackSpaceStringCompare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LargestNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LargestNo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/LongestSubstringWithoutRepeatingCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/ReverseEachWordOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/ReverseEachWordOfString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/RotateString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/RotateString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/UnderstandingLexigraphicSortingOfStringArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/UnderstandingLexigraphicSortingOfStringArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/ValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/ValidPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/findAllAnagramsInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/findAllAnagramsInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/firstPalindromicStringInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/firstPalindromicStringInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/groupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/groupAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/permutationInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/permutationInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/scope.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/scope.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/validAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/validAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/validPalindrome2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/Grind75/String/validPalindrome2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/NeetCode/Array/TopKFrequentElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/NeetCode/Array/TopKFrequentElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DSAPreparation/NeetCode/Array/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DSAPreparation/NeetCode/Array/TwoSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DuplicateElementInRows.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DuplicateElementInRows.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/EmailTestingUsingMailosaurService/EmailVerificationUsingMailsaur.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/EmailTestingUsingMailosaurService/EmailVerificationUsingMailsaur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GetAllPropertiesOfSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GetAllPropertiesOfSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/CheckBoxWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/CheckBoxWithStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FilterExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FindStringLengthWithUsingLenthMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/FindStringLengthWithUsingLenthMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/Java8Distinct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/Java8Distinct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/LinksWithStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/LinksWithStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/MathClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/MathClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/MathOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/MathOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/MergeTwoHashMapUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/MergeTwoHashMapUsingJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/Orchard.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/Orchard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveTextFromListOfElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveTextFromListOfElement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveTextFromListOfElementUsingStreamAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveTextFromListOfElementUsingStreamAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementUsingStreamAPICollect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementUsingStreamAPICollect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementWithStremAPIUsingMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementWithStremAPIUsingMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementWithoutStreamAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/RetrieveUniqueTextFromListOfElementWithoutStreamAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/StringClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/StringClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/StringOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/StringOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/TakeAnArrayAndReturnSquareOfTheArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/TakeAnArrayAndReturnSquareOfTheArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/WeddriverWithJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/WeddriverWithJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/WindowHandleStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/WindowHandleStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/supplierInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8Practise/LambaFunction/supplierInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Java8ReferanceCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Java8ReferanceCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/UnderstandingJava8Reduce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Java8ReferanceMaterial/UnderstandingJava8Reduce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/AppendRandomNoWithinAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/AppendRandomNoWithinAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArmstrongNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArrayListPrograms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArrayListPrograms.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/BigDecimalConstructer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/BigDecimalConstructer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckEqualityOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckEqualityOfTwoStringsWithoutInbuiltFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckEqualityOfTwoStringsWithoutInbuiltFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckIfCharactersInAStringCanBeRearrangedToFormAPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckOneStringIsRotationOfAnother.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CheckWhetherGivenNoIsBinaryOrNot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CompareHashMapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CompareHashMapExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CompareHashMapExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/CompareHashMapExample2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ContinuousSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ContinuousSubArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ConvertArrayListToArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ConvertArrayListToArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ConvertArrayofIntToArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/DetermineWhetherTheStringIsValidBasedOnBraces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/DetermineWhetherTheStringIsValidBasedOnBraces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FinalizeExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FinalizeExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllLeadersInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllLeadersInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindDuplicateCharactersInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindDuplicateCharactersInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindDuplicateElementsInAnArrayUsingHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindDuplicateElementsInAnArrayUsingHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindDuplicateWordsInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindDuplicateWordsInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindFirstDuplicateCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindFirstDuplicateCharacterInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindNoOfOccuranceOfGivenCharacterInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindNoOfOccuranceOfGivenCharacterInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindSecondLargestNumberInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindSecondLargestNumberInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindTheMissingNumberInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindTheMissingNumberInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/GivenAComplexJsonPrintItUsingHashMapAndList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/GivenAComplexJsonPrintItUsingHashMapAndList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Balance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Balance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/BalanceParanthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/BalanceParanthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Coupa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Coupa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/CreditSui.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/CreditSui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Grab.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Grab.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Grab2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/InterviewQuestions/Grab2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToFindIntersectionOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToFindIntersectionOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToFindUnionOfTwoArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToFindUnionOfTwoArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramtoReverseAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramtoReverseAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/MapDoesNotReturn.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/MapDoesNotReturn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/MapToPointsToReferanceOfMap1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/NoOfWordsInaString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/NoOfWordsInaString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/PercentOfUpperLowerSpecialAndDigitINString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/PercentOfUpperLowerSpecialAndDigitINString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/PigLatin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/PigLatin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Practise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Practise.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ProgramToCheckWhetherStringIsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ProgramToCheckWhetherStringIsAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ProgramToFindAllPermutationOfAGivenString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ProgramToFindAllPermutationOfAGivenString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ProgramToFindFibonacciAtAGivenIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ProgramToFindFibonacciAtAGivenIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/RemoveAllWhiteSpacesFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/RemoveAllWhiteSpacesFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/RemoveDuplicateElementsFromArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/RemoveDuplicateElementsFromArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseEachWordOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseEachWordOfString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseStringUsingRecurrsion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseStringUsingRecurrsion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseStringWithPreservingSpaces.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseStringWithPreservingSpaces.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseWordInAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ReverseWordInAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SeparateVowelsOnLeftAndConstantsOnRightInAGivenString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SeparateZerosFromNonZerosInAnArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SeparateZerosFromNonZerosInAnArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SortAnHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SortAnHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SwapTwoStringsWithoutThirdVariable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SwapTwoStringsWithoutThirdVariable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SynchronizedArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/SynchronizedArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Test345.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/Test345.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderStandNumberFormatException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderStandNumberFormatException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderstandStringSplitAroundWhiteSpace.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderstandStringSplitAroundWhiteSpace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderstandingIntegerWrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderstandingIntegerWrapperClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderstandingTryCatchBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/UnderstandingTryCatchBlock.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/checkHowDoesConcatinationOperatiorWorksWithCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/checkHowDoesConcatinationOperatiorWorksWithCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/DuplicateZeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode/DuplicateZeros.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Leetcode/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Leetcode/MergeSortedArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MultipleArrayIntersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MultipleArrayIntersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MultipleArrayUnion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MultipleArrayUnion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NoOfOccuranceOfDuplicateWordsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/NoOfOccuranceOfDuplicateWordsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/NumberSystem/DigitFrequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/NumberSystem/DigitFrequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/OwnerInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/OwnerInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/ReadFromPropertiesFileAndStoreInHashMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/ReadFromPropertiesFileAndStoreInHashMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/ReadUsingOwnerLibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/ReadUsingOwnerLibrary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/TraditionalWayReadfromPropertiesFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PropertyFileReadingCode/TraditionalWayReadfromPropertiesFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ReadValueFromPropertiesFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ReadValueFromPropertiesFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Remove$fromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Remove$fromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ReplaceWhiteSpacesFromString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ReplaceWhiteSpacesFromString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ReverseEachWordOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ReverseEachWordOfString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumGCP/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumGCP/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumGCP/SauceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumGCP/SauceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumMetricsUsingGrafanaAndInfluxDB/ExecutionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumMetricsUsingGrafanaAndInfluxDB/ExecutionListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumMetricsUsingGrafanaAndInfluxDB/ResultSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumMetricsUsingGrafanaAndInfluxDB/ResultSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumMetricsUsingGrafanaAndInfluxDB/SampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumMetricsUsingGrafanaAndInfluxDB/SampleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ClariInterview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ClariInterview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ClariInterview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ClariInterview2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/IcertisInterview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/IcertisInterview.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingCustomXpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingCustomXpath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingIteration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingIteration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingStreamsAnyMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingStreamsAnyMatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingStreamsFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectOptionInDropDownUsingStreamsFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ValidationOfSortedDropDownAscending.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ValidationOfSortedDropDownAscending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ValidationOfSortedDropDownDescending.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumPractise/HandlingDropDowns/ValidationOfSortedDropDownDescending.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumSaucelabs/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumSaucelabs/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeleniumSaucelabs/SauceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeleniumSaucelabs/SauceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SeparateZeroFromNonZero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SeparateZeroFromNonZero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SlidingWindowAdityaVerma/List1stNegativeNumberInEveryWindowOfSizeK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SlidingWindowAdityaVerma/List1stNegativeNumberInEveryWindowOfSizeK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SlidingWindowAdityaVerma/ListNoOfAnagramOfGivenPatternWithinAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SlidingWindowAdityaVerma/ListNoOfAnagramOfGivenPatternWithinAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SlidingWindowAdityaVerma/MaximumOfAllSubArrayOFGivenSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SlidingWindowAdityaVerma/MaximumOfAllSubArrayOFGivenSize.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SortHaspMap/SortHashMapBasedOnKeysUsingTreeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SortHaspMap/SortHashMapBasedOnKeysUsingTreeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SortHaspMap/SortHashMapUsingKeysOrValuesUsingJava8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SortHaspMap/SortHashMapUsingKeysOrValuesUsingJava8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/DailyTemperatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/DailyTemperatures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/DuplicateBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/DuplicateBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/LargestAreaHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/LargestAreaHistogram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElement2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElement2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextGreaterElementOnRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnLeft.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/NextSmallerOnRight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/StockSpanProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/StockSpanProblem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/Test123.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/Test123.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Stack/nextGreaterToRightFromAnotherArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Stack/nextGreaterToRightFromAnotherArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SumOfNumericValuesInaString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SumOfNumericValuesInaString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/TargetS.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TargetS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UnderstandPriorityQueue/PriorityQueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UnderstandPriorityQueue/PriorityQueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Varags.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Varags.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/countOccuranceOfEachCharacterInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/countOccuranceOfEachCharacterInString.class" afterDir="false" />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
     </list>
     <list id="9fa9d233-0364-4f3d-98ee-746c9e570a47" name="Added Additional" comment="" />
     <list id="4da2316e-6a8c-4e6a-9846-7e6c09a3db06" name="Added comment 7" comment="" />
@@ -78,14 +368,17 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$USER_HOME$/Program Files/Apache/Maven 3.6.3" />
-        <option name="useMavenConfig" value="true" />
+        <option name="customMavenHome" value="$USER_HOME$/Program Files/Apache/Maven 3.6.3" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
       </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="1XCCyQlwOXUnktmL8bdqDtubJ1l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -96,14 +389,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.Sort2DArray.executor": "Run",
+    "JUnit.Sort2DArray.sortEachRoeAscending.executor": "Run",
+    "JUnit.Sort2DArray.sortOnColumn0Ascending.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.Balance.subArry.executor": "Run",
+    "TestNG.CompareHashMapExample2.compareHashMapBasedOnKeyAndValuePair.executor": "Run",
+    "TestNG.CompareHashMapExample2.compareHashMapBasedOnKeys.executor": "Run",
+    "TestNG.DiagonalMatrixTraversal.diagonalTraverse.executor": "Run",
+    "TestNG.DifferenceOfTwoArrays.differenceOfTwoArray.executor": "Run",
+    "TestNG.SortMapIfTheKeyIsStudentObject.executor": "Run",
+    "TestNG.SortStudentObjectUsingComparable.sort.executor": "Run",
     "WebServerToolWindowFactoryState": "false",
+<<<<<<< HEAD
     "com.google.cloudcode.ide_session_index": "20240610_0000",
     "last_opened_file_path": "C:/Users/guptvis/OneDrive/OneDrive - MSCI Office 365/Desktop/VisheshProjects/GatlingTest",
+=======
+    "com.google.cloudcode.ide_session_index": "20240315_0000",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JavaPractise/pom.xml",
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
@@ -128,6 +438,7 @@
       <recent name="Java8ReferanceMaterial" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.PosiionGeneratorWith10PositionInsAttribute">
     <configuration name="PosiionGeneratorWith10PositionInsAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith10PositionInsAttribute" />
@@ -138,10 +449,25 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+  <component name="RunManager" selected="TestNG.Balance.subArry">
+    <configuration name="Sort2DArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Sort2DArray" />
+      <option name="TEST_OBJECT" value="class" />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="PosiionGeneratorWith10PositionInsAttributeWithoutBlob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith10PositionInsAttributeWithoutBlob" />
       <module name="JavaPractise" />
@@ -151,10 +477,25 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="Sort2DArray.sortEachRoeAscending" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.Sort2DArray" />
+      <option name="METHOD_NAME" value="sortEachRoeAscending" />
+      <option name="TEST_OBJECT" value="method" />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="PosiionGeneratorWith5PositionAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith5PositionAttribute" />
       <module name="JavaPractise" />
@@ -164,10 +505,27 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="Balance.subArry" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.InterviewQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay.InterviewQuestions" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.InterviewQuestions.Balance" />
+      <option name="METHOD_NAME" value="subArry" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="PosiionGeneratorWith5PositionAttributeWithoutBlob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith5PositionAttributeWithoutBlob" />
       <module name="JavaPractise" />
@@ -177,10 +535,27 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="CompareHashMapExample2.compareHashMapBasedOnKeyAndValuePair" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
+      <option name="METHOD_NAME" value="compareHashMapBasedOnKeyAndValuePair" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="TreeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.TreeGenerator" />
       <module name="JavaPractise" />
@@ -190,17 +565,41 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+=======
+    <configuration name="CompareHashMapExample2.compareHashMapBasedOnKeys" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
+      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.CompareHashMapExample2" />
+      <option name="METHOD_NAME" value="compareHashMapBasedOnKeys" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.PosiionGeneratorWith10PositionInsAttribute" />
         <item itemvalue="Application.PosiionGeneratorWith10PositionInsAttributeWithoutBlob" />
         <item itemvalue="Application.PosiionGeneratorWith5PositionAttribute" />
         <item itemvalue="Application.PosiionGeneratorWith5PositionAttributeWithoutBlob" />
         <item itemvalue="Application.TreeGenerator" />
+=======
+        <item itemvalue="TestNG.Balance.subArry" />
+        <item itemvalue="TestNG.CompareHashMapExample2.compareHashMapBasedOnKeys" />
+        <item itemvalue="TestNG.CompareHashMapExample2.compareHashMapBasedOnKeyAndValuePair" />
+        <item itemvalue="JUnit.Sort2DArray" />
+        <item itemvalue="JUnit.Sort2DArray.sortEachRoeAscending" />
+>>>>>>> 63eba72664b82e6e791183e70539a61e72da36fc
       </list>
     </recent_temporary>
   </component>
@@ -774,7 +1173,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ContinuousSubArray.java</url>
-          <line>18</line>
+          <line>22</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

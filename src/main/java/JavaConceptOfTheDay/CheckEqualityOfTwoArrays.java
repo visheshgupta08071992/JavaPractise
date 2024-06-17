@@ -3,8 +3,8 @@ package JavaConceptOfTheDay;
 import java.util.Arrays;
 
 import org.testng.annotations.Test;
-
 /*https://practice.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article*/
+
 
 public class CheckEqualityOfTwoArrays {
 
