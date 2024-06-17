@@ -1,0 +1,72 @@
+{
+    "owner": "system",
+    "portfolioType": "Tree",
+    "treeNodes": [
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P1"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P2"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P3"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P4"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P5"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P6"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P7"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P8"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P9"},
+            "assignedValue": "USD 1"
+        },
+        {
+            "weight": 1,
+            "scale": 1,
+            "portfolioReference": {"portfolioId": "P10"},
+            "assignedValue": "USD 1"
+        }
+    ],
+    "name": "system",
+    "description": "system",
+    "id": "T1",
+    "source": "system",
+    "asOfDate": "2024-05-06",
+    "baseCurrency": "USD"
+}

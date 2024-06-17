@@ -61,6 +61,19 @@ public class ArrayListPrograms {
 		//Find elements present in List1 which are not present in list2
 		list1.removeAll(list2);
 		System.out.println(list1);
+
+		//Another approach
+
+		List<Integer> list3 = new ArrayList<Integer>(Arrays.asList(1,2,3,4,5));
+		List<Integer> list4 = new ArrayList<Integer>(Arrays.asList(1,2,7,8,9));
+
+		for(int i:list3){
+			if(!list4.contains(i)){
+				System.out.println(i);
+			}
+		}
+
+
 	}
 
 	//Compare two list and find the common elements between them

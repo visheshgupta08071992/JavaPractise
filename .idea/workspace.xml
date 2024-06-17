@@ -5,21 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b2740fa4-b016-4a91-8971-c21ec1558c38" name="Default Changelist" comment="Revert &quot;Added Comment 6&quot;&#10;&#10;This reverts commit 0b76a889">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/FindAllPairsOfElementWhoseSumIsEqualToGivenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DSAPreparation/Grind75/Array/FindSecondLargestNumberInAnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PortfolioGeneratorWorkingCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith10PositionInsAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith10PositionInsAttributeWithoutBlob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith5PositionAttributeWithoutBlob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/TreeGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/DemonitisationOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindLastIndexOfCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FirstRepeatedCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/RemoveCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/SortStringInDescendingOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/AAPractise.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PortfolioGeneratorWorking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PortfolioGeneratorWorking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWorking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWorking.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraysAndStrings/PosiionGeneratorWith5PositionAttribute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JavaConceptOfTheDay/ArrayListPrograms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/AAPractise.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PortfolioGeneratorWorking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PortfolioGeneratorWorking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PosiionGeneratorWorking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ArraysAndStrings/PosiionGeneratorWorking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/FindAllPairsOfElementWhoseMultiplicationIsEqualToGivenNO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/JavaProgramToPrintStringInGivenFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArrayListPrograms.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JavaConceptOfTheDay/ArrayListPrograms.class" afterDir="false" />
     </list>
     <list id="9fa9d233-0364-4f3d-98ee-746c9e570a47" name="Added Additional" comment="" />
     <list id="4da2316e-6a8c-4e6a-9846-7e6c09a3db06" name="Added comment 7" comment="" />
@@ -96,7 +99,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "com.google.cloudcode.ide_session_index": "20240315_0000",
+    "com.google.cloudcode.ide_session_index": "20240610_0000",
     "last_opened_file_path": "C:/Users/guptvis/OneDrive/OneDrive - MSCI Office 365/Desktop/VisheshProjects/GatlingTest",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
@@ -125,9 +128,22 @@
       <recent name="Java8ReferanceMaterial" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PosiionGeneratorWith5PositionAttribute">
-    <configuration name="PortfolioGeneratorWorking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PortfolioGeneratorWorking" />
+  <component name="RunManager" selected="Application.PosiionGeneratorWith10PositionInsAttribute">
+    <configuration name="PosiionGeneratorWith10PositionInsAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith10PositionInsAttribute" />
+      <module name="JavaPractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PosiionGeneratorWith10PositionInsAttributeWithoutBlob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith10PositionInsAttributeWithoutBlob" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -152,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PosiionGeneratorWorking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWorking" />
+    <configuration name="PosiionGeneratorWith5PositionAttributeWithoutBlob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.PosiionGeneratorWith5PositionAttributeWithoutBlob" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
@@ -165,49 +181,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8ReferanceCode.testOptional" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TreeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysAndStrings.TreeGenerator" />
       <module name="JavaPractise" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java8ReferanceMaterial.*" />
+          <option name="PATTERN" value="ArraysAndStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Java8ReferanceMaterial" />
-      <option name="MAIN_CLASS_NAME" value="Java8ReferanceMaterial.Java8ReferanceCode" />
-      <option name="METHOD_NAME" value="testOptional" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapToPointsToReferanceOfMap1.maptoPointsToMap1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaConceptOfTheDay.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="JavaConceptOfTheDay" />
-      <option name="MAIN_CLASS_NAME" value="JavaConceptOfTheDay.MapToPointsToReferanceOfMap1" />
-      <option name="METHOD_NAME" value="maptoPointsToMap1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PosiionGeneratorWith10PositionInsAttribute" />
+        <item itemvalue="Application.PosiionGeneratorWith10PositionInsAttributeWithoutBlob" />
         <item itemvalue="Application.PosiionGeneratorWith5PositionAttribute" />
-        <item itemvalue="Application.PosiionGeneratorWorking" />
-        <item itemvalue="Application.PortfolioGeneratorWorking" />
-        <item itemvalue="TestNG.Java8ReferanceCode.testOptional" />
-        <item itemvalue="TestNG.MapToPointsToReferanceOfMap1.maptoPointsToMap1" />
+        <item itemvalue="Application.PosiionGeneratorWith5PositionAttributeWithoutBlob" />
+        <item itemvalue="Application.TreeGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -309,6 +302,17 @@
       <workItem from="1708767367273" duration="599000" />
       <workItem from="1708922035258" duration="656000" />
       <workItem from="1710489306683" duration="4190000" />
+      <workItem from="1710929484959" duration="4716000" />
+      <workItem from="1711521979576" duration="12127000" />
+      <workItem from="1712293894059" duration="1588000" />
+      <workItem from="1713073704963" duration="1615000" />
+      <workItem from="1713504475306" duration="3734000" />
+      <workItem from="1714123179489" duration="1175000" />
+      <workItem from="1714306739807" duration="11378000" />
+      <workItem from="1715005620681" duration="643000" />
+      <workItem from="1715061059689" duration="10867000" />
+      <workItem from="1717394793481" duration="637000" />
+      <workItem from="1717994956413" duration="594000" />
     </task>
     <servers />
   </component>

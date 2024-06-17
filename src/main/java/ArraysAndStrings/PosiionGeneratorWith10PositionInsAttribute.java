@@ -9,10 +9,12 @@ import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class PosiionGeneratorWith5PositionAttribute {
+public class PosiionGeneratorWith10PositionInsAttribute {
 
     private static final Map<String, List<String>> IDENTIFIER_POOL = new HashMap<>();
     private static final List<Map<String, Integer>> ATTR_POOL = new ArrayList<>();
+
+    private static final List<Map<String, Integer>> INSTR_ATTR_POOL = new ArrayList<>();
     private static final List<Map<String, Integer>> INTERNAL_ATTR_POOL = new ArrayList<>();
 
     static {
@@ -20,19 +22,40 @@ public class PosiionGeneratorWith5PositionAttribute {
         IDENTIFIER_POOL.put("cusip", new ArrayList<>(Arrays.asList("US49", "US50", "EU49", "EU50")));
         IDENTIFIER_POOL.put("sedol", new ArrayList<>(Arrays.asList("XYZ00", "XYZ01", "XYZ02", "XYZ03")));
 
-        // Update ATTR_POOL to include 5 attributes
+        // 10 Position Attributes
         ATTR_POOL.add(Collections.singletonMap("ant", 1));
         ATTR_POOL.add(Collections.singletonMap("bat", 2));
         ATTR_POOL.add(Collections.singletonMap("cat", 3));
         ATTR_POOL.add(Collections.singletonMap("dog", 4));
         ATTR_POOL.add(Collections.singletonMap("elephant", 5));
+        ATTR_POOL.add(Collections.singletonMap("Ann Arbor", 6));
+        ATTR_POOL.add(Collections.singletonMap("Boston", 7));
+        ATTR_POOL.add(Collections.singletonMap("Chicago", 8));
+        ATTR_POOL.add(Collections.singletonMap("Denver", 9));
+        ATTR_POOL.add(Collections.singletonMap("El Paso", 10));
+
+        //14 Instrument Attributes
+        INSTR_ATTR_POOL.add(Collections.singletonMap("ant1", 1));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("bat1", 2));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("cat1", 3));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("dog1", 4));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("elephant1", 5));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Ann Arbor1", 6));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Boston1", 7));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Chicago1", 8));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Denver1", 9));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("El Paso1", 10));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Mumbai1", 11));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Chennai1", 12));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Delhi1", 13));
+        INSTR_ATTR_POOL.add(Collections.singletonMap("Pune1", 14));
 
         // Update INTERNAL_ATTR_POOL to include 5 internal attributes
-        INTERNAL_ATTR_POOL.add(Collections.singletonMap("Ann Arbor", 1));
+    /*    INTERNAL_ATTR_POOL.add(Collections.singletonMap("Ann Arbor", 1));
         INTERNAL_ATTR_POOL.add(Collections.singletonMap("Boston", 2));
         INTERNAL_ATTR_POOL.add(Collections.singletonMap("Chicago", 3));
         INTERNAL_ATTR_POOL.add(Collections.singletonMap("Denver", 4));
-        INTERNAL_ATTR_POOL.add(Collections.singletonMap("El Paso", 5));
+        INTERNAL_ATTR_POOL.add(Collections.singletonMap("El Paso", 5));*/
     }
 
     private static final String[] CURRENCIES = {"USD", "EUR", "GBP", "CHF", "JPY"};
@@ -90,14 +113,14 @@ public class PosiionGeneratorWith5PositionAttribute {
             primaryId.put("id", "IMSJ" + positionId);
             primaryId.put("idType", instrumentIdType.toUpperCase());
             instrument.put("primaryId", primaryId);
-            instrument.put("attributes", getRandomAttributes(ATTR_POOL, 1)); // Ensure 1 attributes
-            instrument.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 1)); // Ensure 1 internal attributes
+            instrument.put("attributes", getRandomAttributes(INSTR_ATTR_POOL, 14)); // Ensure 1 attributes
+          //  instrument.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 1)); // Ensure 1 internal attributes
             instrument.put("blobType","RML3");
             instrument.put("blobData","BMSJ");
 
             position.put("instrument", instrument);
-            position.put("attributes", getRandomAttributes(ATTR_POOL, 5)); // Ensure 5 attributes
-            position.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 5)); // Ensure 5 internal attributes
+            position.put("attributes", getRandomAttributes(ATTR_POOL, 10)); // Ensure 5 attributes
+         //   position.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 5)); // Ensure 5 internal attributes
 
             positions.add(position);
         }

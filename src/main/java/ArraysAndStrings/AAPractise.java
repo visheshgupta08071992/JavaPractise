@@ -531,5 +531,29 @@ public class AAPractise {
         System.out.println(list);
     }
 
+    @Test
+    public void checkArm(){
+        int inputNumber=408;
+        int inputNumberCopy=inputNumber;
+        int len = String.valueOf(inputNumber).length();
+        int sum=0;
+
+        while(inputNumber>0){
+            int no = inputNumber%10;
+            int prodNo=1;
+            for(int i=1;i<=len;i++){
+                prodNo = prodNo * no;
+            }
+            sum = sum + prodNo;
+            inputNumber= inputNumber/10;
+        }
+
+        if(inputNumberCopy==sum){
+            System.out.println("Armstrong");
+        }
+        else{
+            System.out.println("No Armstrong");
+        }
+    }
 }
 

@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class PosiionGeneratorWith5PositionAttribute {
+public class PosiionGeneratorWith5PositionAttributeWithoutBlob {
 
     private static final Map<String, List<String>> IDENTIFIER_POOL = new HashMap<>();
     private static final List<Map<String, Integer>> ATTR_POOL = new ArrayList<>();
@@ -80,7 +80,7 @@ public class PosiionGeneratorWith5PositionAttribute {
             String instrumentId = getRandomElement(IDENTIFIER_POOL.get(instrumentIdType)) ;
 
             Map<String, Object> position = new LinkedHashMap<>();
-            position.put("id", positionIdPrefix + "PMSJ"+ positionId); // //(int) (Math.random() * 10) % 5)
+            position.put("id", positionIdPrefix + "PMSJ" + positionId);
             position.put("quantity", getRandomInt(0, 1000));
             position.put("quantityType", "NumShares");
 
@@ -92,8 +92,6 @@ public class PosiionGeneratorWith5PositionAttribute {
             instrument.put("primaryId", primaryId);
             instrument.put("attributes", getRandomAttributes(ATTR_POOL, 1)); // Ensure 1 attributes
             instrument.put("internalAttributes", getRandomAttributes(INTERNAL_ATTR_POOL, 1)); // Ensure 1 internal attributes
-            instrument.put("blobType","RML3");
-            instrument.put("blobData","BMSJ");
 
             position.put("instrument", instrument);
             position.put("attributes", getRandomAttributes(ATTR_POOL, 5)); // Ensure 5 attributes
