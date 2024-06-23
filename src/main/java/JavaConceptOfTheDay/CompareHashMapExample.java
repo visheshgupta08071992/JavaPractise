@@ -15,7 +15,6 @@ public class CompareHashMapExample {
 	//	dstMap.put("Key3", "Value3");
 
 		CompareHashMapExample hashMapExample = new CompareHashMapExample();
-
 		// call areEqual method
 		System.out.println("Are two HashMap equals :: " + hashMapExample.areEqual(sourceMap, dstMap));
 	}

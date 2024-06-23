@@ -43,7 +43,7 @@ public class ContinuousSubArray {
 		int sum=arr[0];
 		for(int i=1;i<arr.length;i++){
 			sum=sum + arr[i];
-			while(sum>inputNumber && start<=i-1){
+			while(sum>inputNumber && start<i){
 				sum=sum-arr[start];
 				start++;
 			}
