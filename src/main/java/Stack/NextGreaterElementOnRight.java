@@ -31,6 +31,10 @@ PeepCoding - https://www.pepcoding.com/resources/online-java-foundation/stacks-a
 
 Aditya Verma Solution:https://www.youtube.com/watch?v=NXOOYYwpbg4&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&index=3
 
+https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+
+
 * */
 
 public class NextGreaterElementOnRight {
