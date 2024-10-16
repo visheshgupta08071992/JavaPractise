@@ -6,6 +6,7 @@ import java.util.Arrays;
 import java.util.Stack;
 
 //Aditya Verma - https://www.youtube.com/watch?v=nc1AYFyvOR4&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&index=5
+//https://www.geeksforgeeks.org/problems/help-classmates--141631/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
 public class NextSmallerOnRight {
 
 
