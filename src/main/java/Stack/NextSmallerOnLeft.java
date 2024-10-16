@@ -7,6 +7,9 @@ import java.util.Map;
 import java.util.Stack;
 
 //Aditya Verma -https://www.youtube.com/watch?v=85LWui3FlVk&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&index=4
+//https://www.geeksforgeeks.org/problems/smallest-number-on-left3403/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+
 
 public class NextSmallerOnLeft {
 
