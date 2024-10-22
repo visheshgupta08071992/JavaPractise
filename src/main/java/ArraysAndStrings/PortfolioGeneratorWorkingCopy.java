@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.*;
 import java.util.concurrent.ThreadLocalRandom;
 
-public class PortfolioGeneratorWorking {
+public class PortfolioGeneratorWorkingCopy {
 
     private static final Map<String, List<String>> IDENTIFIER_POOL = new HashMap<>();
     private static final List<Map<String, Integer>> ATTR_POOL = new ArrayList<>();
@@ -78,7 +78,7 @@ public class PortfolioGeneratorWorking {
             String portfolioIdPrefix = isInvalidPortfolio ? "?" : "";
 
             Map<String, Object> portfolio = new LinkedHashMap<>();
-            portfolio.put("id", portfolioIdPrefix + "PORT" + portfolioId);
+            portfolio.put("id", portfolioIdPrefix + "Wide" + portfolioId);
             portfolio.put("portfolioType", "Base");
             portfolio.put("name", "Name-" + portfolioId);
             portfolio.put("description", "Sample Portfolio " + portfolioId);
@@ -111,7 +111,7 @@ public class PortfolioGeneratorWorking {
 
                 Map<String, Object> instrument = new HashMap<>();
                 Map<String, Object> primaryId = new HashMap<>();
-                primaryId.put("id", "IMSJ" + positionId);
+                primaryId.put("id", "IMSJ");
                // primaryId.put("idType", instrumentIdType.toUpperCase());
                 primaryId.put("idType", "ISIN");
                 instrument.put("primaryId", primaryId);
