@@ -78,7 +78,7 @@ public class PortfolioGeneratorWorking {
             String portfolioIdPrefix = isInvalidPortfolio ? "?" : "";
 
             Map<String, Object> portfolio = new LinkedHashMap<>();
-            portfolio.put("id", portfolioIdPrefix + "PTSJ" + portfolioId);
+            portfolio.put("id", portfolioIdPrefix + "PORT" + portfolioId);
             portfolio.put("portfolioType", "Base");
             portfolio.put("name", "Name-" + portfolioId);
             portfolio.put("description", "Sample Portfolio " + portfolioId);
