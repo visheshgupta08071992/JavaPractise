@@ -49,4 +49,25 @@ public class CountDistinctElementInEveryWindow {
         }
         System.out.println(list);
     }
+
+    @Test
+    public void countDistinctElementInEveryWindowUsingSet(){
+        int [] arr={1,2,1,3,4,2,3};
+        int k=4;
+        ArrayList<Integer> list = new ArrayList<>();
+        int j=0;
+        Set<Integer> set = new HashSet<>();
+        for(int i=0;i<=arr.length - k;i++){
+
+            while(j<k){
+                set.add(arr[i+j]);
+                j++;
+            }
+            j=0;
+            list.add(set.size());
+            set.clear();
+        }
+        System.out.println(list);;
+    }
+    
 }
