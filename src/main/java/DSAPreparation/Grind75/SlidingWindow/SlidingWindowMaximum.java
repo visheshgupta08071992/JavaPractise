@@ -41,27 +41,23 @@ import java.util.Stack;
 
 public class SlidingWindowMaximum {
 
-    @Test
-    public void bruteForce(){
-        int [] nums={1,3,-1,-3,5,3,6,7};
-        int k=3;
-        List<Integer> list = new ArrayList<>();
-        int [] result = new int[nums.length - k + 1];
+   @Test
+    public void bruteForce() {
+        int[] nums = {1, 3, -1, -3, 5, 3, 6, 7};
+        int k = 3;
         int max;
+        List<Integer> list = new ArrayList<>();
 
-        for(int i=0;i<=nums.length - k;i++){
+        for(int i=0;i<=nums.length-k;i++){
             max=Integer.MIN_VALUE;
-            for(int j=i,count=1;count<=k;j++,count++){
-                if(nums[j] > max){
-                    max = nums[j];
+            for(int j=0;j<k;j++){
+                if(nums[i+j]>max){
+                    max=nums[i+j];
                 }
             }
             list.add(max);
         }
-        for(int i=0;i<list.size();i++){
-            result[i]=list.get(i);
-        }
-        System.out.println(Arrays.toString(result));
+        System.out.println(list);
     }
 
     @Test
