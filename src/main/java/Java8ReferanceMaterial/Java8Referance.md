@@ -135,6 +135,8 @@ In Java 8, the reduce() method is part of the Stream API and can be used to redu
 
 7.**Optional class**
 
+Optional Class was introduced in Java 8 and was basically added to avoid likelihood of NullPointerException. There can be instances where value of Object can be present or not present.To handle cases where the value of Object is Null, Optional class was introduced to handle such cases.
+
 Optional Class is added in Java 8. There are scenarios when the value of Object can be either present or not present,So value can be null. In that case its tricky to write lot of checks and those checks are not readable. Optional can handle these scenario when the value is present or when the value is not present. You can create an optional object with **Optional.of(object)** and **Optional.ofNullable(object)** . If you are very sure that value of object would not be null only then use **Optional.of** . Else it is always better to use **Optional.ofNullable** . To get the value we need to call get method of Optional
 
 
