@@ -2,6 +2,8 @@ package JavaConceptOfTheDay;
 
 // Check Aditya Verma's Youtube video
 
+//https://leetcode.com/problems/find-missing-and-repeated-values/
+
 //Find the missing and duplicate no in an Array of 1 to N
 // Array 1 to N means that array would contain only elements from 1 to N. N is the size of an array.
 
@@ -46,5 +48,32 @@ public class AdityaVermaMissingAndDuplicateNoInAnArrayOf1ToN {
 				System.out.println("Missing no is  " + missingNo + " while the duplicate No is  " + input[j]);
 			}
 		}
+	}
+
+	@Test
+	public void findMissingAndDuplicateNosUsingListAndSet() {
+		int input[] = {7, 2, 1, 1, 4, 6, 7, 3};
+		List<Integer> list = new ArrayList<>();
+		Set<Integer> set = new HashSet<>();
+		List<Integer> missingNo = new ArrayList<>();
+		Set<Integer> duplicateNo = new HashSet<>();
+
+
+		for(int i:input){
+			list.add(i);
+
+		}
+
+		for(int i=0;i<input.length;i++){
+			if(!list.contains(i+1)){
+				missingNo.add(i+1);
+			}
+			if(!set.add(input[i])){
+				duplicateNo.add(input[i]);
+			}
+
+		}
+		System.out.println("Misisng Nos are " + missingNo);
+		System.out.println("Duplicate Nos are " + duplicateNo);
 	}
 }
